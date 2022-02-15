@@ -39,4 +39,4 @@ class User_Models(models.Model):
     )
 
     def __str__(self):
-        return self.user_id
+        return self.user_id 
