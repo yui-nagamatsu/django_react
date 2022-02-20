@@ -1,206 +1,40 @@
-from math import atanh
 from django.db import models
 
 # Create your models here.
 
 # perとnatはよくわからないので、numberで一括りにした。
 # "LK/GK", "EV Worth", "EXPV"は不明なので、無視。
-class Pokemon_Models(models.Model):
+class Pokemon(models.Model):
     
     
     class Meta:
-        db_table = 'Pokemon'
+        db_table = 'pokemon'
 
-    pokemon_number = models.CharField(
-        verbose_name='Number',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
+    number = models.IntegerField(verbose_name="Number")
 
-    pokemon_name = models.CharField(
-        verbose_name='Name',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
+    name = models.CharField(verbose_name="Name", max_length=25)
 
-    hp = models.CharField(
-        verbose_name='HP',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
+    type1 = models.CharField(verbose_name="Type1", max_length=25)
 
-    atk = models.CharField(
-        verbose_name='Attack',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
+    type2 = models.CharField(verbose_name="Type2", max_length=25, default='')
 
-    dfs = models.CharField(
-        verbose_name='Defense',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
+    total = models.IntegerField(verbose_name="Total")
 
-    spatk = models.CharField(
-        verbose_name='Special Attack',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
+    heart_point = models.IntegerField(verbose_name="HP")
 
-    spdfs = models.CharField(
-        verbose_name='Special Defense',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
+    attack = models.IntegerField(verbose_name="Attack")
 
-    spe = models.CharField(
-        verbose_name='Speed',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
+    defense = models.IntegerField(verbose_name="Defense")
 
-    total = models.CharField(
-        verbose_name='Total',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
+    special_attack = models.IntegerField(verbose_name="Special Attack")
 
-    type_1 = models.CharField(
-        verbose_name='Type I',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
+    special_defense = models.IntegerField(verbose_name="Special Defense")
 
-    type_2 = models.CharField(
-        verbose_name='Type II',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
+    speed = models.IntegerField(verbose_name="Speed")
 
-    tier = models.CharField(
-        verbose_name='Tier',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
+    generation = models.IntegerField(verbose_name="The generation in which this pokemon first appears.")
 
-    ability_1 = models.CharField(
-        verbose_name='Ability I',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
-
-    ability_2 = models.CharField(
-        verbose_name='Ability II',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
-
-    hidden_ability = models.CharField(
-        verbose_name='Hidden Ability',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
-
-    weight = models.CharField(
-        verbose_name='Weight',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
-
-    color = models.CharField(
-        verbose_name='Color',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
-
-    hatch = models.CharField(
-        verbose_name='Hatch',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
-
-    gender = models.CharField(
-        verbose_name='Gender',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
-
-    egg_group_1 = models.CharField(
-        verbose_name='Egg Group I',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
-    egg_group_2 = models.CharField(
-        verbose_name='Egg Group II',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
-
-    catch = models.CharField(
-        verbose_name='Catch',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
-
-    exp = models.CharField(
-        verbose_name='EXP',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
-
-    evolve = models.CharField(
-        verbose_name='Evolve',
-        blank=True,
-        null=True,
-        max_length=225,
-        default='',
-    )
+    is_legendary = models.BooleanField(verbose_name="If this pokemon is legendary or not.")
 
     def __str__(self):
-        return self.pokemon_number
+        return self.name
