@@ -1,6 +1,6 @@
 [
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
       "number": 1,
       "name": "Bulbasaur",
@@ -19,7 +19,7 @@
   },
   
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 2,
     "name": "Ivysaur",
@@ -36,7 +36,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 3,
     "name": "Venusaur",
@@ -53,7 +53,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 4,
     "name": "Charmander",
@@ -70,7 +70,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 5,
     "name": "Charmeleon",
@@ -87,7 +87,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 6,
     "name": "Charizard",
@@ -104,7 +104,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 7,
     "name": "Squirtle",
@@ -121,7 +121,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 8,
     "name": "Wartortle",
@@ -138,7 +138,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 9,
     "name": "Blastoise",
@@ -155,7 +155,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 10,
     "name": "Caterpie",
@@ -172,7 +172,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 11,
     "name": "Metapod",
@@ -189,7 +189,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 12,
     "name": "Butterfree",
@@ -206,7 +206,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 13,
     "name": "Weedle",
@@ -223,7 +223,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 14,
     "name": "Kakuna",
@@ -240,7 +240,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 15,
     "name": "Beedrill",
@@ -257,7 +257,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 16,
     "name": "Pidgey",
@@ -274,7 +274,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 17,
     "name": "Pidgeotto",
@@ -291,7 +291,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 18,
     "name": "Pidgeot",
@@ -308,7 +308,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 19,
     "name": "Rattata",
@@ -325,7 +325,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 20,
     "name": "Raticate",
@@ -342,7 +342,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 21,
     "name": "Spearow",
@@ -359,7 +359,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 22,
     "name": "Fearow",
@@ -376,7 +376,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 23,
     "name": "Ekans",
@@ -393,7 +393,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 24,
     "name": "Arbok",
@@ -410,7 +410,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 25,
     "name": "Pikachu",
@@ -427,7 +427,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 26,
     "name": "Raichu",
@@ -444,7 +444,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 27,
     "name": "Sandshrew",
@@ -461,7 +461,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 28,
     "name": "Sandslash",
@@ -478,7 +478,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 29,
     "name": "Nidoran♀",
@@ -495,7 +495,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 30,
     "name": "Nidorina",
@@ -512,7 +512,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 31,
     "name": "Nidoqueen",
@@ -529,7 +529,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 32,
     "name": "Nidoran♂",
@@ -546,7 +546,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 33,
     "name": "Nidorino",
@@ -563,7 +563,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 34,
     "name": "Nidoking",
@@ -580,7 +580,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 35,
     "name": "Clefairy",
@@ -597,7 +597,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 36,
     "name": "Clefable",
@@ -614,7 +614,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 37,
     "name": "Vulpix",
@@ -631,7 +631,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 38,
     "name": "Ninetales",
@@ -648,7 +648,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 39,
     "name": "Jigglypuff",
@@ -665,7 +665,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 40,
     "name": "Wigglytuff",
@@ -682,7 +682,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 41,
     "name": "Zubat",
@@ -699,7 +699,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 42,
     "name": "Golbat",
@@ -716,7 +716,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 43,
     "name": "Oddish",
@@ -733,7 +733,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 44,
     "name": "Gloom",
@@ -750,7 +750,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 45,
     "name": "Vileplume",
@@ -767,7 +767,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 46,
     "name": "Paras",
@@ -784,7 +784,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 47,
     "name": "Parasect",
@@ -801,7 +801,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 48,
     "name": "Venonat",
@@ -818,7 +818,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 49,
     "name": "Venomoth",
@@ -835,7 +835,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 50,
     "name": "Diglett",
@@ -852,7 +852,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 51,
     "name": "Dugtrio",
@@ -869,7 +869,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 52,
     "name": "Meowth",
@@ -886,7 +886,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 53,
     "name": "Persian",
@@ -903,7 +903,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 54,
     "name": "Psyduck",
@@ -920,7 +920,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 55,
     "name": "Golduck",
@@ -937,7 +937,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 56,
     "name": "Mankey",
@@ -954,7 +954,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 57,
     "name": "Primeape",
@@ -971,7 +971,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 58,
     "name": "Growlithe",
@@ -988,7 +988,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 59,
     "name": "Arcanine",
@@ -1005,7 +1005,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 60,
     "name": "Poliwag",
@@ -1022,7 +1022,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 61,
     "name": "Poliwhirl",
@@ -1039,7 +1039,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 62,
     "name": "Poliwrath",
@@ -1056,7 +1056,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 63,
     "name": "Abra",
@@ -1073,7 +1073,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 64,
     "name": "Kadabra",
@@ -1090,7 +1090,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 65,
     "name": "Alakazam",
@@ -1107,7 +1107,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 66,
     "name": "Machop",
@@ -1124,7 +1124,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 67,
     "name": "Machoke",
@@ -1141,7 +1141,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 68,
     "name": "Machamp",
@@ -1158,7 +1158,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 69,
     "name": "Bellsprout",
@@ -1175,7 +1175,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 70,
     "name": "Weepinbell",
@@ -1192,7 +1192,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 71,
     "name": "Victreebel",
@@ -1209,7 +1209,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 72,
     "name": "Tentacool",
@@ -1226,7 +1226,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 73,
     "name": "Tentacruel",
@@ -1243,7 +1243,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 74,
     "name": "Geodude",
@@ -1260,7 +1260,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 75,
     "name": "Graveler",
@@ -1277,7 +1277,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 76,
     "name": "Golem",
@@ -1294,7 +1294,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 77,
     "name": "Ponyta",
@@ -1311,7 +1311,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 78,
     "name": "Rapidash",
@@ -1328,7 +1328,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 79,
     "name": "Slowpoke",
@@ -1345,7 +1345,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 80,
     "name": "Slowbro",
@@ -1362,7 +1362,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 81,
     "name": "Magnemite",
@@ -1379,7 +1379,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 82,
     "name": "Magneton",
@@ -1396,7 +1396,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 83,
     "name": "Farfetch'd",
@@ -1413,7 +1413,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 84,
     "name": "Doduo",
@@ -1430,7 +1430,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 85,
     "name": "Dodrio",
@@ -1447,7 +1447,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 86,
     "name": "Seel",
@@ -1464,7 +1464,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 87,
     "name": "Dewgong",
@@ -1481,7 +1481,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 88,
     "name": "Grimer",
@@ -1498,7 +1498,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 89,
     "name": "Muk",
@@ -1515,7 +1515,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 90,
     "name": "Shellder",
@@ -1532,7 +1532,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 91,
     "name": "Cloyster",
@@ -1549,7 +1549,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 92,
     "name": "Gastly",
@@ -1566,7 +1566,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 93,
     "name": "Haunter",
@@ -1583,7 +1583,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 94,
     "name": "Gengar",
@@ -1600,7 +1600,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 95,
     "name": "Onix",
@@ -1617,7 +1617,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 96,
     "name": "Drowzee",
@@ -1634,7 +1634,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 97,
     "name": "Hypno",
@@ -1651,7 +1651,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 98,
     "name": "Krabby",
@@ -1668,7 +1668,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 99,
     "name": "Kingler",
@@ -1685,7 +1685,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 100,
     "name": "Voltorb",
@@ -1702,7 +1702,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 101,
     "name": "Electrode",
@@ -1719,7 +1719,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 102,
     "name": "Exeggcute",
@@ -1736,7 +1736,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 103,
     "name": "Exeggutor",
@@ -1753,7 +1753,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 104,
     "name": "Cubone",
@@ -1770,7 +1770,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 105,
     "name": "Marowak",
@@ -1787,7 +1787,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 106,
     "name": "Hitmonlee",
@@ -1804,7 +1804,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 107,
     "name": "Hitmonchan",
@@ -1821,7 +1821,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 108,
     "name": "Lickitung",
@@ -1838,7 +1838,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 109,
     "name": "Koffing",
@@ -1855,7 +1855,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 110,
     "name": "Weezing",
@@ -1872,7 +1872,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 111,
     "name": "Rhyhorn",
@@ -1889,7 +1889,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 112,
     "name": "Rhydon",
@@ -1906,7 +1906,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 113,
     "name": "Chansey",
@@ -1923,7 +1923,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 114,
     "name": "Tangela",
@@ -1940,7 +1940,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 115,
     "name": "Kangaskhan",
@@ -1957,7 +1957,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 116,
     "name": "Horsea",
@@ -1974,7 +1974,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 117,
     "name": "Seadra",
@@ -1991,7 +1991,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 118,
     "name": "Goldeen",
@@ -2008,7 +2008,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 119,
     "name": "Seaking",
@@ -2025,7 +2025,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 120,
     "name": "Staryu",
@@ -2042,7 +2042,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 121,
     "name": "Starmie",
@@ -2059,7 +2059,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 122,
     "name": "Mr. Mime",
@@ -2076,7 +2076,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 123,
     "name": "Scyther",
@@ -2093,7 +2093,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 124,
     "name": "Jynx",
@@ -2110,7 +2110,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 125,
     "name": "Electabuzz",
@@ -2127,7 +2127,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 126,
     "name": "Magmar",
@@ -2144,7 +2144,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 127,
     "name": "Pinsir",
@@ -2161,7 +2161,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 128,
     "name": "Tauros",
@@ -2178,7 +2178,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 129,
     "name": "Magikarp",
@@ -2195,7 +2195,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 130,
     "name": "Gyarados",
@@ -2212,7 +2212,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 131,
     "name": "Lapras",
@@ -2229,7 +2229,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 132,
     "name": "Ditto",
@@ -2246,7 +2246,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 133,
     "name": "Eevee",
@@ -2263,7 +2263,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 134,
     "name": "Vaporeon",
@@ -2280,7 +2280,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 135,
     "name": "Jolteon",
@@ -2297,7 +2297,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 136,
     "name": "Flareon",
@@ -2314,7 +2314,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 137,
     "name": "Porygon",
@@ -2331,7 +2331,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 138,
     "name": "Omanyte",
@@ -2348,7 +2348,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 139,
     "name": "Omastar",
@@ -2365,7 +2365,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 140,
     "name": "Kabuto",
@@ -2382,7 +2382,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 141,
     "name": "Kabutops",
@@ -2399,7 +2399,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 142,
     "name": "Aerodactyl",
@@ -2416,7 +2416,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 143,
     "name": "Snorlax",
@@ -2433,7 +2433,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 144,
     "name": "Articuno",
@@ -2450,7 +2450,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 145,
     "name": "Zapdos",
@@ -2467,7 +2467,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 146,
     "name": "Moltres",
@@ -2484,7 +2484,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 147,
     "name": "Dratini",
@@ -2501,7 +2501,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 148,
     "name": "Dragonair",
@@ -2518,7 +2518,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 149,
     "name": "Dragonite",
@@ -2535,7 +2535,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 150,
     "name": "Mewtwo",
@@ -2552,7 +2552,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 151,
     "name": "Mew",
@@ -2569,7 +2569,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 152,
     "name": "Chikorita",
@@ -2586,7 +2586,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 153,
     "name": "Bayleef",
@@ -2603,7 +2603,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 154,
     "name": "Meganium",
@@ -2620,7 +2620,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 155,
     "name": "Cyndaquil",
@@ -2637,7 +2637,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 156,
     "name": "Quilava",
@@ -2654,7 +2654,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 157,
     "name": "Typhlosion",
@@ -2671,7 +2671,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 158,
     "name": "Totodile",
@@ -2688,7 +2688,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 159,
     "name": "Croconaw",
@@ -2705,7 +2705,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 160,
     "name": "Feraligatr",
@@ -2722,7 +2722,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 161,
     "name": "Sentret",
@@ -2739,7 +2739,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 162,
     "name": "Furret",
@@ -2756,7 +2756,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 163,
     "name": "Hoothoot",
@@ -2773,7 +2773,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 164,
     "name": "Noctowl",
@@ -2790,7 +2790,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 165,
     "name": "Ledyba",
@@ -2807,7 +2807,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 166,
     "name": "Ledian",
@@ -2824,7 +2824,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 167,
     "name": "Spinarak",
@@ -2841,7 +2841,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 168,
     "name": "Ariados",
@@ -2858,7 +2858,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 169,
     "name": "Crobat",
@@ -2875,7 +2875,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 170,
     "name": "Chinchou",
@@ -2892,7 +2892,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 171,
     "name": "Lanturn",
@@ -2909,7 +2909,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 172,
     "name": "Pichu",
@@ -2926,7 +2926,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 173,
     "name": "Cleffa",
@@ -2943,7 +2943,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 174,
     "name": "Igglybuff",
@@ -2960,7 +2960,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 175,
     "name": "Togepi",
@@ -2977,7 +2977,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 176,
     "name": "Togetic",
@@ -2994,7 +2994,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 177,
     "name": "Natu",
@@ -3011,7 +3011,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 178,
     "name": "Xatu",
@@ -3028,7 +3028,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 179,
     "name": "Mareep",
@@ -3045,7 +3045,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 180,
     "name": "Flaaffy",
@@ -3062,7 +3062,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 181,
     "name": "Ampharos",
@@ -3079,7 +3079,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 182,
     "name": "Bellossom",
@@ -3096,7 +3096,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 183,
     "name": "Marill",
@@ -3113,7 +3113,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 184,
     "name": "Azumarill",
@@ -3130,7 +3130,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 185,
     "name": "Sudowoodo",
@@ -3147,7 +3147,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 186,
     "name": "Politoed",
@@ -3164,7 +3164,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 187,
     "name": "Hoppip",
@@ -3181,7 +3181,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 188,
     "name": "Skiploom",
@@ -3198,7 +3198,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 189,
     "name": "Jumpluff",
@@ -3215,7 +3215,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 190,
     "name": "Aipom",
@@ -3232,7 +3232,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 191,
     "name": "Sunkern",
@@ -3249,7 +3249,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 192,
     "name": "Sunflora",
@@ -3266,7 +3266,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 193,
     "name": "Yanma",
@@ -3283,7 +3283,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 194,
     "name": "Wooper",
@@ -3300,7 +3300,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 195,
     "name": "Quagsire",
@@ -3317,7 +3317,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 196,
     "name": "Espeon",
@@ -3334,7 +3334,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 197,
     "name": "Umbreon",
@@ -3351,7 +3351,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 198,
     "name": "Murkrow",
@@ -3368,7 +3368,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 199,
     "name": "Slowking",
@@ -3385,7 +3385,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 200,
     "name": "Misdreavus",
@@ -3402,7 +3402,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 201,
     "name": "Unown",
@@ -3419,7 +3419,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 202,
     "name": "Wobbuffet",
@@ -3436,7 +3436,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 203,
     "name": "Girafarig",
@@ -3453,7 +3453,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 204,
     "name": "Pineco",
@@ -3470,7 +3470,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 205,
     "name": "Forretress",
@@ -3487,7 +3487,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 206,
     "name": "Dunsparce",
@@ -3504,7 +3504,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 207,
     "name": "Gligar",
@@ -3521,7 +3521,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 208,
     "name": "Steelix",
@@ -3538,7 +3538,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 209,
     "name": "Snubbull",
@@ -3555,7 +3555,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 210,
     "name": "Granbull",
@@ -3572,7 +3572,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 211,
     "name": "Qwilfish",
@@ -3589,7 +3589,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 212,
     "name": "Scizor",
@@ -3606,7 +3606,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 213,
     "name": "Shuckle",
@@ -3623,7 +3623,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 214,
     "name": "Heracross",
@@ -3640,7 +3640,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 215,
     "name": "Sneasel",
@@ -3657,7 +3657,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 216,
     "name": "Teddiursa",
@@ -3674,7 +3674,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 217,
     "name": "Ursaring",
@@ -3691,7 +3691,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 218,
     "name": "Slugma",
@@ -3708,7 +3708,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 219,
     "name": "Magcargo",
@@ -3725,7 +3725,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 220,
     "name": "Swinub",
@@ -3742,7 +3742,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 221,
     "name": "Piloswine",
@@ -3759,7 +3759,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 222,
     "name": "Corsola",
@@ -3776,7 +3776,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 223,
     "name": "Remoraid",
@@ -3793,7 +3793,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 224,
     "name": "Octillery",
@@ -3810,7 +3810,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 225,
     "name": "Delibird",
@@ -3827,7 +3827,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 226,
     "name": "Mantine",
@@ -3844,7 +3844,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 227,
     "name": "Skarmory",
@@ -3861,7 +3861,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 228,
     "name": "Houndour",
@@ -3878,7 +3878,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 229,
     "name": "Houndoom",
@@ -3895,7 +3895,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 230,
     "name": "Kingdra",
@@ -3912,7 +3912,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 231,
     "name": "Phanpy",
@@ -3929,7 +3929,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 232,
     "name": "Donphan",
@@ -3946,7 +3946,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 233,
     "name": "Porygon2",
@@ -3963,7 +3963,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 234,
     "name": "Stantler",
@@ -3980,7 +3980,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 235,
     "name": "Smeargle",
@@ -3997,7 +3997,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 236,
     "name": "Tyrogue",
@@ -4014,7 +4014,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 237,
     "name": "Hitmontop",
@@ -4031,7 +4031,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 238,
     "name": "Smoochum",
@@ -4048,7 +4048,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 239,
     "name": "Elekid",
@@ -4065,7 +4065,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 240,
     "name": "Magby",
@@ -4082,7 +4082,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 241,
     "name": "Miltank",
@@ -4099,7 +4099,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 242,
     "name": "Blissey",
@@ -4116,7 +4116,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 243,
     "name": "Raikou",
@@ -4133,7 +4133,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 244,
     "name": "Entei",
@@ -4150,7 +4150,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 245,
     "name": "Suicune",
@@ -4167,7 +4167,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 246,
     "name": "Larvitar",
@@ -4184,7 +4184,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 247,
     "name": "Pupitar",
@@ -4201,7 +4201,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 248,
     "name": "Tyranitar",
@@ -4218,7 +4218,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 249,
     "name": "Lugia",
@@ -4235,7 +4235,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 250,
     "name": "Ho-oh",
@@ -4252,7 +4252,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 251,
     "name": "Celebi",
@@ -4269,7 +4269,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 252,
     "name": "Treecko",
@@ -4286,7 +4286,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 253,
     "name": "Grovyle",
@@ -4303,7 +4303,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 254,
     "name": "Sceptile",
@@ -4320,7 +4320,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 255,
     "name": "Torchic",
@@ -4337,7 +4337,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 256,
     "name": "Combusken",
@@ -4354,7 +4354,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 257,
     "name": "Blaziken",
@@ -4371,7 +4371,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 258,
     "name": "Mudkip",
@@ -4388,7 +4388,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 259,
     "name": "Marshtomp",
@@ -4405,7 +4405,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 260,
     "name": "Swampert",
@@ -4422,7 +4422,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 261,
     "name": "Poochyena",
@@ -4439,7 +4439,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 262,
     "name": "Mightyena",
@@ -4456,7 +4456,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 263,
     "name": "Zigzagoon",
@@ -4473,7 +4473,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 264,
     "name": "Linoone",
@@ -4490,7 +4490,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 265,
     "name": "Wurmple",
@@ -4507,7 +4507,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 266,
     "name": "Silcoon",
@@ -4524,7 +4524,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 267,
     "name": "Beautifly",
@@ -4541,7 +4541,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 268,
     "name": "Cascoon",
@@ -4558,7 +4558,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 269,
     "name": "Dustox",
@@ -4575,7 +4575,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 270,
     "name": "Lotad",
@@ -4592,7 +4592,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 271,
     "name": "Lombre",
@@ -4609,7 +4609,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 272,
     "name": "Ludicolo",
@@ -4626,7 +4626,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 273,
     "name": "Seedot",
@@ -4643,7 +4643,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 274,
     "name": "Nuzleaf",
@@ -4660,7 +4660,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 275,
     "name": "Shiftry",
@@ -4677,7 +4677,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 276,
     "name": "Taillow",
@@ -4694,7 +4694,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 277,
     "name": "Swellow",
@@ -4711,7 +4711,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 278,
     "name": "Wingull",
@@ -4728,7 +4728,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 279,
     "name": "Pelipper",
@@ -4745,7 +4745,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 280,
     "name": "Ralts",
@@ -4762,7 +4762,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 281,
     "name": "Kirlia",
@@ -4779,7 +4779,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 282,
     "name": "Gardevoir",
@@ -4796,7 +4796,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 283,
     "name": "Surskit",
@@ -4813,7 +4813,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 284,
     "name": "Masquerain",
@@ -4830,7 +4830,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 285,
     "name": "Shroomish",
@@ -4847,7 +4847,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 286,
     "name": "Breloom",
@@ -4864,7 +4864,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 287,
     "name": "Slakoth",
@@ -4881,7 +4881,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 288,
     "name": "Vigoroth",
@@ -4898,7 +4898,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 289,
     "name": "Slaking",
@@ -4915,7 +4915,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 290,
     "name": "Nincada",
@@ -4932,7 +4932,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 291,
     "name": "Ninjask",
@@ -4949,7 +4949,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 292,
     "name": "Shedinja",
@@ -4966,7 +4966,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 293,
     "name": "Whismur",
@@ -4983,7 +4983,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 294,
     "name": "Loudred",
@@ -5000,7 +5000,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 295,
     "name": "Exploud",
@@ -5017,7 +5017,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 296,
     "name": "Makuhita",
@@ -5034,7 +5034,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 297,
     "name": "Hariyama",
@@ -5051,7 +5051,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 298,
     "name": "Azurill",
@@ -5068,7 +5068,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 299,
     "name": "Nosepass",
@@ -5085,7 +5085,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 300,
     "name": "Skitty",
@@ -5102,7 +5102,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 301,
     "name": "Delcatty",
@@ -5119,7 +5119,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 302,
     "name": "Sableye",
@@ -5136,7 +5136,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 303,
     "name": "Mawile",
@@ -5153,7 +5153,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 304,
     "name": "Aron",
@@ -5170,7 +5170,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 305,
     "name": "Lairon",
@@ -5187,7 +5187,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 306,
     "name": "Aggron",
@@ -5204,7 +5204,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 307,
     "name": "Meditite",
@@ -5221,7 +5221,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 308,
     "name": "Medicham",
@@ -5238,7 +5238,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 309,
     "name": "Electrike",
@@ -5255,7 +5255,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 310,
     "name": "Manectric",
@@ -5272,7 +5272,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 311,
     "name": "Plusle",
@@ -5289,7 +5289,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 312,
     "name": "Minun",
@@ -5306,7 +5306,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 313,
     "name": "Volbeat",
@@ -5323,7 +5323,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 314,
     "name": "Illumise",
@@ -5340,7 +5340,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 315,
     "name": "Roselia",
@@ -5357,7 +5357,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 316,
     "name": "Gulpin",
@@ -5374,7 +5374,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 317,
     "name": "Swalot",
@@ -5391,7 +5391,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 318,
     "name": "Carvanha",
@@ -5408,7 +5408,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 319,
     "name": "Sharpedo",
@@ -5425,7 +5425,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 320,
     "name": "Wailmer",
@@ -5442,7 +5442,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 321,
     "name": "Wailord",
@@ -5459,7 +5459,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 322,
     "name": "Numel",
@@ -5476,7 +5476,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 323,
     "name": "Camerupt",
@@ -5493,7 +5493,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 324,
     "name": "Torkoal",
@@ -5510,7 +5510,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 325,
     "name": "Spoink",
@@ -5527,7 +5527,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 326,
     "name": "Grumpig",
@@ -5544,7 +5544,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 327,
     "name": "Spinda",
@@ -5561,7 +5561,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 328,
     "name": "Trapinch",
@@ -5578,7 +5578,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 329,
     "name": "Vibrava",
@@ -5595,7 +5595,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 330,
     "name": "Flygon",
@@ -5612,7 +5612,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 331,
     "name": "Cacnea",
@@ -5629,7 +5629,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 332,
     "name": "Cacturne",
@@ -5646,7 +5646,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 333,
     "name": "Swablu",
@@ -5663,7 +5663,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 334,
     "name": "Altaria",
@@ -5680,7 +5680,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 335,
     "name": "Zangoose",
@@ -5697,7 +5697,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 336,
     "name": "Seviper",
@@ -5714,7 +5714,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 337,
     "name": "Lunatone",
@@ -5731,7 +5731,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 338,
     "name": "Solrock",
@@ -5748,7 +5748,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 339,
     "name": "Barboach",
@@ -5765,7 +5765,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 340,
     "name": "Whiscash",
@@ -5782,7 +5782,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 341,
     "name": "Corphish",
@@ -5799,7 +5799,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 342,
     "name": "Crawdaunt",
@@ -5816,7 +5816,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 343,
     "name": "Baltoy",
@@ -5833,7 +5833,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 344,
     "name": "Claydol",
@@ -5850,7 +5850,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 345,
     "name": "Lileep",
@@ -5867,7 +5867,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 346,
     "name": "Cradily",
@@ -5884,7 +5884,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 347,
     "name": "Anorith",
@@ -5901,7 +5901,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 348,
     "name": "Armaldo",
@@ -5918,7 +5918,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 349,
     "name": "Feebas",
@@ -5935,7 +5935,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 350,
     "name": "Milotic",
@@ -5952,7 +5952,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 351,
     "name": "Castform",
@@ -5969,7 +5969,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 352,
     "name": "Kecleon",
@@ -5986,7 +5986,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 353,
     "name": "Shuppet",
@@ -6003,7 +6003,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 354,
     "name": "Banette",
@@ -6020,7 +6020,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 355,
     "name": "Duskull",
@@ -6037,7 +6037,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 356,
     "name": "Dusclops",
@@ -6054,7 +6054,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 357,
     "name": "Tropius",
@@ -6071,7 +6071,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 358,
     "name": "Chimecho",
@@ -6088,7 +6088,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 359,
     "name": "Absol",
@@ -6105,7 +6105,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 360,
     "name": "Wynaut",
@@ -6122,7 +6122,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 361,
     "name": "Snorunt",
@@ -6139,7 +6139,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 362,
     "name": "Glalie",
@@ -6156,7 +6156,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 363,
     "name": "Spheal",
@@ -6173,7 +6173,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 364,
     "name": "Sealeo",
@@ -6190,7 +6190,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 365,
     "name": "Walrein",
@@ -6207,7 +6207,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 366,
     "name": "Clamperl",
@@ -6224,7 +6224,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 367,
     "name": "Huntail",
@@ -6241,7 +6241,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 368,
     "name": "Gorebyss",
@@ -6258,7 +6258,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 369,
     "name": "Relicanth",
@@ -6275,7 +6275,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 370,
     "name": "Luvdisc",
@@ -6292,7 +6292,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 371,
     "name": "Bagon",
@@ -6309,7 +6309,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 372,
     "name": "Shelgon",
@@ -6326,7 +6326,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 373,
     "name": "Salamence",
@@ -6343,7 +6343,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 374,
     "name": "Beldum",
@@ -6360,7 +6360,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 375,
     "name": "Metang",
@@ -6377,7 +6377,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 376,
     "name": "Metagross",
@@ -6394,7 +6394,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 377,
     "name": "Regirock",
@@ -6411,7 +6411,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 378,
     "name": "Regice",
@@ -6428,7 +6428,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 379,
     "name": "Registeel",
@@ -6445,7 +6445,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 380,
     "name": "Latias",
@@ -6462,7 +6462,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 381,
     "name": "Latios",
@@ -6479,7 +6479,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 382,
     "name": "Kyogre",
@@ -6496,7 +6496,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 383,
     "name": "Groudon",
@@ -6513,7 +6513,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 384,
     "name": "Rayquaza",
@@ -6530,7 +6530,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 385,
     "name": "Jirachi",
@@ -6547,7 +6547,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 386,
     "name": "DeoxysNormal Forme",
@@ -6564,7 +6564,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 387,
     "name": "Turtwig",
@@ -6581,7 +6581,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 388,
     "name": "Grotle",
@@ -6598,7 +6598,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 389,
     "name": "Torterra",
@@ -6615,7 +6615,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 390,
     "name": "Chimchar",
@@ -6632,7 +6632,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 391,
     "name": "Monferno",
@@ -6649,7 +6649,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 392,
     "name": "Infernape",
@@ -6666,7 +6666,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 393,
     "name": "Piplup",
@@ -6683,7 +6683,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 394,
     "name": "Prinplup",
@@ -6700,7 +6700,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 395,
     "name": "Empoleon",
@@ -6717,7 +6717,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 396,
     "name": "Starly",
@@ -6734,7 +6734,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 397,
     "name": "Staravia",
@@ -6751,7 +6751,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 398,
     "name": "Staraptor",
@@ -6768,7 +6768,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 399,
     "name": "Bidoof",
@@ -6785,7 +6785,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 400,
     "name": "Bibarel",
@@ -6802,7 +6802,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 401,
     "name": "Kricketot",
@@ -6819,7 +6819,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 402,
     "name": "Kricketune",
@@ -6836,7 +6836,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 403,
     "name": "Shinx",
@@ -6853,7 +6853,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 404,
     "name": "Luxio",
@@ -6870,7 +6870,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 405,
     "name": "Luxray",
@@ -6887,7 +6887,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 406,
     "name": "Budew",
@@ -6904,7 +6904,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 407,
     "name": "Roserade",
@@ -6921,7 +6921,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 408,
     "name": "Cranidos",
@@ -6938,7 +6938,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 409,
     "name": "Rampardos",
@@ -6955,7 +6955,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 410,
     "name": "Shieldon",
@@ -6972,7 +6972,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 411,
     "name": "Bastiodon",
@@ -6989,7 +6989,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 412,
     "name": "Burmy",
@@ -7006,7 +7006,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 413,
     "name": "WormadamPlant Cloak",
@@ -7023,7 +7023,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 414,
     "name": "Mothim",
@@ -7040,7 +7040,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 415,
     "name": "Combee",
@@ -7057,7 +7057,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 416,
     "name": "Vespiquen",
@@ -7074,7 +7074,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 417,
     "name": "Pachirisu",
@@ -7091,7 +7091,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 418,
     "name": "Buizel",
@@ -7108,7 +7108,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 419,
     "name": "Floatzel",
@@ -7125,7 +7125,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 420,
     "name": "Cherubi",
@@ -7142,7 +7142,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 421,
     "name": "Cherrim",
@@ -7159,7 +7159,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 422,
     "name": "Shellos",
@@ -7176,7 +7176,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 423,
     "name": "Gastrodon",
@@ -7193,7 +7193,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 424,
     "name": "Ambipom",
@@ -7210,7 +7210,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 425,
     "name": "Drifloon",
@@ -7227,7 +7227,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 426,
     "name": "Drifblim",
@@ -7244,7 +7244,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 427,
     "name": "Buneary",
@@ -7261,7 +7261,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 428,
     "name": "Lopunny",
@@ -7278,7 +7278,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 429,
     "name": "Mismagius",
@@ -7295,7 +7295,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 430,
     "name": "Honchkrow",
@@ -7312,7 +7312,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 431,
     "name": "Glameow",
@@ -7329,7 +7329,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 432,
     "name": "Purugly",
@@ -7346,7 +7346,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 433,
     "name": "Chingling",
@@ -7363,7 +7363,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 434,
     "name": "Stunky",
@@ -7380,7 +7380,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 435,
     "name": "Skuntank",
@@ -7397,7 +7397,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 436,
     "name": "Bronzor",
@@ -7414,7 +7414,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 437,
     "name": "Bronzong",
@@ -7431,7 +7431,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 438,
     "name": "Bonsly",
@@ -7448,7 +7448,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 439,
     "name": "Mime Jr.",
@@ -7465,7 +7465,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 440,
     "name": "Happiny",
@@ -7482,7 +7482,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 441,
     "name": "Chatot",
@@ -7499,7 +7499,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 442,
     "name": "Spiritomb",
@@ -7516,7 +7516,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 443,
     "name": "Gible",
@@ -7533,7 +7533,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 444,
     "name": "Gabite",
@@ -7550,7 +7550,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 445,
     "name": "Garchomp",
@@ -7567,7 +7567,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 446,
     "name": "Munchlax",
@@ -7584,7 +7584,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 447,
     "name": "Riolu",
@@ -7601,7 +7601,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 448,
     "name": "Lucario",
@@ -7618,7 +7618,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 449,
     "name": "Hippopotas",
@@ -7635,7 +7635,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 450,
     "name": "Hippowdon",
@@ -7652,7 +7652,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 451,
     "name": "Skorupi",
@@ -7669,7 +7669,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 452,
     "name": "Drapion",
@@ -7686,7 +7686,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 453,
     "name": "Croagunk",
@@ -7703,7 +7703,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 454,
     "name": "Toxicroak",
@@ -7720,7 +7720,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 455,
     "name": "Carnivine",
@@ -7737,7 +7737,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 456,
     "name": "Finneon",
@@ -7754,7 +7754,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 457,
     "name": "Lumineon",
@@ -7771,7 +7771,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 458,
     "name": "Mantyke",
@@ -7788,7 +7788,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 459,
     "name": "Snover",
@@ -7805,7 +7805,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 460,
     "name": "Abomasnow",
@@ -7822,7 +7822,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 461,
     "name": "Weavile",
@@ -7839,7 +7839,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 462,
     "name": "Magnezone",
@@ -7856,7 +7856,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 463,
     "name": "Lickilicky",
@@ -7873,7 +7873,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 464,
     "name": "Rhyperior",
@@ -7890,7 +7890,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 465,
     "name": "Tangrowth",
@@ -7907,7 +7907,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 466,
     "name": "Electivire",
@@ -7924,7 +7924,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 467,
     "name": "Magmortar",
@@ -7941,7 +7941,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 468,
     "name": "Togekiss",
@@ -7958,7 +7958,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 469,
     "name": "Yanmega",
@@ -7975,7 +7975,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 470,
     "name": "Leafeon",
@@ -7992,7 +7992,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 471,
     "name": "Glaceon",
@@ -8009,7 +8009,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 472,
     "name": "Gliscor",
@@ -8026,7 +8026,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 473,
     "name": "Mamoswine",
@@ -8043,7 +8043,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 474,
     "name": "Porygon-Z",
@@ -8060,7 +8060,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 475,
     "name": "Gallade",
@@ -8077,7 +8077,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 476,
     "name": "Probopass",
@@ -8094,7 +8094,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 477,
     "name": "Dusknoir",
@@ -8111,7 +8111,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 478,
     "name": "Froslass",
@@ -8128,7 +8128,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 479,
     "name": "Rotom",
@@ -8145,7 +8145,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 480,
     "name": "Uxie",
@@ -8162,7 +8162,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 481,
     "name": "Mesprit",
@@ -8179,7 +8179,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 482,
     "name": "Azelf",
@@ -8196,7 +8196,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 483,
     "name": "Dialga",
@@ -8213,7 +8213,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 484,
     "name": "Palkia",
@@ -8230,7 +8230,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 485,
     "name": "Heatran",
@@ -8247,7 +8247,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 486,
     "name": "Regigigas",
@@ -8264,7 +8264,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 487,
     "name": "GiratinaOrigin Forme",
@@ -8281,7 +8281,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 488,
     "name": "Cresselia",
@@ -8298,7 +8298,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 489,
     "name": "Phione",
@@ -8315,7 +8315,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 490,
     "name": "Manaphy",
@@ -8332,7 +8332,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 491,
     "name": "Darkrai",
@@ -8349,7 +8349,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 492,
     "name": "ShayminLand Forme",
@@ -8366,7 +8366,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 493,
     "name": "Arceus",
@@ -8383,7 +8383,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 494,
     "name": "Victini",
@@ -8400,7 +8400,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 495,
     "name": "Snivy",
@@ -8417,7 +8417,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 496,
     "name": "Servine",
@@ -8434,7 +8434,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 497,
     "name": "Serperior",
@@ -8451,7 +8451,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 498,
     "name": "Tepig",
@@ -8468,7 +8468,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 499,
     "name": "Pignite",
@@ -8485,7 +8485,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 500,
     "name": "Emboar",
@@ -8502,7 +8502,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 501,
     "name": "Oshawott",
@@ -8519,7 +8519,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 502,
     "name": "Dewott",
@@ -8536,7 +8536,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 503,
     "name": "Samurott",
@@ -8553,7 +8553,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 504,
     "name": "Patrat",
@@ -8570,7 +8570,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 505,
     "name": "Watchog",
@@ -8587,7 +8587,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 506,
     "name": "Lillipup",
@@ -8604,7 +8604,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 507,
     "name": "Herdier",
@@ -8621,7 +8621,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 508,
     "name": "Stoutland",
@@ -8638,7 +8638,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 509,
     "name": "Purrloin",
@@ -8655,7 +8655,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 510,
     "name": "Liepard",
@@ -8672,7 +8672,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 511,
     "name": "Pansage",
@@ -8689,7 +8689,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 512,
     "name": "Simisage",
@@ -8706,7 +8706,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 513,
     "name": "Pansear",
@@ -8723,7 +8723,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 514,
     "name": "Simisear",
@@ -8740,7 +8740,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 515,
     "name": "Panpour",
@@ -8757,7 +8757,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 516,
     "name": "Simipour",
@@ -8774,7 +8774,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 517,
     "name": "Munna",
@@ -8791,7 +8791,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 518,
     "name": "Musharna",
@@ -8808,7 +8808,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 519,
     "name": "Pidove",
@@ -8825,7 +8825,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 520,
     "name": "Tranquill",
@@ -8842,7 +8842,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 521,
     "name": "Unfezant",
@@ -8859,7 +8859,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 522,
     "name": "Blitzle",
@@ -8876,7 +8876,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 523,
     "name": "Zebstrika",
@@ -8893,7 +8893,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 524,
     "name": "Roggenrola",
@@ -8910,7 +8910,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 525,
     "name": "Boldore",
@@ -8927,7 +8927,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 526,
     "name": "Gigalith",
@@ -8944,7 +8944,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 527,
     "name": "Woobat",
@@ -8961,7 +8961,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 528,
     "name": "Swoobat",
@@ -8978,7 +8978,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 529,
     "name": "Drilbur",
@@ -8995,7 +8995,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 530,
     "name": "Excadrill",
@@ -9012,7 +9012,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 531,
     "name": "Audino",
@@ -9029,7 +9029,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 532,
     "name": "Timburr",
@@ -9046,7 +9046,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 533,
     "name": "Gurdurr",
@@ -9063,7 +9063,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 534,
     "name": "Conkeldurr",
@@ -9080,7 +9080,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 535,
     "name": "Tympole",
@@ -9097,7 +9097,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 536,
     "name": "Palpitoad",
@@ -9114,7 +9114,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 537,
     "name": "Seismitoad",
@@ -9131,7 +9131,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 538,
     "name": "Throh",
@@ -9148,7 +9148,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 539,
     "name": "Sawk",
@@ -9165,7 +9165,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 540,
     "name": "Sewaddle",
@@ -9182,7 +9182,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 541,
     "name": "Swadloon",
@@ -9199,7 +9199,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 542,
     "name": "Leavanny",
@@ -9216,7 +9216,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 543,
     "name": "Venipede",
@@ -9233,7 +9233,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 544,
     "name": "Whirlipede",
@@ -9250,7 +9250,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 545,
     "name": "Scolipede",
@@ -9267,7 +9267,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 546,
     "name": "Cottonee",
@@ -9284,7 +9284,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 547,
     "name": "Whimsicott",
@@ -9301,7 +9301,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 548,
     "name": "Petilil",
@@ -9318,7 +9318,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 549,
     "name": "Lilligant",
@@ -9335,7 +9335,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 550,
     "name": "Basculin",
@@ -9352,7 +9352,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 551,
     "name": "Sandile",
@@ -9369,7 +9369,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 552,
     "name": "Krokorok",
@@ -9386,7 +9386,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 553,
     "name": "Krookodile",
@@ -9403,7 +9403,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 554,
     "name": "Darumaka",
@@ -9420,7 +9420,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 555,
     "name": "DarmanitanStandard Mode",
@@ -9437,7 +9437,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 556,
     "name": "Maractus",
@@ -9454,7 +9454,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 557,
     "name": "Dwebble",
@@ -9471,7 +9471,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 558,
     "name": "Crustle",
@@ -9488,7 +9488,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 559,
     "name": "Scraggy",
@@ -9505,7 +9505,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 560,
     "name": "Scrafty",
@@ -9522,7 +9522,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 561,
     "name": "Sigilyph",
@@ -9539,7 +9539,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 562,
     "name": "Yamask",
@@ -9556,7 +9556,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 563,
     "name": "Cofagrigus",
@@ -9573,7 +9573,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 564,
     "name": "Tirtouga",
@@ -9590,7 +9590,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 565,
     "name": "Carracosta",
@@ -9607,7 +9607,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 566,
     "name": "Archen",
@@ -9624,7 +9624,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 567,
     "name": "Archeops",
@@ -9641,7 +9641,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 568,
     "name": "Trubbish",
@@ -9658,7 +9658,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 569,
     "name": "Garbodor",
@@ -9675,7 +9675,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 570,
     "name": "Zorua",
@@ -9692,7 +9692,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 571,
     "name": "Zoroark",
@@ -9709,7 +9709,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 572,
     "name": "Minccino",
@@ -9726,7 +9726,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 573,
     "name": "Cinccino",
@@ -9743,7 +9743,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 574,
     "name": "Gothita",
@@ -9760,7 +9760,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 575,
     "name": "Gothorita",
@@ -9777,7 +9777,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 576,
     "name": "Gothitelle",
@@ -9794,7 +9794,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 577,
     "name": "Solosis",
@@ -9811,7 +9811,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 578,
     "name": "Duosion",
@@ -9828,7 +9828,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 579,
     "name": "Reuniclus",
@@ -9845,7 +9845,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 580,
     "name": "Ducklett",
@@ -9862,7 +9862,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 581,
     "name": "Swanna",
@@ -9879,7 +9879,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 582,
     "name": "Vanillite",
@@ -9896,7 +9896,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 583,
     "name": "Vanillish",
@@ -9913,7 +9913,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 584,
     "name": "Vanilluxe",
@@ -9930,7 +9930,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 585,
     "name": "Deerling",
@@ -9947,7 +9947,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 586,
     "name": "Sawsbuck",
@@ -9964,7 +9964,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 587,
     "name": "Emolga",
@@ -9981,7 +9981,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 588,
     "name": "Karrablast",
@@ -9998,7 +9998,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 589,
     "name": "Escavalier",
@@ -10015,7 +10015,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 590,
     "name": "Foongus",
@@ -10032,7 +10032,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 591,
     "name": "Amoonguss",
@@ -10049,7 +10049,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 592,
     "name": "Frillish",
@@ -10066,7 +10066,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 593,
     "name": "Jellicent",
@@ -10083,7 +10083,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 594,
     "name": "Alomomola",
@@ -10100,7 +10100,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 595,
     "name": "Joltik",
@@ -10117,7 +10117,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 596,
     "name": "Galvantula",
@@ -10134,7 +10134,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 597,
     "name": "Ferroseed",
@@ -10151,7 +10151,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 598,
     "name": "Ferrothorn",
@@ -10168,7 +10168,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 599,
     "name": "Klink",
@@ -10185,7 +10185,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 600,
     "name": "Klang",
@@ -10202,7 +10202,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 601,
     "name": "Klinklang",
@@ -10219,7 +10219,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 602,
     "name": "Tynamo",
@@ -10236,7 +10236,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 603,
     "name": "Eelektrik",
@@ -10253,7 +10253,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 604,
     "name": "Eelektross",
@@ -10270,7 +10270,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 605,
     "name": "Elgyem",
@@ -10287,7 +10287,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 606,
     "name": "Beheeyem",
@@ -10304,7 +10304,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 607,
     "name": "Litwick",
@@ -10321,7 +10321,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 608,
     "name": "Lampent",
@@ -10338,7 +10338,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 609,
     "name": "Chandelure",
@@ -10355,7 +10355,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 610,
     "name": "Axew",
@@ -10372,7 +10372,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 611,
     "name": "Fraxure",
@@ -10389,7 +10389,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 612,
     "name": "Haxorus",
@@ -10406,7 +10406,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 613,
     "name": "Cubchoo",
@@ -10423,7 +10423,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 614,
     "name": "Beartic",
@@ -10440,7 +10440,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 615,
     "name": "Cryogonal",
@@ -10457,7 +10457,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 616,
     "name": "Shelmet",
@@ -10474,7 +10474,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 617,
     "name": "Accelgor",
@@ -10491,7 +10491,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 618,
     "name": "Stunfisk",
@@ -10508,7 +10508,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 619,
     "name": "Mienfoo",
@@ -10525,7 +10525,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 620,
     "name": "Mienshao",
@@ -10542,7 +10542,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 621,
     "name": "Druddigon",
@@ -10559,7 +10559,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 622,
     "name": "Golett",
@@ -10576,7 +10576,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 623,
     "name": "Golurk",
@@ -10593,7 +10593,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 624,
     "name": "Pawniard",
@@ -10610,7 +10610,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 625,
     "name": "Bisharp",
@@ -10627,7 +10627,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 626,
     "name": "Bouffalant",
@@ -10644,7 +10644,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 627,
     "name": "Rufflet",
@@ -10661,7 +10661,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 628,
     "name": "Braviary",
@@ -10678,7 +10678,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 629,
     "name": "Vullaby",
@@ -10695,7 +10695,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 630,
     "name": "Mandibuzz",
@@ -10712,7 +10712,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 631,
     "name": "Heatmor",
@@ -10729,7 +10729,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 632,
     "name": "Durant",
@@ -10746,7 +10746,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 633,
     "name": "Deino",
@@ -10763,7 +10763,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 634,
     "name": "Zweilous",
@@ -10780,7 +10780,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 635,
     "name": "Hydreigon",
@@ -10797,7 +10797,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 636,
     "name": "Larvesta",
@@ -10814,7 +10814,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 637,
     "name": "Volcarona",
@@ -10831,7 +10831,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 638,
     "name": "Cobalion",
@@ -10848,7 +10848,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 639,
     "name": "Terrakion",
@@ -10865,7 +10865,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 640,
     "name": "Virizion",
@@ -10882,7 +10882,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 641,
     "name": "TornadusIncarnate Forme",
@@ -10899,7 +10899,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 642,
     "name": "ThundurusIncarnate Forme",
@@ -10916,7 +10916,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 643,
     "name": "Reshiram",
@@ -10933,7 +10933,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 644,
     "name": "Zekrom",
@@ -10950,7 +10950,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 645,
     "name": "LandorusIncarnate Forme",
@@ -10967,7 +10967,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 646,
     "name": "Kyurem",
@@ -10984,7 +10984,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 647,
     "name": "KeldeoOrdinary Forme",
@@ -11001,7 +11001,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 648,
     "name": "MeloettaAria Forme",
@@ -11018,7 +11018,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 649,
     "name": "Genesect",
@@ -11035,7 +11035,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 650,
     "name": "Chespin",
@@ -11052,7 +11052,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 651,
     "name": "Quilladin",
@@ -11069,7 +11069,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 652,
     "name": "Chesnaught",
@@ -11086,7 +11086,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 653,
     "name": "Fennekin",
@@ -11103,7 +11103,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 654,
     "name": "Braixen",
@@ -11120,7 +11120,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 655,
     "name": "Delphox",
@@ -11137,7 +11137,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 656,
     "name": "Froakie",
@@ -11154,7 +11154,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 657,
     "name": "Frogadier",
@@ -11171,7 +11171,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 658,
     "name": "Greninja",
@@ -11188,7 +11188,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 659,
     "name": "Bunnelby",
@@ -11205,7 +11205,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 660,
     "name": "Diggersby",
@@ -11222,7 +11222,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 661,
     "name": "Fletchling",
@@ -11239,7 +11239,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 662,
     "name": "Fletchinder",
@@ -11256,7 +11256,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 663,
     "name": "Talonflame",
@@ -11273,7 +11273,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 664,
     "name": "Scatterbug",
@@ -11290,7 +11290,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 665,
     "name": "Spewpa",
@@ -11307,7 +11307,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 666,
     "name": "Vivillon",
@@ -11324,7 +11324,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 667,
     "name": "Litleo",
@@ -11341,7 +11341,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 668,
     "name": "Pyroar",
@@ -11358,7 +11358,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 669,
     "name": "Flabébé",
@@ -11375,7 +11375,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 670,
     "name": "Floette",
@@ -11392,7 +11392,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 671,
     "name": "Florges",
@@ -11409,7 +11409,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 672,
     "name": "Skiddo",
@@ -11426,7 +11426,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 673,
     "name": "Gogoat",
@@ -11443,7 +11443,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 674,
     "name": "Pancham",
@@ -11460,7 +11460,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 675,
     "name": "Pangoro",
@@ -11477,7 +11477,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 676,
     "name": "Furfrou",
@@ -11494,7 +11494,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 677,
     "name": "Espurr",
@@ -11511,7 +11511,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 678,
     "name": "MeowsticMale",
@@ -11528,7 +11528,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 679,
     "name": "Honedge",
@@ -11545,7 +11545,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 680,
     "name": "Doublade",
@@ -11562,7 +11562,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 681,
     "name": "AegislashBlade Forme",
@@ -11579,7 +11579,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 682,
     "name": "Spritzee",
@@ -11596,7 +11596,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 683,
     "name": "Aromatisse",
@@ -11613,7 +11613,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 684,
     "name": "Swirlix",
@@ -11630,7 +11630,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 685,
     "name": "Slurpuff",
@@ -11647,7 +11647,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 686,
     "name": "Inkay",
@@ -11664,7 +11664,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 687,
     "name": "Malamar",
@@ -11681,7 +11681,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 688,
     "name": "Binacle",
@@ -11698,7 +11698,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 689,
     "name": "Barbaracle",
@@ -11715,7 +11715,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 690,
     "name": "Skrelp",
@@ -11732,7 +11732,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 691,
     "name": "Dragalge",
@@ -11749,7 +11749,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 692,
     "name": "Clauncher",
@@ -11766,7 +11766,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 693,
     "name": "Clawitzer",
@@ -11783,7 +11783,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 694,
     "name": "Helioptile",
@@ -11800,7 +11800,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 695,
     "name": "Heliolisk",
@@ -11817,7 +11817,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 696,
     "name": "Tyrunt",
@@ -11834,7 +11834,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 697,
     "name": "Tyrantrum",
@@ -11851,7 +11851,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 698,
     "name": "Amaura",
@@ -11868,7 +11868,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 699,
     "name": "Aurorus",
@@ -11885,7 +11885,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 700,
     "name": "Sylveon",
@@ -11902,7 +11902,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 701,
     "name": "Hawlucha",
@@ -11919,7 +11919,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 702,
     "name": "Dedenne",
@@ -11936,7 +11936,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 703,
     "name": "Carbink",
@@ -11953,7 +11953,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 704,
     "name": "Goomy",
@@ -11970,7 +11970,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 705,
     "name": "Sliggoo",
@@ -11987,7 +11987,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 706,
     "name": "Goodra",
@@ -12004,7 +12004,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 707,
     "name": "Klefki",
@@ -12021,7 +12021,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 708,
     "name": "Phantump",
@@ -12038,7 +12038,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 709,
     "name": "Trevenant",
@@ -12055,7 +12055,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 710,
     "name": "PumpkabooAverage Size",
@@ -12072,7 +12072,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 711,
     "name": "GourgeistAverage Size",
@@ -12089,7 +12089,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 712,
     "name": "Bergmite",
@@ -12106,7 +12106,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 713,
     "name": "Avalugg",
@@ -12123,7 +12123,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 714,
     "name": "Noibat",
@@ -12140,7 +12140,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 715,
     "name": "Noivern",
@@ -12157,7 +12157,7 @@
     "is_legendary": false
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 716,
     "name": "Xerneas",
@@ -12174,7 +12174,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 717,
     "name": "Yveltal",
@@ -12191,7 +12191,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 718,
     "name": "Zygarde50% Forme",
@@ -12208,7 +12208,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 719,
     "name": "Diancie",
@@ -12225,7 +12225,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 720,
     "name": "HoopaHoopa Confined",
@@ -12242,7 +12242,7 @@
     "is_legendary": true
   }},
   {
-    "model":"react_app.pokemon",
+    "model":"backend.pokemon",
     "fields": {
     "number": 721,
     "name": "Volcanion",

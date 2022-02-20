@@ -19,6 +19,6 @@ from api import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('react_app/', include('react_app.urls')),
+    path('backend/', include('backend.urls')),
     path('api/', include(views.router.urls)),
 ]

@@ -1,5 +1,5 @@
 from django.contrib import admin
-from react_app.models import Pokemon
+from backend.models import Pokemon
 
 admin.site.register(Pokemon)
 

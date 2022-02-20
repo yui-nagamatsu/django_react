@@ -1,5 +1,5 @@
 from rest_framework import viewsets, routers
-from react_app.models import Pokemon
+from backend.models import Pokemon
 from .serializers import UserSerializer
 
 

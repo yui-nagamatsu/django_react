@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from react_app.models import Pokemon
+from backend.models import Pokemon
 
 class UserSerializer(serializers.ModelSerializer):
     class Meta:
