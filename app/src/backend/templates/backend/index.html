@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+{% load static %}
+
+<html lang = "en">
+    <head>
+        <meta charset="utf-8">
+        <title>Pokédex</title>
+    </head>
+    <body>
+        <h1>Pokédex</h1>
+        <div id="featured_pokemon">
+            <h2>Featured Pokémon</h2>
+            <ul>
+            {% for pokemon in random_featured_pokemon %}
+                <li><a href = "/backend/{{pokemon.id}}/">{{ pokemon.name }}</a></li>
+            {% endfor %}
+            </ul>
+        </div>
+    </body>
+</html>
