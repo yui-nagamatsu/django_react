@@ -2,10 +2,7 @@ from django.db import models
 
 # Create your models here.
 
-# perとnatはよくわからないので、numberで一括りにした。
-# "LK/GK", "EV Worth", "EXPV"は不明なので、無視。
-class Pokemon(models.Model):
-    
+class Pokemon(models.Model):    
     
     class Meta:
         db_table = 'pokemon'
@@ -17,8 +14,6 @@ class Pokemon(models.Model):
     type1 = models.CharField(verbose_name="Type1", max_length=25)
 
     type2 = models.CharField(verbose_name="Type2", max_length=25, default='')
-
-    total = models.IntegerField(verbose_name="Total")
 
     heart_point = models.IntegerField(verbose_name="HP")
 
