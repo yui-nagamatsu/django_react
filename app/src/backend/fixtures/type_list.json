@@ -1,0 +1,128 @@
+[
+    {
+    "model":"backend.typename",
+    "pk":1,
+    "fields": {
+      "type_name": "Bug"
+        }
+    },
+    {
+    "model":"backend.typename",
+    "pk":2,
+    "fields": {
+      "type_name": "Dark"
+        }
+    },
+    {
+    "model":"backend.typename",
+    "pk":3,
+    "fields": {
+      "type_name": "Dragon"
+        }
+    },
+    {
+    "model":"backend.typename",
+    "pk":4,
+    "fields": {
+      "type_name": "Electric"
+        }
+    },
+    {
+    "model":"backend.typename",
+    "pk":5,
+    "fields": {
+      "type_name": "Fairy"
+        }
+    },
+    {
+    "model":"backend.typename",
+    "pk":6,
+    "fields": {
+      "type_name": " Fighting"
+        }
+    },
+    {
+    "model":"backend.typename",
+    "pk":7,
+    "fields": {
+      "type_name": "Fire"
+        }
+    },
+    {
+    "model":"backend.typename",
+    "pk":8,
+    "fields": {
+      "type_name": "Flying"
+        }
+    },
+    {
+    "model":"backend.typename",
+    "pk":9,
+    "fields": {
+      "type_name": "Ghost"
+        }
+    },
+    {
+    "model":"backend.typename",
+    "pk":10,
+    "fields": {
+      "type_name": "Grass"
+        }
+    },
+    {
+    "model":"backend.typename",
+    "pk":11,
+    "fields": {
+      "type_name": "Ground"
+        }
+    },
+    {
+    "model":"backend.typename",
+    "pk":12,
+    "fields": {
+      "type_name": "Ice"
+        }
+    },
+    {
+    "model":"backend.typename",
+    "pk":13,
+    "fields": {
+      "type_name": "Normal"
+        }
+    },
+    {
+    "model":"backend.typename",
+    "pk":14,
+    "fields": {
+      "type_name": "Poison"
+        }
+    },
+    {
+    "model":"backend.typename",
+    "pk":15,
+    "fields": {
+      "type_name": "Psychic"
+        }
+    },
+    {
+    "model":"backend.typename",
+    "pk":16,
+    "fields": {
+      "type_name": "Rock"
+        }
+    },
+    {
+    "model":"backend.typename",
+    "pk":17,
+    "fields": {
+      "type_name": "Steel"
+        }
+    },
+    {
+    "model":"backend.typename",
+    "pk":18,
+    "fields": {
+      "type_name": "Water"
+        }
+    }
+]

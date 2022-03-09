@@ -1,0 +1,9714 @@
+[    
+    {
+        "model":"backend.pokemontype",
+        "pk":1,
+        "fields": {
+            "pokemon_name": 1,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 1,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":3,
+        "fields": {
+            "pokemon_name": 2,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 2,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 3,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 3,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 4,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 4,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 5,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 6,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 7,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 7,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 8,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 8,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 9,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 9,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 10,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 11,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 12,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 13,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 14,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 15,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 16,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 16,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 17,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 17,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 18,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 18,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 19,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 19,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 20,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 20,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 21,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 21,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 22,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 22,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 23,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 23,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 24,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 24,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 25,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 26,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 27,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 27,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 28,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 28,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 29,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 30,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 31,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 32,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 33,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 34,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 35,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 36,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 37,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 37,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 38,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 39,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 40,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 40,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 41,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 42,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 43,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 44,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 45,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 45,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 46,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 46,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 47,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 47,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 48,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 48,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 49,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 49,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 50,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 50,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 51,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 51,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 52,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 52,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 53,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 53,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 54,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 54,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 55,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 55,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 56,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 57,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 58,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 59,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 60,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 61,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 62,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 63,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 64,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 65,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 66,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 67,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 68,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 68,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 69,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 70,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 71,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 72,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 73,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 74,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 75,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":1,
+        "fields": {
+            "pokemon_name": 76,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 76,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":1,
+        "fields": {
+            "pokemon_name": 77,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 77,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":1,
+        "fields": {
+            "pokemon_name": 78,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 78,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":1,
+        "fields": {
+            "pokemon_name": 79,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 79,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":1,
+        "fields": {
+            "pokemon_name": 80,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 80,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":1,
+        "fields": {
+            "pokemon_name": 81,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 81,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":1,
+        "fields": {
+            "pokemon_name": 82,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 82,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":1,
+        "fields": {
+            "pokemon_name": 83,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 83,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 84,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 85,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 86,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 86,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 87,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 87,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 88,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 88,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 89,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 89,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 90,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 90,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 91,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 91,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 92,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 92,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 93,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 93,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 94,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 95,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 95,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 96,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 97,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 98,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 99,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 99,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 100,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 100,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 101,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 101,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 102,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 102,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 103,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 103,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 104,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 104,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 105,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 106,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 107,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 108,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 109,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 110,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 111,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 111,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 112,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 112,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 113,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 114,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 115,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 116,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 117,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 118,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 119,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 120,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 120,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 121,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 121,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 122,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 123,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 124,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 125,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 126,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 127,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 128,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 129,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 130,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 131,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 131,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 132,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 132,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 133,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 133,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 134,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 134,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 135,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 136,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 137,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 138,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 138,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 139,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 140,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 141,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 141,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 142,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 142,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 143,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 143,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 144,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 145,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 146,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 147,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 148,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 149,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 150,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 150,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 151,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 151,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 152,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 152,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 153,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 153,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 154,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 154,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 155,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 155,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 156,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 157,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 157,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 158,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 158,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 159,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 159,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 160,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 161,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 162,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 162,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 163,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 164,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 164,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 165,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 166,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 167,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 168,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 169,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 170,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 171,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 172,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 173,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 174,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 175,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 176,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 177,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 178,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 178,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 179,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 179,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 180,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 180,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 181,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 181,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 182,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 182,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 183,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 183,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 184,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 184,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 185,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 185,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 186,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 186,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 187,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 188,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 189,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 189,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 190,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 191,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 191,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 192,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 192,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 193,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 193,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 194,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 195,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 196,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 197,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 197,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 198,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 199,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 199,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 200,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 200,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 201,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 202,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 203,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 203,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 204,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 204,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 205,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 205,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 206,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 207,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 208,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 209,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 209,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 210,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 210,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 211,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 211,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 212,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 213,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 214,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 214,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 215,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 215,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 216,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 217,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 218,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 219,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 219,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 220,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 221,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 221,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 222,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 223,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 223,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 224,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 224,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 225,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 225,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 226,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 227,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 228,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 228,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 229,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 229,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 230,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 230,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 231,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 231,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 232,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 232,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 233,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 233,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 234,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 234,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 235,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 236,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 237,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 238,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 238,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 239,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 239,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 240,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 240,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 241,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 241,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 242,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 243,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 244,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 244,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 245,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 245,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 246,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 246,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 247,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 247,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 248,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 248,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 249,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 249,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 250,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 250,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 251,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 252,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 253,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 254,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 255,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 256,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 257,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 258,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 258,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 259,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 260,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 261,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 262,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 263,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 264,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 265,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 266,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 266,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 267,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 267,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 268,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 268,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 269,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 269,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 270,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 270,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 271,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 271,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 272,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 272,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 273,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 274,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 275,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 276,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 276,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 277,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 278,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 278,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 279,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 279,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 280,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 280,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 281,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 282,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 282,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 283,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 283,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 284,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 284,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 285,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 286,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 287,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 288,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 289,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 290,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 291,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 291,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 292,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 293,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 293,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 294,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 294,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 295,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 295,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 296,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 296,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 297,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 298,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 298,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 299,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 299,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 300,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 300,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 301,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 301,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 302,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 302,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 303,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 303,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 304,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 304,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 305,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 305,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 306,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 306,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 307,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 307,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 308,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 308,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 309,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 309,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 310,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 311,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 311,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 312,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 313,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 314,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 315,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 315,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 316,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 316,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 317,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 317,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 318,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 319,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 320,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 321,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 322,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 323,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 323,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 324,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 325,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 326,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 327,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 327,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 328,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 328,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 329,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 329,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 330,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 330,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 331,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 331,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 332,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 332,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 333,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 333,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 334,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 335,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 335,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 336,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 336,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 337,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 337,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 338,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 339,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 340,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 341,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 342,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 343,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 344,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 345,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 345,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 346,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 347,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 348,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 348,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 349,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 349,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 350,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 350,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 351,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 352,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 353,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 353,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 354,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 354,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 355,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 355,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 356,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 357,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 358,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 359,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 360,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 361,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 361,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 362,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 362,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 363,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 364,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 364,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 365,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 365,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 366,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 366,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 367,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 367,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 368,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 369,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 370,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 370,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 371,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 371,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 372,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 372,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 373,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 373,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 374,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 375,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 375,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 376,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 376,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 377,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 377,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 378,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 378,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 379,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 379,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 380,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 380,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 381,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 381,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 382,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 383,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 384,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 385,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 386,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 387,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 388,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 389,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 390,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 391,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 391,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 392,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 393,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 394,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 395,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 396,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 397,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 398,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 399,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 399,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 400,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 400,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 401,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 401,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 402,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 403,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 404,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 405,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 405,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 406,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 407,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 408,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 409,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 409,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 410,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 410,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 411,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 411,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 412,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 412,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 413,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 413,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 414,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 414,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 415,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 416,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 417,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 418,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 418,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 419,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 419,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 420,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 420,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 421,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 421,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 422,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 423,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 424,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 425,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 425,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 426,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 426,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 427,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 427,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 428,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 428,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 429,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 430,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 431,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 432,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 433,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 434,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 435,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 435,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 436,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 437,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 437,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 438,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 438,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 439,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 440,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 441,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 441,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 442,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 442,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 443,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 443,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 444,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 444,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 445,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 446,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 446,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 447,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 448,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 449,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 450,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 451,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 452,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 452,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 453,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 453,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 454,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 455,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 456,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 456,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 457,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 457,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 458,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 459,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 459,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 460,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 460,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 461,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 461,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 462,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 462,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 463,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 463,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 464,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 464,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 465,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 466,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 467,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 468,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 469,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 470,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 471,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 471,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 472,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 473,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 473,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 474,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 474,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 475,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 476,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 477,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 477,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 478,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 479,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 479,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 480,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 481,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 482,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 483,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 483,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 484,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 484,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 485,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 485,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 486,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 486,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 487,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 488,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 488,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 489,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 490,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 490,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 491,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 491,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 492,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 492,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 493,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 493,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 494,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 494,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 495,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 495,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 496,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 497,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 498,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 498,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 499,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 499,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 500,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 501,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 502,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 502,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 503,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 503,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 504,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 504,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 505,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 505,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 506,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 507,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 508,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 509,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 509,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 510,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 510,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 511,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 511,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 512,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 512,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 513,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 513,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 514,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 514,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 515,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 516,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 516,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 517,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 518,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 519,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 520,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 520,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 521,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 521,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 522,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 523,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 524,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 524,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 525,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 525,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 526,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 527,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 527,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 528,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 528,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 529,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 529,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 530,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 531,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 531,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 532,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 532,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 533,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 533,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 534,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 534,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 535,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 535,
+            "type_name": 12
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 536,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 536,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 537,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 537,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 538,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 539,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 540,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 541,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 541,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 542,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 542,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 543,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 543,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 544,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 545,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 545,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 546,
+            "type_name": 3
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 546,
+            "type_name": 9
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 547,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 548,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 549,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 550,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 551,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 552,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 552,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 553,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 554,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 554,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 555,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 556,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 557,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 558,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 559,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 559,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 560,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 560,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 561,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 562,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 563,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 564,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 565,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 566,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 567,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 568,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 569,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 570,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 571,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 572,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 573,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 574,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 575,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 576,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 577,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 578,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 579,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 579,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 580,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 580,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 581,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 581,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 582,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 583,
+            "type_name": 4
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 584,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 585,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 586,
+            "type_name": 16
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 587,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 587,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 588,
+            "type_name": 8
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 588,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 589,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 590,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 590,
+            "type_name": 17
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 591,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 592,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 592,
+            "type_name": 13
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 593,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 594,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 595,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 596,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 597,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 597,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 598,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 598,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 599,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 600,
+            "type_name": 6
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 601,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 601,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 602,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 602,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 603,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 603,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 604,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 604,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 605,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 605,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 606,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 606,
+            "type_name": 14
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 607,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 607,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 608,
+            "type_name": 5
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 608,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 609,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 610,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 611,
+            "type_name": 18
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 612,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 612,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 613,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 613,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 614,
+            "type_name": 2
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 614,
+            "type_name": 11
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 615,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 616,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 617,
+            "type_name": 7
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 617,
+            "type_name": 15
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 618,
+            "type_name": 10
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 619,
+            "type_name": 1
+        }
+    },
+    {
+        "model":"backend.pokemontype",
+        "pk":2,
+        "fields": {
+            "pokemon_name": 619,
+            "type_name": 16
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 620,
+        "type_name": 1
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 620,
+        "type_name": 16
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 621,
+        "type_name": 2
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 621,
+        "type_name": 6
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 622,
+        "type_name": 2
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 622,
+        "type_name": 6
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 623,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 623,
+        "type_name": 15
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 624,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 625,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 626,
+        "type_name": 16
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 626,
+        "type_name": 18
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 627,
+        "type_name": 16
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 627,
+        "type_name": 18
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 628,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 628,
+        "type_name": 16
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 629,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 629,
+        "type_name": 16
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 630,
+        "type_name": 14
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 631,
+        "type_name": 14
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 632,
+        "type_name": 2
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 633,
+        "type_name": 2
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 634,
+        "type_name": 13
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 635,
+        "type_name": 13
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 636,
+        "type_name": 15
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 637,
+        "type_name": 15
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 638,
+        "type_name": 15
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 639,
+        "type_name": 15
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 640,
+        "type_name": 15
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 641,
+        "type_name": 15
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 642,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 642,
+        "type_name": 18
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 643,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 643,
+        "type_name": 18
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 644,
+        "type_name": 12
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 645,
+        "type_name": 12
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 646,
+        "type_name": 12
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 647,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 647,
+        "type_name": 13
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 648,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 648,
+        "type_name": 13
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 649,
+        "type_name": 4
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 649,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 650,
+        "type_name": 1
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 651,
+        "type_name": 1
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 651,
+        "type_name": 17
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 652,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 652,
+        "type_name": 14
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 653,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 653,
+        "type_name": 14
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 654,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 654,
+        "type_name": 18
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 655,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 655,
+        "type_name": 18
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 656,
+        "type_name": 18
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 657,
+        "type_name": 1
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 657,
+        "type_name": 4
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 658,
+        "type_name": 1
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 658,
+        "type_name": 4
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 659,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 659,
+        "type_name": 17
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 660,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 660,
+        "type_name": 17
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 661,
+        "type_name": 17
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 662,
+        "type_name": 17
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 663,
+        "type_name": 17
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 664,
+        "type_name": 4
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 665,
+        "type_name": 4
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 666,
+        "type_name": 4
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 667,
+        "type_name": 15
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 668,
+        "type_name": 15
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 669,
+        "type_name": 7
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 669,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 670,
+        "type_name": 7
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 670,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 671,
+        "type_name": 7
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 671,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 672,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 673,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 674,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 675,
+        "type_name": 12
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 676,
+        "type_name": 12
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 677,
+        "type_name": 12
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 678,
+        "type_name": 1
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 679,
+        "type_name": 1
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 680,
+        "type_name": 4
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 680,
+        "type_name": 11
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 681,
+        "type_name": 6
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 682,
+        "type_name": 6
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 683,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 684,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 684,
+        "type_name": 11
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 685,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 685,
+        "type_name": 11
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 686,
+        "type_name": 2
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 686,
+        "type_name": 17
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 687,
+        "type_name": 2
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 687,
+        "type_name": 17
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 688,
+        "type_name": 13
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 689,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 689,
+        "type_name": 13
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 690,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 690,
+        "type_name": 13
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 691,
+        "type_name": 2
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 691,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 692,
+        "type_name": 2
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 692,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 693,
+        "type_name": 7
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 694,
+        "type_name": 1
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 694,
+        "type_name": 17
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 695,
+        "type_name": 2
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 695,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 696,
+        "type_name": 2
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 696,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 697,
+        "type_name": 2
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 697,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 698,
+        "type_name": 1
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 698,
+        "type_name": 7
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 699,
+        "type_name": 1
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 699,
+        "type_name": 7
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 700,
+        "type_name": 6
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 700,
+        "type_name": 17
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 701,
+        "type_name": 6
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 701,
+        "type_name": 16
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 702,
+        "type_name": 6
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 702,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 703,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 704,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 705,
+        "type_name": 4
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 705,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 706,
+        "type_name": 4
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 706,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 707,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 707,
+        "type_name": 7
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 708,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 708,
+        "type_name": 4
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 709,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 709,
+        "type_name": 11
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 710,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 710,
+        "type_name": 11
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 711,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 711,
+        "type_name": 12
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 712,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 712,
+        "type_name": 12
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 713,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 713,
+        "type_name": 12
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 714,
+        "type_name": 6
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 714,
+        "type_name": 18
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 715,
+        "type_name": 6
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 715,
+        "type_name": 18
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 716,
+        "type_name": 13
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 716,
+        "type_name": 15
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 717,
+        "type_name": 6
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 717,
+        "type_name": 13
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 718,
+        "type_name": 1
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 718,
+        "type_name": 17
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 719,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 720,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 721,
+        "type_name": 6
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 721,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 722,
+        "type_name": 7
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 723,
+        "type_name": 7
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 724,
+        "type_name": 7
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 724,
+        "type_name": 15
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 725,
+        "type_name": 18
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 726,
+        "type_name": 18
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 727,
+        "type_name": 2
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 727,
+        "type_name": 18
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 728,
+        "type_name": 13
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 729,
+        "type_name": 11
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 729,
+        "type_name": 13
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 730,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 730,
+        "type_name": 13
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 731,
+        "type_name": 7
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 731,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 732,
+        "type_name": 7
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 732,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 733,
+        "type_name": 1
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 734,
+        "type_name": 1
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 735,
+        "type_name": 1
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 735,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 736,
+        "type_name": 7
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 736,
+        "type_name": 13
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 737,
+        "type_name": 7
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 737,
+        "type_name": 13
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 738,
+        "type_name": 5
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 739,
+        "type_name": 5
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 740,
+        "type_name": 5
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 741,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 742,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 743,
+        "type_name": 6
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 744,
+        "type_name": 2
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 744,
+        "type_name": 6
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 745,
+        "type_name": 13
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 746,
+        "type_name": 15
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 747,
+        "type_name": 15
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 748,
+        "type_name": 15
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 749,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 749,
+        "type_name": 17
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 750,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 750,
+        "type_name": 17
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 751,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 751,
+        "type_name": 17
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 752,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 752,
+        "type_name": 17
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 753,
+        "type_name": 5
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 754,
+        "type_name": 5
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 755,
+        "type_name": 5
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 756,
+        "type_name": 5
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 757,
+        "type_name": 2
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 757,
+        "type_name": 15
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 758,
+        "type_name": 2
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 758,
+        "type_name": 15
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 759,
+        "type_name": 16
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 759,
+        "type_name": 18
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 760,
+        "type_name": 16
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 760,
+        "type_name": 18
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 761,
+        "type_name": 14
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 761,
+        "type_name": 18
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 762,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 762,
+        "type_name": 14
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 763,
+        "type_name": 18
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 764,
+        "type_name": 18
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 765,
+        "type_name": 4
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 765,
+        "type_name": 13
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 766,
+        "type_name": 4
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 766,
+        "type_name": 13
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 767,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 767,
+        "type_name": 16
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 768,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 768,
+        "type_name": 16
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 769,
+        "type_name": 12
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 769,
+        "type_name": 16
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 770,
+        "type_name": 12
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 770,
+        "type_name": 16
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 771,
+        "type_name": 5
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 772,
+        "type_name": 6
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 772,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 773,
+        "type_name": 4
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 773,
+        "type_name": 5
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 774,
+        "type_name": 5
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 774,
+        "type_name": 16
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 775,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 776,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 777,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 778,
+        "type_name": 5
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 778,
+        "type_name": 17
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 779,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 779,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 780,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 780,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 781,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 781,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 782,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 782,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 783,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 783,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 784,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 784,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 785,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 785,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 786,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 786,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 787,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 787,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 788,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 788,
+        "type_name": 10
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 789,
+        "type_name": 12
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 790,
+        "type_name": 12
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 791,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 791,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 792,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 792,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 793,
+        "type_name": 5
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 794,
+        "type_name": 2
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 794,
+        "type_name": 8
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 795,
+        "type_name": 3
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 795,
+        "type_name": 11
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 796,
+        "type_name": 5
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 796,
+        "type_name": 16
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 797,
+        "type_name": 5
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 797,
+        "type_name": 16
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 798,
+        "type_name": 9
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 798,
+        "type_name": 15
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 799,
+        "type_name": 2
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 799,
+        "type_name": 15
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 800,
+        "type_name": 7
+        }
+    },
+    {
+    "model":"backend.pokemontype",
+    "pk":2,
+    "fields": {
+        "pokemon_name": 800,
+        "type_name": 18
+        }
+    }
+]
