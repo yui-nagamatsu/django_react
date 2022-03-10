@@ -41,7 +41,7 @@ class Pokemon(models.Model):
     is_legendary = models.BooleanField(verbose_name="If this pokemon is legendary or not.")
 
     def __str__(self):
-        return self.name
+        return self.pokemon_name
 
 
 class PokemonType(models.Model):
