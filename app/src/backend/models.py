@@ -22,7 +22,7 @@ class Pokemon(models.Model):
 
     pokemon_name = models.CharField(verbose_name="Name", max_length=25)
 
-    # type_name = models.ForeignKey("TypeName", on_delete=models.PROTECT)
+    type_name = models.ForeignKey("TypeName", on_delete=models.PROTECT)
 
     heart_point = models.IntegerField(verbose_name="HP")
 
@@ -49,9 +49,9 @@ class PokemonType(models.Model):
     class Meta:
         db_table = 'pokemon_type'
 
-    pokemon_name = models.ForeignKey("Pokemon", on_delete=models.PROTECT)
+    pokemon_name = models.ForeignKey("Pokemon", on_delete=models.PROTECT, related_name='type_name')
+    
+    type_name = models.ForeignKey("TypeName", on_delete=models.PROTECT, related_name='pokemon_name')
 
-    type_name = models.ForeignKey("TypeName", on_delete=models.PROTECT)
-
-    def __str__(self) -> str:
-        return self.pokemon.pokemon_name + ":" + self.typename.type_name
+    def __str__(self):
+        return self.pokemon_name, self.type_name
