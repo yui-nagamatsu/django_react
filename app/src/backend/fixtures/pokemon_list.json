@@ -5,7 +5,6 @@
   "fields": {
     "number": 1,
     "pokemon_name": "Bulbasaur",
-    "types": [10, 14],
     "heart_point": 45,
     "attack": 49,
     "defense": 49,
@@ -22,7 +21,6 @@
   "fields": {
     "number": 2,
     "pokemon_name": "Ivysaur",
-    "types": [10, 14],
     "heart_point": 60,
     "attack": 62,
     "defense": 63,
@@ -39,7 +37,6 @@
   "fields": {
     "number": 3,
     "pokemon_name": "Venusaur",
-    "types": [10, 14],
     "heart_point": 80,
     "attack": 82,
     "defense": 83,
@@ -56,7 +53,6 @@
   "fields": {
     "number": 3,
     "pokemon_name": "VenusaurMega Venusaur",
-    "types": [10, 14],
     "heart_point": 80,
     "attack": 100,
     "defense": 123,
@@ -73,7 +69,6 @@
   "fields": {
     "number": 4,
     "pokemon_name": "Charmander",
-    "types": [7, ""],
     "heart_point": 39,
     "attack": 52,
     "defense": 43,
@@ -90,7 +85,6 @@
   "fields": {
     "number": 5,
     "pokemon_name": "Charmeleon",
-    "types": [7, ""],
     "heart_point": 58,
     "attack": 64,
     "defense": 58,
@@ -107,7 +101,6 @@
   "fields": {
     "number": 6,
     "pokemon_name": "Charizard",
-    "types": [7, 8],
     "heart_point": 78,
     "attack": 84,
     "defense": 78,
@@ -124,7 +117,6 @@
   "fields": {
     "number": 6,
     "pokemon_name": "CharizardMega Charizard X",
-    "types": [7, 3],
     "heart_point": 78,
     "attack": 130,
     "defense": 111,
@@ -141,7 +133,6 @@
   "fields": {
     "number": 6,
     "pokemon_name": "CharizardMega Charizard Y",
-    "types": [7, 8],
     "heart_point": 78,
     "attack": 104,
     "defense": 78,
@@ -158,7 +149,6 @@
   "fields": {
     "number": 7,
     "pokemon_name": "Squirtle",
-    "types": [18, ""],
     "heart_point": 44,
     "attack": 48,
     "defense": 65,
@@ -175,7 +165,6 @@
   "fields": {
     "number": 8,
     "pokemon_name": "Wartortle",
-    "types": [18, ""],
     "heart_point": 59,
     "attack": 63,
     "defense": 80,
@@ -192,7 +181,6 @@
   "fields": {
     "number": 9,
     "pokemon_name": "Blastoise",
-    "types": [18, ""],
     "heart_point": 79,
     "attack": 83,
     "defense": 100,
@@ -209,7 +197,6 @@
   "fields": {
     "number": 9,
     "pokemon_name": "BlastoiseMega Blastoise",
-    "types": [18, ""],
     "heart_point": 79,
     "attack": 103,
     "defense": 120,
@@ -226,7 +213,6 @@
   "fields": {
     "number": 10,
     "pokemon_name": "Caterpie",
-    "types": [1, ""],
     "heart_point": 45,
     "attack": 30,
     "defense": 35,
@@ -243,7 +229,6 @@
   "fields": {
     "number": 11,
     "pokemon_name": "Metapod",
-    "types": [1, ""],
     "heart_point": 50,
     "attack": 20,
     "defense": 55,
@@ -260,7 +245,6 @@
   "fields": {
     "number": 12,
     "pokemon_name": "Butterfree",
-    "types": [1, 8],
     "heart_point": 60,
     "attack": 45,
     "defense": 50,
@@ -277,7 +261,6 @@
   "fields": {
     "number": 13,
     "pokemon_name": "Weedle",
-    "types": [1, 14],
     "heart_point": 40,
     "attack": 35,
     "defense": 30,
@@ -294,7 +277,6 @@
   "fields": {
     "number": 14,
     "pokemon_name": "Kakuna",
-    "types": [1, 14],
     "heart_point": 45,
     "attack": 25,
     "defense": 50,
@@ -311,7 +293,6 @@
   "fields": {
     "number": 15,
     "pokemon_name": "Beedrill",
-    "types": [1, 14],
     "heart_point": 65,
     "attack": 90,
     "defense": 40,
@@ -328,7 +309,6 @@
   "fields": {
     "number": 15,
     "pokemon_name": "BeedrillMega Beedrill",
-    "types": [1, 14],
     "heart_point": 65,
     "attack": 150,
     "defense": 40,
@@ -345,7 +325,6 @@
   "fields": {
     "number": 16,
     "pokemon_name": "Pidgey",
-    "types": [13, 8],
     "heart_point": 40,
     "attack": 45,
     "defense": 40,
@@ -362,7 +341,6 @@
   "fields": {
     "number": 17,
     "pokemon_name": "Pidgeotto",
-    "types": [13, 8],
     "heart_point": 63,
     "attack": 60,
     "defense": 55,
@@ -379,7 +357,6 @@
   "fields": {
     "number": 18,
     "pokemon_name": "Pidgeot",
-    "types": [13, 8],
     "heart_point": 83,
     "attack": 80,
     "defense": 75,
@@ -396,7 +373,6 @@
   "fields": {
     "number": 18,
     "pokemon_name": "PidgeotMega Pidgeot",
-    "types": [13, 8],
     "heart_point": 83,
     "attack": 80,
     "defense": 80,
@@ -413,7 +389,6 @@
   "fields": {
     "number": 19,
     "pokemon_name": "Rattata",
-    "types": [13, ""],
     "heart_point": 30,
     "attack": 56,
     "defense": 35,
@@ -430,7 +405,6 @@
   "fields": {
     "number": 20,
     "pokemon_name": "Raticate",
-    "types": [13, ""],
     "heart_point": 55,
     "attack": 81,
     "defense": 60,
@@ -447,7 +421,6 @@
   "fields": {
     "number": 21,
     "pokemon_name": "Spearow",
-    "types": [13, 8],
     "heart_point": 40,
     "attack": 60,
     "defense": 30,
@@ -464,7 +437,6 @@
   "fields": {
     "number": 22,
     "pokemon_name": "Fearow",
-    "types": [13, 8],
     "heart_point": 65,
     "attack": 90,
     "defense": 65,
@@ -481,7 +453,6 @@
   "fields": {
     "number": 23,
     "pokemon_name": "Ekans",
-    "types": [14, ""],
     "heart_point": 35,
     "attack": 60,
     "defense": 44,
@@ -498,7 +469,6 @@
   "fields": {
     "number": 24,
     "pokemon_name": "Arbok",
-    "types": [14, ""],
     "heart_point": 60,
     "attack": 85,
     "defense": 69,
@@ -515,7 +485,6 @@
   "fields": {
     "number": 25,
     "pokemon_name": "Pikachu",
-    "types": [4, ""],
     "heart_point": 35,
     "attack": 55,
     "defense": 40,
@@ -532,7 +501,6 @@
   "fields": {
     "number": 26,
     "pokemon_name": "Raichu",
-    "types": [4, ""],
     "heart_point": 60,
     "attack": 90,
     "defense": 55,
@@ -549,7 +517,6 @@
   "fields": {
     "number": 27,
     "pokemon_name": "Sandshrew",
-    "types": [11, ""],
     "heart_point": 50,
     "attack": 75,
     "defense": 85,
@@ -566,7 +533,6 @@
   "fields": {
     "number": 28,
     "pokemon_name": "Sandslash",
-    "types": [11, ""],
     "heart_point": 75,
     "attack": 100,
     "defense": 110,
@@ -583,7 +549,6 @@
   "fields": {
     "number": 29,
     "pokemon_name": "Nidoran♀",
-    "types": [14, ""],
     "heart_point": 55,
     "attack": 47,
     "defense": 52,
@@ -600,7 +565,6 @@
   "fields": {
     "number": 30,
     "pokemon_name": "Nidorina",
-    "types": [14, ""],
     "heart_point": 70,
     "attack": 62,
     "defense": 67,
@@ -617,7 +581,6 @@
   "fields": {
     "number": 31,
     "pokemon_name": "Nidoqueen",
-    "types": [14, 11],
     "heart_point": 90,
     "attack": 92,
     "defense": 87,
@@ -634,7 +597,6 @@
   "fields": {
     "number": 32,
     "pokemon_name": "Nidoran♂",
-    "types": [14, ""],
     "heart_point": 46,
     "attack": 57,
     "defense": 40,
@@ -651,7 +613,6 @@
   "fields": {
     "number": 33,
     "pokemon_name": "Nidorino",
-    "types": [14, ""],
     "heart_point": 61,
     "attack": 72,
     "defense": 57,
@@ -668,7 +629,6 @@
   "fields": {
     "number": 34,
     "pokemon_name": "Nidoking",
-    "types": [14, 11],
     "heart_point": 81,
     "attack": 102,
     "defense": 77,
@@ -685,7 +645,6 @@
   "fields": {
     "number": 35,
     "pokemon_name": "Clefairy",
-    "types": [5, ""],
     "heart_point": 70,
     "attack": 45,
     "defense": 48,
@@ -702,7 +661,6 @@
   "fields": {
     "number": 36,
     "pokemon_name": "Clefable",
-    "types": [5, ""],
     "heart_point": 95,
     "attack": 70,
     "defense": 73,
@@ -719,7 +677,6 @@
   "fields": {
     "number": 37,
     "pokemon_name": "Vulpix",
-    "types": [7, ""],
     "heart_point": 38,
     "attack": 41,
     "defense": 40,
@@ -736,7 +693,6 @@
   "fields": {
     "number": 38,
     "pokemon_name": "Ninetales",
-    "types": [7, ""],
     "heart_point": 73,
     "attack": 76,
     "defense": 75,
@@ -753,7 +709,6 @@
   "fields": {
     "number": 39,
     "pokemon_name": "Jigglypuff",
-    "types": [13, 5],
     "heart_point": 115,
     "attack": 45,
     "defense": 20,
@@ -770,7 +725,6 @@
   "fields": {
     "number": 40,
     "pokemon_name": "Wigglytuff",
-    "types": [13, 5],
     "heart_point": 140,
     "attack": 70,
     "defense": 45,
@@ -787,7 +741,6 @@
   "fields": {
     "number": 41,
     "pokemon_name": "Zubat",
-    "types": [14, 8],
     "heart_point": 40,
     "attack": 45,
     "defense": 35,
@@ -804,7 +757,6 @@
   "fields": {
     "number": 42,
     "pokemon_name": "Golbat",
-    "types": [14, 8],
     "heart_point": 75,
     "attack": 80,
     "defense": 70,
@@ -821,7 +773,6 @@
   "fields": {
     "number": 43,
     "pokemon_name": "Oddish",
-    "types": [10, 14],
     "heart_point": 45,
     "attack": 50,
     "defense": 55,
@@ -838,7 +789,6 @@
   "fields": {
     "number": 44,
     "pokemon_name": "Gloom",
-    "types": [10, 14],
     "heart_point": 60,
     "attack": 65,
     "defense": 70,
@@ -855,7 +805,6 @@
   "fields": {
     "number": 45,
     "pokemon_name": "Vileplume",
-    "types": [10, 14],
     "heart_point": 75,
     "attack": 80,
     "defense": 85,
@@ -872,7 +821,6 @@
   "fields": {
     "number": 46,
     "pokemon_name": "Paras",
-    "types": [1, 10],
     "heart_point": 35,
     "attack": 70,
     "defense": 55,
@@ -889,7 +837,6 @@
   "fields": {
     "number": 47,
     "pokemon_name": "Parasect",
-    "types": [1, 10],
     "heart_point": 60,
     "attack": 95,
     "defense": 80,
@@ -906,7 +853,6 @@
   "fields": {
     "number": 48,
     "pokemon_name": "Venonat",
-    "types": [1, 14],
     "heart_point": 60,
     "attack": 55,
     "defense": 50,
@@ -923,7 +869,6 @@
   "fields": {
     "number": 49,
     "pokemon_name": "Venomoth",
-    "types": [1, 14],
     "heart_point": 70,
     "attack": 65,
     "defense": 60,
@@ -940,7 +885,6 @@
   "fields": {
     "number": 50,
     "pokemon_name": "Diglett",
-    "types": [11, ""],
     "heart_point": 10,
     "attack": 55,
     "defense": 25,
@@ -957,7 +901,6 @@
   "fields": {
     "number": 51,
     "pokemon_name": "Dugtrio",
-    "types": [11, ""],
     "heart_point": 35,
     "attack": 80,
     "defense": 50,
@@ -974,7 +917,6 @@
   "fields": {
     "number": 52,
     "pokemon_name": "Meowth",
-    "types": [13, ""],
     "heart_point": 40,
     "attack": 45,
     "defense": 35,
@@ -991,7 +933,6 @@
   "fields": {
     "number": 53,
     "pokemon_name": "Persian",
-    "types": [13, ""],
     "heart_point": 65,
     "attack": 70,
     "defense": 60,
@@ -1008,7 +949,6 @@
   "fields": {
     "number": 54,
     "pokemon_name": "Psyduck",
-    "types": [18, ""],
     "heart_point": 50,
     "attack": 52,
     "defense": 48,
@@ -1025,7 +965,6 @@
   "fields": {
     "number": 55,
     "pokemon_name": "Golduck",
-    "types": [18, ""],
     "heart_point": 80,
     "attack": 82,
     "defense": 78,
@@ -1042,7 +981,6 @@
   "fields": {
     "number": 56,
     "pokemon_name": "Mankey",
-    "types": [6, ""],
     "heart_point": 40,
     "attack": 80,
     "defense": 35,
@@ -1059,7 +997,6 @@
   "fields": {
     "number": 57,
     "pokemon_name": "Primeape",
-    "types": [6, ""],
     "heart_point": 65,
     "attack": 105,
     "defense": 60,
@@ -1076,7 +1013,6 @@
   "fields": {
     "number": 58,
     "pokemon_name": "Growlithe",
-    "types": [7, ""],
     "heart_point": 55,
     "attack": 70,
     "defense": 45,
@@ -1093,7 +1029,6 @@
   "fields": {
     "number": 59,
     "pokemon_name": "Arcanine",
-    "types": [7, ""],
     "heart_point": 90,
     "attack": 110,
     "defense": 80,
@@ -1110,7 +1045,6 @@
   "fields": {
     "number": 60,
     "pokemon_name": "Poliwag",
-    "types": [18, ""],
     "heart_point": 40,
     "attack": 50,
     "defense": 40,
@@ -1127,7 +1061,6 @@
   "fields": {
     "number": 61,
     "pokemon_name": "Poliwhirl",
-    "types": [18, ""],
     "heart_point": 65,
     "attack": 65,
     "defense": 65,
@@ -1144,7 +1077,6 @@
   "fields": {
     "number": 62,
     "pokemon_name": "Poliwrath",
-    "types": [18, 6],
     "heart_point": 90,
     "attack": 95,
     "defense": 95,
@@ -1161,7 +1093,6 @@
   "fields": {
     "number": 63,
     "pokemon_name": "Abra",
-    "types": [15, ""],
     "heart_point": 25,
     "attack": 20,
     "defense": 15,
@@ -1178,7 +1109,6 @@
   "fields": {
     "number": 64,
     "pokemon_name": "Kadabra",
-    "types": [15, ""],
     "heart_point": 40,
     "attack": 35,
     "defense": 30,
@@ -1195,7 +1125,6 @@
   "fields": {
     "number": 65,
     "pokemon_name": "Alakazam",
-    "types": [15, ""],
     "heart_point": 55,
     "attack": 50,
     "defense": 45,
@@ -1212,7 +1141,6 @@
   "fields": {
     "number": 65,
     "pokemon_name": "AlakazamMega Alakazam",
-    "types": [15, ""],
     "heart_point": 55,
     "attack": 50,
     "defense": 65,
@@ -1229,7 +1157,6 @@
   "fields": {
     "number": 66,
     "pokemon_name": "Machop",
-    "types": [6, ""],
     "heart_point": 70,
     "attack": 80,
     "defense": 50,
@@ -1246,7 +1173,6 @@
   "fields": {
     "number": 67,
     "pokemon_name": "Machoke",
-    "types": [6, ""],
     "heart_point": 80,
     "attack": 100,
     "defense": 70,
@@ -1263,7 +1189,6 @@
   "fields": {
     "number": 68,
     "pokemon_name": "Machamp",
-    "types": [6, ""],
     "heart_point": 90,
     "attack": 130,
     "defense": 80,
@@ -1280,7 +1205,6 @@
   "fields": {
     "number": 69,
     "pokemon_name": "Bellsprout",
-    "types": [10, 14],
     "heart_point": 50,
     "attack": 75,
     "defense": 35,
@@ -1297,7 +1221,6 @@
   "fields": {
     "number": 70,
     "pokemon_name": "Weepinbell",
-    "types": [10, 14],
     "heart_point": 65,
     "attack": 90,
     "defense": 50,
@@ -1314,7 +1237,6 @@
   "fields": {
     "number": 71,
     "pokemon_name": "Victreebel",
-    "types": [10, 14],
     "heart_point": 80,
     "attack": 105,
     "defense": 65,
@@ -1331,7 +1253,6 @@
   "fields": {
     "number": 72,
     "pokemon_name": "Tentacool",
-    "types": [18, 14],
     "heart_point": 40,
     "attack": 40,
     "defense": 35,
@@ -1348,7 +1269,6 @@
   "fields": {
     "number": 73,
     "pokemon_name": "Tentacruel",
-    "types": [18, 14],
     "heart_point": 80,
     "attack": 70,
     "defense": 65,
@@ -1365,7 +1285,6 @@
   "fields": {
     "number": 74,
     "pokemon_name": "Geodude",
-    "types": [16, 11],
     "heart_point": 40,
     "attack": 80,
     "defense": 100,
@@ -1382,7 +1301,6 @@
   "fields": {
     "number": 75,
     "pokemon_name": "Graveler",
-    "types": [16, 11],
     "heart_point": 55,
     "attack": 95,
     "defense": 115,
@@ -1399,7 +1317,6 @@
   "fields": {
     "number": 76,
     "pokemon_name": "Golem",
-    "types": [16, 11],
     "heart_point": 80,
     "attack": 120,
     "defense": 130,
@@ -1416,7 +1333,6 @@
   "fields": {
     "number": 77,
     "pokemon_name": "Ponyta",
-    "types": [7, ""],
     "heart_point": 50,
     "attack": 85,
     "defense": 55,
@@ -1433,7 +1349,6 @@
   "fields": {
     "number": 78,
     "pokemon_name": "Rapidash",
-    "types": [7, ""],
     "heart_point": 65,
     "attack": 100,
     "defense": 70,
@@ -1450,7 +1365,6 @@
   "fields": {
     "number": 79,
     "pokemon_name": "Slowpoke",
-    "types": [18, 15],
     "heart_point": 90,
     "attack": 65,
     "defense": 65,
@@ -1467,7 +1381,6 @@
   "fields": {
     "number": 80,
     "pokemon_name": "Slowbro",
-    "types": [18, 15],
     "heart_point": 95,
     "attack": 75,
     "defense": 110,
@@ -1484,7 +1397,6 @@
   "fields": {
     "number": 80,
     "pokemon_name": "SlowbroMega Slowbro",
-    "types": [18, 15],
     "heart_point": 95,
     "attack": 75,
     "defense": 180,
@@ -1501,7 +1413,6 @@
   "fields": {
     "number": 81,
     "pokemon_name": "Magnemite",
-    "types": [4, 17],
     "heart_point": 25,
     "attack": 35,
     "defense": 70,
@@ -1518,7 +1429,6 @@
   "fields": {
     "number": 82,
     "pokemon_name": "Magneton",
-    "types": [4, 17],
     "heart_point": 50,
     "attack": 60,
     "defense": 95,
@@ -1535,7 +1445,6 @@
   "fields": {
     "number": 83,
     "pokemon_name": "Farfetch'd",
-    "types": [13, 8],
     "heart_point": 52,
     "attack": 65,
     "defense": 55,
@@ -1552,7 +1461,6 @@
   "fields": {
     "number": 84,
     "pokemon_name": "Doduo",
-    "types": [13, 8],
     "heart_point": 35,
     "attack": 85,
     "defense": 45,
@@ -1569,7 +1477,6 @@
   "fields": {
     "number": 85,
     "pokemon_name": "Dodrio",
-    "types": [13, 8],
     "heart_point": 60,
     "attack": 110,
     "defense": 70,
@@ -1586,7 +1493,6 @@
   "fields": {
     "number": 86,
     "pokemon_name": "Seel",
-    "types": [18, ""],
     "heart_point": 65,
     "attack": 45,
     "defense": 55,
@@ -1603,7 +1509,6 @@
   "fields": {
     "number": 87,
     "pokemon_name": "Dewgong",
-    "types": [18, 12],
     "heart_point": 90,
     "attack": 70,
     "defense": 80,
@@ -1620,7 +1525,6 @@
   "fields": {
     "number": 88,
     "pokemon_name": "Grimer",
-    "types": [14, ""],
     "heart_point": 80,
     "attack": 80,
     "defense": 50,
@@ -1637,7 +1541,6 @@
   "fields": {
     "number": 89,
     "pokemon_name": "Muk",
-    "types": [14, ""],
     "heart_point": 105,
     "attack": 105,
     "defense": 75,
@@ -1654,7 +1557,6 @@
   "fields": {
     "number": 90,
     "pokemon_name": "Shellder",
-    "types": [18, ""],
     "heart_point": 30,
     "attack": 65,
     "defense": 100,
@@ -1671,7 +1573,6 @@
   "fields": {
     "number": 91,
     "pokemon_name": "Cloyster",
-    "types": [18, 12],
     "heart_point": 50,
     "attack": 95,
     "defense": 180,
@@ -1688,7 +1589,6 @@
   "fields": {
     "number": 92,
     "pokemon_name": "Gastly",
-    "types": [9, 14],
     "heart_point": 30,
     "attack": 35,
     "defense": 30,
@@ -1705,7 +1605,6 @@
   "fields": {
     "number": 93,
     "pokemon_name": "Haunter",
-    "types": [9, 14],
     "heart_point": 45,
     "attack": 50,
     "defense": 45,
@@ -1722,7 +1621,6 @@
   "fields": {
     "number": 94,
     "pokemon_name": "Gengar",
-    "types": [9, 14],
     "heart_point": 60,
     "attack": 65,
     "defense": 60,
@@ -1739,7 +1637,6 @@
   "fields": {
     "number": 94,
     "pokemon_name": "GengarMega Gengar",
-    "types": [9, 14],
     "heart_point": 60,
     "attack": 65,
     "defense": 80,
@@ -1756,7 +1653,6 @@
   "fields": {
     "number": 95,
     "pokemon_name": "Onix",
-    "types": [16, 11],
     "heart_point": 35,
     "attack": 45,
     "defense": 160,
@@ -1773,7 +1669,6 @@
   "fields": {
     "number": 96,
     "pokemon_name": "Drowzee",
-    "types": [15, ""],
     "heart_point": 60,
     "attack": 48,
     "defense": 45,
@@ -1790,7 +1685,6 @@
   "fields": {
     "number": 97,
     "pokemon_name": "Hypno",
-    "types": [15, ""],
     "heart_point": 85,
     "attack": 73,
     "defense": 70,
@@ -1807,7 +1701,6 @@
   "fields": {
     "number": 98,
     "pokemon_name": "Krabby",
-    "types": [18, ""],
     "heart_point": 30,
     "attack": 105,
     "defense": 90,
@@ -1824,7 +1717,6 @@
   "fields": {
     "number": 99,
     "pokemon_name": "Kingler",
-    "types": [18, ""],
     "heart_point": 55,
     "attack": 130,
     "defense": 115,
@@ -1841,7 +1733,6 @@
   "fields": {
     "number": 100,
     "pokemon_name": "Voltorb",
-    "types": [4, ""],
     "heart_point": 40,
     "attack": 30,
     "defense": 50,
@@ -1858,7 +1749,6 @@
   "fields": {
     "number": 101,
     "pokemon_name": "Electrode",
-    "types": [4, ""],
     "heart_point": 60,
     "attack": 50,
     "defense": 70,
@@ -1875,7 +1765,6 @@
   "fields": {
     "number": 102,
     "pokemon_name": "Exeggcute",
-    "types": [10, 15],
     "heart_point": 60,
     "attack": 40,
     "defense": 80,
@@ -1892,7 +1781,6 @@
   "fields": {
     "number": 103,
     "pokemon_name": "Exeggutor",
-    "types": [10, 15],
     "heart_point": 95,
     "attack": 95,
     "defense": 85,
@@ -1909,7 +1797,6 @@
   "fields": {
     "number": 104,
     "pokemon_name": "Cubone",
-    "types": [11, ""],
     "heart_point": 50,
     "attack": 50,
     "defense": 95,
@@ -1926,7 +1813,6 @@
   "fields": {
     "number": 105,
     "pokemon_name": "Marowak",
-    "types": [11, ""],
     "heart_point": 60,
     "attack": 80,
     "defense": 110,
@@ -1943,7 +1829,6 @@
   "fields": {
     "number": 106,
     "pokemon_name": "Hitmonlee",
-    "types": [6, ""],
     "heart_point": 50,
     "attack": 120,
     "defense": 53,
@@ -1960,7 +1845,6 @@
   "fields": {
     "number": 107,
     "pokemon_name": "Hitmonchan",
-    "types": [6, ""],
     "heart_point": 50,
     "attack": 105,
     "defense": 79,
@@ -1977,7 +1861,6 @@
   "fields": {
     "number": 108,
     "pokemon_name": "Lickitung",
-    "types": [13, ""],
     "heart_point": 90,
     "attack": 55,
     "defense": 75,
@@ -1994,7 +1877,6 @@
   "fields": {
     "number": 109,
     "pokemon_name": "Koffing",
-    "types": [14, ""],
     "heart_point": 40,
     "attack": 65,
     "defense": 95,
@@ -2011,7 +1893,6 @@
   "fields": {
     "number": 110,
     "pokemon_name": "Weezing",
-    "types": [14, ""],
     "heart_point": 65,
     "attack": 90,
     "defense": 120,
@@ -2028,7 +1909,6 @@
   "fields": {
     "number": 111,
     "pokemon_name": "Rhyhorn",
-    "types": [11, 16],
     "heart_point": 80,
     "attack": 85,
     "defense": 95,
@@ -2045,7 +1925,6 @@
   "fields": {
     "number": 112,
     "pokemon_name": "Rhydon",
-    "types": [11, 16],
     "heart_point": 105,
     "attack": 130,
     "defense": 120,
@@ -2062,7 +1941,6 @@
   "fields": {
     "number": 113,
     "pokemon_name": "Chansey",
-    "types": [13, ""],
     "heart_point": 250,
     "attack": 5,
     "defense": 5,
@@ -2079,7 +1957,6 @@
   "fields": {
     "number": 114,
     "pokemon_name": "Tangela",
-    "types": [10, ""],
     "heart_point": 65,
     "attack": 55,
     "defense": 115,
@@ -2096,7 +1973,6 @@
   "fields": {
     "number": 115,
     "pokemon_name": "Kangaskhan",
-    "types": [13, ""],
     "heart_point": 105,
     "attack": 95,
     "defense": 80,
@@ -2113,7 +1989,6 @@
   "fields": {
     "number": 115,
     "pokemon_name": "KangaskhanMega Kangaskhan",
-    "types": [13, ""],
     "heart_point": 105,
     "attack": 125,
     "defense": 100,
@@ -2130,7 +2005,6 @@
   "fields": {
     "number": 116,
     "pokemon_name": "Horsea",
-    "types": [18, ""],
     "heart_point": 30,
     "attack": 40,
     "defense": 70,
@@ -2147,7 +2021,6 @@
   "fields": {
     "number": 117,
     "pokemon_name": "Seadra",
-    "types": [18, ""],
     "heart_point": 55,
     "attack": 65,
     "defense": 95,
@@ -2164,7 +2037,6 @@
   "fields": {
     "number": 118,
     "pokemon_name": "Goldeen",
-    "types": [18, ""],
     "heart_point": 45,
     "attack": 67,
     "defense": 60,
@@ -2181,7 +2053,6 @@
   "fields": {
     "number": 119,
     "pokemon_name": "Seaking",
-    "types": [18, ""],
     "heart_point": 80,
     "attack": 92,
     "defense": 65,
@@ -2198,7 +2069,6 @@
   "fields": {
     "number": 120,
     "pokemon_name": "Staryu",
-    "types": [18, ""],
     "heart_point": 30,
     "attack": 45,
     "defense": 55,
@@ -2215,7 +2085,6 @@
   "fields": {
     "number": 121,
     "pokemon_name": "Starmie",
-    "types": [18, 15],
     "heart_point": 60,
     "attack": 75,
     "defense": 85,
@@ -2232,7 +2101,6 @@
   "fields": {
     "number": 122,
     "pokemon_name": "Mr. Mime",
-    "types": [15, 5],
     "heart_point": 40,
     "attack": 45,
     "defense": 65,
@@ -2249,7 +2117,6 @@
   "fields": {
     "number": 123,
     "pokemon_name": "Scyther",
-    "types": [1, 8],
     "heart_point": 70,
     "attack": 110,
     "defense": 80,
@@ -2266,7 +2133,6 @@
   "fields": {
     "number": 124,
     "pokemon_name": "Jynx",
-    "types": [12, 15],
     "heart_point": 65,
     "attack": 50,
     "defense": 35,
@@ -2283,7 +2149,6 @@
   "fields": {
     "number": 125,
     "pokemon_name": "Electabuzz",
-    "types": [4, ""],
     "heart_point": 65,
     "attack": 83,
     "defense": 57,
@@ -2300,7 +2165,6 @@
   "fields": {
     "number": 126,
     "pokemon_name": "Magmar",
-    "types": [7, ""],
     "heart_point": 65,
     "attack": 95,
     "defense": 57,
@@ -2317,7 +2181,6 @@
   "fields": {
     "number": 127,
     "pokemon_name": "Pinsir",
-    "types": [1, ""],
     "heart_point": 65,
     "attack": 125,
     "defense": 100,
@@ -2334,7 +2197,6 @@
   "fields": {
     "number": 127,
     "pokemon_name": "PinsirMega Pinsir",
-    "types": [1, 8],
     "heart_point": 65,
     "attack": 155,
     "defense": 120,
@@ -2351,7 +2213,6 @@
   "fields": {
     "number": 128,
     "pokemon_name": "Tauros",
-    "types": [13, ""],
     "heart_point": 75,
     "attack": 100,
     "defense": 95,
@@ -2368,7 +2229,6 @@
   "fields": {
     "number": 129,
     "pokemon_name": "Magikarp",
-    "types": [18, ""],
     "heart_point": 20,
     "attack": 10,
     "defense": 55,
@@ -2385,7 +2245,6 @@
   "fields": {
     "number": 130,
     "pokemon_name": "Gyarados",
-    "types": [18, 8],
     "heart_point": 95,
     "attack": 125,
     "defense": 79,
@@ -2402,7 +2261,6 @@
   "fields": {
     "number": 130,
     "pokemon_name": "GyaradosMega Gyarados",
-    "types": [18, 2],
     "heart_point": 95,
     "attack": 155,
     "defense": 109,
@@ -2419,7 +2277,6 @@
   "fields": {
     "number": 131,
     "pokemon_name": "Lapras",
-    "types": [18, 12],
     "heart_point": 130,
     "attack": 85,
     "defense": 80,
@@ -2436,7 +2293,6 @@
   "fields": {
     "number": 132,
     "pokemon_name": "Ditto",
-    "types": [13, ""],
     "heart_point": 48,
     "attack": 48,
     "defense": 48,
@@ -2453,7 +2309,6 @@
   "fields": {
     "number": 133,
     "pokemon_name": "Eevee",
-    "types": [13, ""],
     "heart_point": 55,
     "attack": 55,
     "defense": 50,
@@ -2470,7 +2325,6 @@
   "fields": {
     "number": 134,
     "pokemon_name": "Vaporeon",
-    "types": [18, ""],
     "heart_point": 130,
     "attack": 65,
     "defense": 60,
@@ -2487,7 +2341,6 @@
   "fields": {
     "number": 135,
     "pokemon_name": "Jolteon",
-    "types": [4, ""],
     "heart_point": 65,
     "attack": 65,
     "defense": 60,
@@ -2504,7 +2357,6 @@
   "fields": {
     "number": 136,
     "pokemon_name": "Flareon",
-    "types": [7, ""],
     "heart_point": 65,
     "attack": 130,
     "defense": 60,
@@ -2521,7 +2373,6 @@
   "fields": {
     "number": 137,
     "pokemon_name": "Porygon",
-    "types": [13, ""],
     "heart_point": 65,
     "attack": 60,
     "defense": 70,
@@ -2538,7 +2389,6 @@
   "fields": {
     "number": 138,
     "pokemon_name": "Omanyte",
-    "types": [16, 18],
     "heart_point": 35,
     "attack": 40,
     "defense": 100,
@@ -2555,7 +2405,6 @@
   "fields": {
     "number": 139,
     "pokemon_name": "Omastar",
-    "types": [16, 18],
     "heart_point": 70,
     "attack": 60,
     "defense": 125,
@@ -2572,7 +2421,6 @@
   "fields": {
     "number": 140,
     "pokemon_name": "Kabuto",
-    "types": [16, 18],
     "heart_point": 30,
     "attack": 80,
     "defense": 90,
@@ -2589,7 +2437,6 @@
   "fields": {
     "number": 141,
     "pokemon_name": "Kabutops",
-    "types": [16, 18],
     "heart_point": 60,
     "attack": 115,
     "defense": 105,
@@ -2606,7 +2453,6 @@
   "fields": {
     "number": 142,
     "pokemon_name": "Aerodactyl",
-    "types": [16, 8],
     "heart_point": 80,
     "attack": 105,
     "defense": 65,
@@ -2623,7 +2469,6 @@
   "fields": {
     "number": 142,
     "pokemon_name": "AerodactylMega Aerodactyl",
-    "types": [16, 8],
     "heart_point": 80,
     "attack": 135,
     "defense": 85,
@@ -2640,7 +2485,6 @@
   "fields": {
     "number": 143,
     "pokemon_name": "Snorlax",
-    "types": [13, ""],
     "heart_point": 160,
     "attack": 110,
     "defense": 65,
@@ -2657,7 +2501,6 @@
   "fields": {
     "number": 144,
     "pokemon_name": "Articuno",
-    "types": [12, 8],
     "heart_point": 90,
     "attack": 85,
     "defense": 100,
@@ -2674,7 +2517,6 @@
   "fields": {
     "number": 145,
     "pokemon_name": "Zapdos",
-    "types": [4, 8],
     "heart_point": 90,
     "attack": 90,
     "defense": 85,
@@ -2691,7 +2533,6 @@
   "fields": {
     "number": 146,
     "pokemon_name": "Moltres",
-    "types": [7, 8],
     "heart_point": 90,
     "attack": 100,
     "defense": 90,
@@ -2708,7 +2549,6 @@
   "fields": {
     "number": 147,
     "pokemon_name": "Dratini",
-    "types": [3, ""],
     "heart_point": 41,
     "attack": 64,
     "defense": 45,
@@ -2725,7 +2565,6 @@
   "fields": {
     "number": 148,
     "pokemon_name": "Dragonair",
-    "types": [3, ""],
     "heart_point": 61,
     "attack": 84,
     "defense": 65,
@@ -2742,7 +2581,6 @@
   "fields": {
     "number": 149,
     "pokemon_name": "Dragonite",
-    "types": [3, 8],
     "heart_point": 91,
     "attack": 134,
     "defense": 95,
@@ -2759,7 +2597,6 @@
   "fields": {
     "number": 150,
     "pokemon_name": "Mewtwo",
-    "types": [15, ""],
     "heart_point": 106,
     "attack": 110,
     "defense": 90,
@@ -2776,7 +2613,6 @@
   "fields": {
     "number": 150,
     "pokemon_name": "MewtwoMega Mewtwo X",
-    "types": [15, 6],
     "heart_point": 106,
     "attack": 190,
     "defense": 100,
@@ -2793,7 +2629,6 @@
   "fields": {
     "number": 150,
     "pokemon_name": "MewtwoMega Mewtwo Y",
-    "types": [15, ""],
     "heart_point": 106,
     "attack": 150,
     "defense": 70,
@@ -2810,7 +2645,6 @@
   "fields": {
     "number": 151,
     "pokemon_name": "Mew",
-    "types": [15, ""],
     "heart_point": 100,
     "attack": 100,
     "defense": 100,
@@ -2827,7 +2661,6 @@
   "fields": {
     "number": 152,
     "pokemon_name": "Chikorita",
-    "types": [10, ""],
     "heart_point": 45,
     "attack": 49,
     "defense": 65,
@@ -2844,7 +2677,6 @@
   "fields": {
     "number": 153,
     "pokemon_name": "Bayleef",
-    "types": [10, ""],
     "heart_point": 60,
     "attack": 62,
     "defense": 80,
@@ -2861,7 +2693,6 @@
   "fields": {
     "number": 154,
     "pokemon_name": "Meganium",
-    "types": [10, ""],
     "heart_point": 80,
     "attack": 82,
     "defense": 100,
@@ -2878,7 +2709,6 @@
   "fields": {
     "number": 155,
     "pokemon_name": "Cyndaquil",
-    "types": [7, ""],
     "heart_point": 39,
     "attack": 52,
     "defense": 43,
@@ -2895,7 +2725,6 @@
   "fields": {
     "number": 156,
     "pokemon_name": "Quilava",
-    "types": [7, ""],
     "heart_point": 58,
     "attack": 64,
     "defense": 58,
@@ -2912,7 +2741,6 @@
   "fields": {
     "number": 157,
     "pokemon_name": "Typhlosion",
-    "types": [7, ""],
     "heart_point": 78,
     "attack": 84,
     "defense": 78,
@@ -2929,7 +2757,6 @@
   "fields": {
     "number": 158,
     "pokemon_name": "Totodile",
-    "types": [18, ""],
     "heart_point": 50,
     "attack": 65,
     "defense": 64,
@@ -2946,7 +2773,6 @@
   "fields": {
     "number": 159,
     "pokemon_name": "Croconaw",
-    "types": [18, ""],
     "heart_point": 65,
     "attack": 80,
     "defense": 80,
@@ -2963,7 +2789,6 @@
   "fields": {
     "number": 160,
     "pokemon_name": "Feraligatr",
-    "types": [18, ""],
     "heart_point": 85,
     "attack": 105,
     "defense": 100,
@@ -2980,7 +2805,6 @@
   "fields": {
     "number": 161,
     "pokemon_name": "Sentret",
-    "types": [13, ""],
     "heart_point": 35,
     "attack": 46,
     "defense": 34,
@@ -2997,7 +2821,6 @@
   "fields": {
     "number": 162,
     "pokemon_name": "Furret",
-    "types": [13, ""],
     "heart_point": 85,
     "attack": 76,
     "defense": 64,
@@ -3014,7 +2837,6 @@
   "fields": {
     "number": 163,
     "pokemon_name": "Hoothoot",
-    "types": [13, 8],
     "heart_point": 60,
     "attack": 30,
     "defense": 30,
@@ -3031,7 +2853,6 @@
   "fields": {
     "number": 164,
     "pokemon_name": "Noctowl",
-    "types": [13, 8],
     "heart_point": 100,
     "attack": 50,
     "defense": 50,
@@ -3048,7 +2869,6 @@
   "fields": {
     "number": 165,
     "pokemon_name": "Ledyba",
-    "types": [1, 8],
     "heart_point": 40,
     "attack": 20,
     "defense": 30,
@@ -3065,7 +2885,6 @@
   "fields": {
     "number": 166,
     "pokemon_name": "Ledian",
-    "types": [1, 8],
     "heart_point": 55,
     "attack": 35,
     "defense": 50,
@@ -3082,7 +2901,6 @@
   "fields": {
     "number": 167,
     "pokemon_name": "Spinarak",
-    "types": [1, 14],
     "heart_point": 40,
     "attack": 60,
     "defense": 40,
@@ -3099,7 +2917,6 @@
   "fields": {
     "number": 168,
     "pokemon_name": "Ariados",
-    "types": [1, 14],
     "heart_point": 70,
     "attack": 90,
     "defense": 70,
@@ -3116,7 +2933,6 @@
   "fields": {
     "number": 169,
     "pokemon_name": "Crobat",
-    "types": [14, 8],
     "heart_point": 85,
     "attack": 90,
     "defense": 80,
@@ -3133,7 +2949,6 @@
   "fields": {
     "number": 170,
     "pokemon_name": "Chinchou",
-    "types": [18, 4],
     "heart_point": 75,
     "attack": 38,
     "defense": 38,
@@ -3150,7 +2965,6 @@
   "fields": {
     "number": 171,
     "pokemon_name": "Lanturn",
-    "types": [18, 4],
     "heart_point": 125,
     "attack": 58,
     "defense": 58,
@@ -3167,7 +2981,6 @@
   "fields": {
     "number": 172,
     "pokemon_name": "Pichu",
-    "types": [4, ""],
     "heart_point": 20,
     "attack": 40,
     "defense": 15,
@@ -3184,7 +2997,6 @@
   "fields": {
     "number": 173,
     "pokemon_name": "Cleffa",
-    "types": [5, ""],
     "heart_point": 50,
     "attack": 25,
     "defense": 28,
@@ -3201,7 +3013,6 @@
   "fields": {
     "number": 174,
     "pokemon_name": "Igglybuff",
-    "types": [13, 5],
     "heart_point": 90,
     "attack": 30,
     "defense": 15,
@@ -3218,7 +3029,6 @@
   "fields": {
     "number": 175,
     "pokemon_name": "Togepi",
-    "types": [5, ""],
     "heart_point": 35,
     "attack": 20,
     "defense": 65,
@@ -3235,7 +3045,6 @@
   "fields": {
     "number": 176,
     "pokemon_name": "Togetic",
-    "types": [5, 8],
     "heart_point": 55,
     "attack": 40,
     "defense": 85,
@@ -3252,7 +3061,6 @@
   "fields": {
     "number": 177,
     "pokemon_name": "Natu",
-    "types": [15, 8],
     "heart_point": 40,
     "attack": 50,
     "defense": 45,
@@ -3269,7 +3077,6 @@
   "fields": {
     "number": 178,
     "pokemon_name": "Xatu",
-    "types": [15, 8],
     "heart_point": 65,
     "attack": 75,
     "defense": 70,
@@ -3286,7 +3093,6 @@
   "fields": {
     "number": 179,
     "pokemon_name": "Mareep",
-    "types": [4, ""],
     "heart_point": 55,
     "attack": 40,
     "defense": 40,
@@ -3303,7 +3109,6 @@
   "fields": {
     "number": 180,
     "pokemon_name": "Flaaffy",
-    "types": [4, ""],
     "heart_point": 70,
     "attack": 55,
     "defense": 55,
@@ -3320,7 +3125,6 @@
   "fields": {
     "number": 181,
     "pokemon_name": "Ampharos",
-    "types": [4, ""],
     "heart_point": 90,
     "attack": 75,
     "defense": 85,
@@ -3337,7 +3141,6 @@
   "fields": {
     "number": 181,
     "pokemon_name": "AmpharosMega Ampharos",
-    "types": [4, 3],
     "heart_point": 90,
     "attack": 95,
     "defense": 105,
@@ -3354,7 +3157,6 @@
   "fields": {
     "number": 182,
     "pokemon_name": "Bellossom",
-    "types": [10, ""],
     "heart_point": 75,
     "attack": 80,
     "defense": 95,
@@ -3371,7 +3173,6 @@
   "fields": {
     "number": 183,
     "pokemon_name": "Marill",
-    "types": [18, 5],
     "heart_point": 70,
     "attack": 20,
     "defense": 50,
@@ -3388,7 +3189,6 @@
   "fields": {
     "number": 184,
     "pokemon_name": "Azumarill",
-    "types": [18, 5],
     "heart_point": 100,
     "attack": 50,
     "defense": 80,
@@ -3405,7 +3205,6 @@
   "fields": {
     "number": 185,
     "pokemon_name": "Sudowoodo",
-    "types": [16, ""],
     "heart_point": 70,
     "attack": 100,
     "defense": 115,
@@ -3422,7 +3221,6 @@
   "fields": {
     "number": 186,
     "pokemon_name": "Politoed",
-    "types": [18, ""],
     "heart_point": 90,
     "attack": 75,
     "defense": 75,
@@ -3439,7 +3237,6 @@
   "fields": {
     "number": 187,
     "pokemon_name": "Hoppip",
-    "types": [10, 8],
     "heart_point": 35,
     "attack": 35,
     "defense": 40,
@@ -3456,7 +3253,6 @@
   "fields": {
     "number": 188,
     "pokemon_name": "Skiploom",
-    "types": [10, 8],
     "heart_point": 55,
     "attack": 45,
     "defense": 50,
@@ -3473,7 +3269,6 @@
   "fields": {
     "number": 189,
     "pokemon_name": "Jumpluff",
-    "types": [10, 8],
     "heart_point": 75,
     "attack": 55,
     "defense": 70,
@@ -3490,7 +3285,6 @@
   "fields": {
     "number": 190,
     "pokemon_name": "Aipom",
-    "types": [13, ""],
     "heart_point": 55,
     "attack": 70,
     "defense": 55,
@@ -3507,7 +3301,6 @@
   "fields": {
     "number": 191,
     "pokemon_name": "Sunkern",
-    "types": [10, ""],
     "heart_point": 30,
     "attack": 30,
     "defense": 30,
@@ -3524,7 +3317,6 @@
   "fields": {
     "number": 192,
     "pokemon_name": "Sunflora",
-    "types": [10, ""],
     "heart_point": 75,
     "attack": 75,
     "defense": 55,
@@ -3541,7 +3333,6 @@
   "fields": {
     "number": 193,
     "pokemon_name": "Yanma",
-    "types": [1, 8],
     "heart_point": 65,
     "attack": 65,
     "defense": 45,
@@ -3558,7 +3349,6 @@
   "fields": {
     "number": 194,
     "pokemon_name": "Wooper",
-    "types": [18, 11],
     "heart_point": 55,
     "attack": 45,
     "defense": 45,
@@ -3575,7 +3365,6 @@
   "fields": {
     "number": 195,
     "pokemon_name": "Quagsire",
-    "types": [18, 11],
     "heart_point": 95,
     "attack": 85,
     "defense": 85,
@@ -3592,7 +3381,6 @@
   "fields": {
     "number": 196,
     "pokemon_name": "Espeon",
-    "types": [15, ""],
     "heart_point": 65,
     "attack": 65,
     "defense": 60,
@@ -3609,7 +3397,6 @@
   "fields": {
     "number": 197,
     "pokemon_name": "Umbreon",
-    "types": [2, ""],
     "heart_point": 95,
     "attack": 65,
     "defense": 110,
@@ -3626,7 +3413,6 @@
   "fields": {
     "number": 198,
     "pokemon_name": "Murkrow",
-    "types": [2, 8],
     "heart_point": 60,
     "attack": 85,
     "defense": 42,
@@ -3643,7 +3429,6 @@
   "fields": {
     "number": 199,
     "pokemon_name": "Slowking",
-    "types": [18, 15],
     "heart_point": 95,
     "attack": 75,
     "defense": 80,
@@ -3660,7 +3445,6 @@
   "fields": {
     "number": 200,
     "pokemon_name": "Misdreavus",
-    "types": [9, ""],
     "heart_point": 60,
     "attack": 60,
     "defense": 60,
@@ -3677,7 +3461,6 @@
   "fields": {
     "number": 201,
     "pokemon_name": "Unown",
-    "types": [15, ""],
     "heart_point": 48,
     "attack": 72,
     "defense": 48,
@@ -3694,7 +3477,6 @@
   "fields": {
     "number": 202,
     "pokemon_name": "Wobbuffet",
-    "types": [15, ""],
     "heart_point": 190,
     "attack": 33,
     "defense": 58,
@@ -3711,7 +3493,6 @@
   "fields": {
     "number": 203,
     "pokemon_name": "Girafarig",
-    "types": [13, 15],
     "heart_point": 70,
     "attack": 80,
     "defense": 65,
@@ -3728,7 +3509,6 @@
   "fields": {
     "number": 204,
     "pokemon_name": "Pineco",
-    "types": [1, ""],
     "heart_point": 50,
     "attack": 65,
     "defense": 90,
@@ -3745,7 +3525,6 @@
   "fields": {
     "number": 205,
     "pokemon_name": "Forretress",
-    "types": [1, 17],
     "heart_point": 75,
     "attack": 90,
     "defense": 140,
@@ -3762,7 +3541,6 @@
   "fields": {
     "number": 206,
     "pokemon_name": "Dunsparce",
-    "types": [13, ""],
     "heart_point": 100,
     "attack": 70,
     "defense": 70,
@@ -3779,7 +3557,6 @@
   "fields": {
     "number": 207,
     "pokemon_name": "Gligar",
-    "types": [11, 8],
     "heart_point": 65,
     "attack": 75,
     "defense": 105,
@@ -3796,7 +3573,6 @@
   "fields": {
     "number": 208,
     "pokemon_name": "Steelix",
-    "types": [17, 11],
     "heart_point": 75,
     "attack": 85,
     "defense": 200,
@@ -3813,7 +3589,6 @@
   "fields": {
     "number": 208,
     "pokemon_name": "SteelixMega Steelix",
-    "types": [17, 11],
     "heart_point": 75,
     "attack": 125,
     "defense": 230,
@@ -3830,7 +3605,6 @@
   "fields": {
     "number": 209,
     "pokemon_name": "Snubbull",
-    "types": [5, ""],
     "heart_point": 60,
     "attack": 80,
     "defense": 50,
@@ -3847,7 +3621,6 @@
   "fields": {
     "number": 210,
     "pokemon_name": "Granbull",
-    "types": [5, ""],
     "heart_point": 90,
     "attack": 120,
     "defense": 75,
@@ -3864,7 +3637,6 @@
   "fields": {
     "number": 211,
     "pokemon_name": "Qwilfish",
-    "types": [18, 14],
     "heart_point": 65,
     "attack": 95,
     "defense": 75,
@@ -3881,7 +3653,6 @@
   "fields": {
     "number": 212,
     "pokemon_name": "Scizor",
-    "types": [1, 17],
     "heart_point": 70,
     "attack": 130,
     "defense": 100,
@@ -3898,7 +3669,6 @@
   "fields": {
     "number": 212,
     "pokemon_name": "ScizorMega Scizor",
-    "types": [1, 17],
     "heart_point": 70,
     "attack": 150,
     "defense": 140,
@@ -3915,7 +3685,6 @@
   "fields": {
     "number": 213,
     "pokemon_name": "Shuckle",
-    "types": [1, 16],
     "heart_point": 20,
     "attack": 10,
     "defense": 230,
@@ -3932,7 +3701,6 @@
   "fields": {
     "number": 214,
     "pokemon_name": "Heracross",
-    "types": [1, 6],
     "heart_point": 80,
     "attack": 125,
     "defense": 75,
@@ -3949,7 +3717,6 @@
   "fields": {
     "number": 214,
     "pokemon_name": "HeracrossMega Heracross",
-    "types": [1, 6],
     "heart_point": 80,
     "attack": 185,
     "defense": 115,
@@ -3966,7 +3733,6 @@
   "fields": {
     "number": 215,
     "pokemon_name": "Sneasel",
-    "types": [2, 12],
     "heart_point": 55,
     "attack": 95,
     "defense": 55,
@@ -3983,7 +3749,6 @@
   "fields": {
     "number": 216,
     "pokemon_name": "Teddiursa",
-    "types": [13, ""],
     "heart_point": 60,
     "attack": 80,
     "defense": 50,
@@ -4000,7 +3765,6 @@
   "fields": {
     "number": 217,
     "pokemon_name": "Ursaring",
-    "types": [13, ""],
     "heart_point": 90,
     "attack": 130,
     "defense": 75,
@@ -4017,7 +3781,6 @@
   "fields": {
     "number": 218,
     "pokemon_name": "Slugma",
-    "types": [7, ""],
     "heart_point": 40,
     "attack": 40,
     "defense": 40,
@@ -4034,7 +3797,6 @@
   "fields": {
     "number": 219,
     "pokemon_name": "Magcargo",
-    "types": [7, 16],
     "heart_point": 50,
     "attack": 50,
     "defense": 120,
@@ -4051,7 +3813,6 @@
   "fields": {
     "number": 220,
     "pokemon_name": "Swinub",
-    "types": [12, 11],
     "heart_point": 50,
     "attack": 50,
     "defense": 40,
@@ -4068,7 +3829,6 @@
   "fields": {
     "number": 221,
     "pokemon_name": "Piloswine",
-    "types": [12, 11],
     "heart_point": 100,
     "attack": 100,
     "defense": 80,
@@ -4085,7 +3845,6 @@
   "fields": {
     "number": 222,
     "pokemon_name": "Corsola",
-    "types": [18, 16],
     "heart_point": 55,
     "attack": 55,
     "defense": 85,
@@ -4102,7 +3861,6 @@
   "fields": {
     "number": 223,
     "pokemon_name": "Remoraid",
-    "types": [18, ""],
     "heart_point": 35,
     "attack": 65,
     "defense": 35,
@@ -4119,7 +3877,6 @@
   "fields": {
     "number": 224,
     "pokemon_name": "Octillery",
-    "types": [18, ""],
     "heart_point": 75,
     "attack": 105,
     "defense": 75,
@@ -4136,7 +3893,6 @@
   "fields": {
     "number": 225,
     "pokemon_name": "Delibird",
-    "types": [12, 8],
     "heart_point": 45,
     "attack": 55,
     "defense": 45,
@@ -4153,7 +3909,6 @@
   "fields": {
     "number": 226,
     "pokemon_name": "Mantine",
-    "types": [18, 8],
     "heart_point": 65,
     "attack": 40,
     "defense": 70,
@@ -4170,7 +3925,6 @@
   "fields": {
     "number": 227,
     "pokemon_name": "Skarmory",
-    "types": [17, 8],
     "heart_point": 65,
     "attack": 80,
     "defense": 140,
@@ -4187,7 +3941,6 @@
   "fields": {
     "number": 228,
     "pokemon_name": "Houndour",
-    "types": [2, 7],
     "heart_point": 45,
     "attack": 60,
     "defense": 30,
@@ -4204,7 +3957,6 @@
   "fields": {
     "number": 229,
     "pokemon_name": "Houndoom",
-    "types": [2, 7],
     "heart_point": 75,
     "attack": 90,
     "defense": 50,
@@ -4221,7 +3973,6 @@
   "fields": {
     "number": 229,
     "pokemon_name": "HoundoomMega Houndoom",
-    "types": [2, 7],
     "heart_point": 75,
     "attack": 90,
     "defense": 90,
@@ -4238,7 +3989,6 @@
   "fields": {
     "number": 230,
     "pokemon_name": "Kingdra",
-    "types": [18, 3],
     "heart_point": 75,
     "attack": 95,
     "defense": 95,
@@ -4255,7 +4005,6 @@
   "fields": {
     "number": 231,
     "pokemon_name": "Phanpy",
-    "types": [11, ""],
     "heart_point": 90,
     "attack": 60,
     "defense": 60,
@@ -4272,7 +4021,6 @@
   "fields": {
     "number": 232,
     "pokemon_name": "Donphan",
-    "types": [11, ""],
     "heart_point": 90,
     "attack": 120,
     "defense": 120,
@@ -4289,7 +4037,6 @@
   "fields": {
     "number": 233,
     "pokemon_name": "Porygon2",
-    "types": [13, ""],
     "heart_point": 85,
     "attack": 80,
     "defense": 90,
@@ -4306,7 +4053,6 @@
   "fields": {
     "number": 234,
     "pokemon_name": "Stantler",
-    "types": [13, ""],
     "heart_point": 73,
     "attack": 95,
     "defense": 62,
@@ -4323,7 +4069,6 @@
   "fields": {
     "number": 235,
     "pokemon_name": "Smeargle",
-    "types": [13, ""],
     "heart_point": 55,
     "attack": 20,
     "defense": 35,
@@ -4340,7 +4085,6 @@
   "fields": {
     "number": 236,
     "pokemon_name": "Tyrogue",
-    "types": [6, ""],
     "heart_point": 35,
     "attack": 35,
     "defense": 35,
@@ -4357,7 +4101,6 @@
   "fields": {
     "number": 237,
     "pokemon_name": "Hitmontop",
-    "types": [6, ""],
     "heart_point": 50,
     "attack": 95,
     "defense": 95,
@@ -4374,7 +4117,6 @@
   "fields": {
     "number": 238,
     "pokemon_name": "Smoochum",
-    "types": [12, 15],
     "heart_point": 45,
     "attack": 30,
     "defense": 15,
@@ -4391,7 +4133,6 @@
   "fields": {
     "number": 239,
     "pokemon_name": "Elekid",
-    "types": [4, ""],
     "heart_point": 45,
     "attack": 63,
     "defense": 37,
@@ -4408,7 +4149,6 @@
   "fields": {
     "number": 240,
     "pokemon_name": "Magby",
-    "types": [7, ""],
     "heart_point": 45,
     "attack": 75,
     "defense": 37,
@@ -4425,7 +4165,6 @@
   "fields": {
     "number": 241,
     "pokemon_name": "Miltank",
-    "types": [13, ""],
     "heart_point": 95,
     "attack": 80,
     "defense": 105,
@@ -4442,7 +4181,6 @@
   "fields": {
     "number": 242,
     "pokemon_name": "Blissey",
-    "types": [13, ""],
     "heart_point": 255,
     "attack": 10,
     "defense": 10,
@@ -4459,7 +4197,6 @@
   "fields": {
     "number": 243,
     "pokemon_name": "Raikou",
-    "types": [4, ""],
     "heart_point": 90,
     "attack": 85,
     "defense": 75,
@@ -4476,7 +4213,6 @@
   "fields": {
     "number": 244,
     "pokemon_name": "Entei",
-    "types": [7, ""],
     "heart_point": 115,
     "attack": 115,
     "defense": 85,
@@ -4493,7 +4229,6 @@
   "fields": {
     "number": 245,
     "pokemon_name": "Suicune",
-    "types": [18, ""],
     "heart_point": 100,
     "attack": 75,
     "defense": 115,
@@ -4510,7 +4245,6 @@
   "fields": {
     "number": 246,
     "pokemon_name": "Larvitar",
-    "types": [16, 11],
     "heart_point": 50,
     "attack": 64,
     "defense": 50,
@@ -4527,7 +4261,6 @@
   "fields": {
     "number": 247,
     "pokemon_name": "Pupitar",
-    "types": [16, 11],
     "heart_point": 70,
     "attack": 84,
     "defense": 70,
@@ -4544,7 +4277,6 @@
   "fields": {
     "number": 248,
     "pokemon_name": "Tyranitar",
-    "types": [16, 2],
     "heart_point": 100,
     "attack": 134,
     "defense": 110,
@@ -4561,7 +4293,6 @@
   "fields": {
     "number": 248,
     "pokemon_name": "TyranitarMega Tyranitar",
-    "types": [16, 2],
     "heart_point": 100,
     "attack": 164,
     "defense": 150,
@@ -4578,7 +4309,6 @@
   "fields": {
     "number": 249,
     "pokemon_name": "Lugia",
-    "types": [15, 8],
     "heart_point": 106,
     "attack": 90,
     "defense": 130,
@@ -4595,7 +4325,6 @@
   "fields": {
     "number": 250,
     "pokemon_name": "Ho-oh",
-    "types": [7, 8],
     "heart_point": 106,
     "attack": 130,
     "defense": 90,
@@ -4612,7 +4341,6 @@
   "fields": {
     "number": 251,
     "pokemon_name": "Celebi",
-    "types": [15, 10],
     "heart_point": 100,
     "attack": 100,
     "defense": 100,
@@ -4629,7 +4357,6 @@
   "fields": {
     "number": 252,
     "pokemon_name": "Treecko",
-    "types": [10, ""],
     "heart_point": 40,
     "attack": 45,
     "defense": 35,
@@ -4646,7 +4373,6 @@
   "fields": {
     "number": 253,
     "pokemon_name": "Grovyle",
-    "types": [10, ""],
     "heart_point": 50,
     "attack": 65,
     "defense": 45,
@@ -4663,7 +4389,6 @@
   "fields": {
     "number": 254,
     "pokemon_name": "Sceptile",
-    "types": [10, ""],
     "heart_point": 70,
     "attack": 85,
     "defense": 65,
@@ -4680,7 +4405,6 @@
   "fields": {
     "number": 254,
     "pokemon_name": "SceptileMega Sceptile",
-    "types": [10, 3],
     "heart_point": 70,
     "attack": 110,
     "defense": 75,
@@ -4697,7 +4421,6 @@
   "fields": {
     "number": 255,
     "pokemon_name": "Torchic",
-    "types": [7, ""],
     "heart_point": 45,
     "attack": 60,
     "defense": 40,
@@ -4714,7 +4437,6 @@
   "fields": {
     "number": 256,
     "pokemon_name": "Combusken",
-    "types": [7, 6],
     "heart_point": 60,
     "attack": 85,
     "defense": 60,
@@ -4731,7 +4453,6 @@
   "fields": {
     "number": 257,
     "pokemon_name": "Blaziken",
-    "types": [7, 6],
     "heart_point": 80,
     "attack": 120,
     "defense": 70,
@@ -4748,7 +4469,6 @@
   "fields": {
     "number": 257,
     "pokemon_name": "BlazikenMega Blaziken",
-    "types": [7, 6],
     "heart_point": 80,
     "attack": 160,
     "defense": 80,
@@ -4765,7 +4485,6 @@
   "fields": {
     "number": 258,
     "pokemon_name": "Mudkip",
-    "types": [18, ""],
     "heart_point": 50,
     "attack": 70,
     "defense": 50,
@@ -4782,7 +4501,6 @@
   "fields": {
     "number": 259,
     "pokemon_name": "Marshtomp",
-    "types": [18, 11],
     "heart_point": 70,
     "attack": 85,
     "defense": 70,
@@ -4799,7 +4517,6 @@
   "fields": {
     "number": 260,
     "pokemon_name": "Swampert",
-    "types": [18, 11],
     "heart_point": 100,
     "attack": 110,
     "defense": 90,
@@ -4816,7 +4533,6 @@
   "fields": {
     "number": 260,
     "pokemon_name": "SwampertMega Swampert",
-    "types": [18, 11],
     "heart_point": 100,
     "attack": 150,
     "defense": 110,
@@ -4833,7 +4549,6 @@
   "fields": {
     "number": 261,
     "pokemon_name": "Poochyena",
-    "types": [2, ""],
     "heart_point": 35,
     "attack": 55,
     "defense": 35,
@@ -4850,7 +4565,6 @@
   "fields": {
     "number": 262,
     "pokemon_name": "Mightyena",
-    "types": [2, ""],
     "heart_point": 70,
     "attack": 90,
     "defense": 70,
@@ -4867,7 +4581,6 @@
   "fields": {
     "number": 263,
     "pokemon_name": "Zigzagoon",
-    "types": [13, ""],
     "heart_point": 38,
     "attack": 30,
     "defense": 41,
@@ -4884,7 +4597,6 @@
   "fields": {
     "number": 264,
     "pokemon_name": "Linoone",
-    "types": [13, ""],
     "heart_point": 78,
     "attack": 70,
     "defense": 61,
@@ -4901,7 +4613,6 @@
   "fields": {
     "number": 265,
     "pokemon_name": "Wurmple",
-    "types": [1, ""],
     "heart_point": 45,
     "attack": 45,
     "defense": 35,
@@ -4918,7 +4629,6 @@
   "fields": {
     "number": 266,
     "pokemon_name": "Silcoon",
-    "types": [1, ""],
     "heart_point": 50,
     "attack": 35,
     "defense": 55,
@@ -4935,7 +4645,6 @@
   "fields": {
     "number": 267,
     "pokemon_name": "Beautifly",
-    "types": [1, 8],
     "heart_point": 60,
     "attack": 70,
     "defense": 50,
@@ -4952,7 +4661,6 @@
   "fields": {
     "number": 268,
     "pokemon_name": "Cascoon",
-    "types": [1, ""],
     "heart_point": 50,
     "attack": 35,
     "defense": 55,
@@ -4969,7 +4677,6 @@
   "fields": {
     "number": 269,
     "pokemon_name": "Dustox",
-    "types": [1, 14],
     "heart_point": 60,
     "attack": 50,
     "defense": 70,
@@ -4986,7 +4693,6 @@
   "fields": {
     "number": 270,
     "pokemon_name": "Lotad",
-    "types": [18, 10],
     "heart_point": 40,
     "attack": 30,
     "defense": 30,
@@ -5003,7 +4709,6 @@
   "fields": {
     "number": 271,
     "pokemon_name": "Lombre",
-    "types": [18, 10],
     "heart_point": 60,
     "attack": 50,
     "defense": 50,
@@ -5020,7 +4725,6 @@
   "fields": {
     "number": 272,
     "pokemon_name": "Ludicolo",
-    "types": [18, 10],
     "heart_point": 80,
     "attack": 70,
     "defense": 70,
@@ -5037,7 +4741,6 @@
   "fields": {
     "number": 273,
     "pokemon_name": "Seedot",
-    "types": [10, ""],
     "heart_point": 40,
     "attack": 40,
     "defense": 50,
@@ -5054,7 +4757,6 @@
   "fields": {
     "number": 274,
     "pokemon_name": "Nuzleaf",
-    "types": [10, 2],
     "heart_point": 70,
     "attack": 70,
     "defense": 40,
@@ -5071,7 +4773,6 @@
   "fields": {
     "number": 275,
     "pokemon_name": "Shiftry",
-    "types": [10, 2],
     "heart_point": 90,
     "attack": 100,
     "defense": 60,
@@ -5088,7 +4789,6 @@
   "fields": {
     "number": 276,
     "pokemon_name": "Taillow",
-    "types": [13, 8],
     "heart_point": 40,
     "attack": 55,
     "defense": 30,
@@ -5105,7 +4805,6 @@
   "fields": {
     "number": 277,
     "pokemon_name": "Swellow",
-    "types": [13, 8],
     "heart_point": 60,
     "attack": 85,
     "defense": 60,
@@ -5122,7 +4821,6 @@
   "fields": {
     "number": 278,
     "pokemon_name": "Wingull",
-    "types": [18, 8],
     "heart_point": 40,
     "attack": 30,
     "defense": 30,
@@ -5139,7 +4837,6 @@
   "fields": {
     "number": 279,
     "pokemon_name": "Pelipper",
-    "types": [18, 8],
     "heart_point": 60,
     "attack": 50,
     "defense": 100,
@@ -5156,7 +4853,6 @@
   "fields": {
     "number": 280,
     "pokemon_name": "Ralts",
-    "types": [15, 5],
     "heart_point": 28,
     "attack": 25,
     "defense": 25,
@@ -5173,7 +4869,6 @@
   "fields": {
     "number": 281,
     "pokemon_name": "Kirlia",
-    "types": [15, 5],
     "heart_point": 38,
     "attack": 35,
     "defense": 35,
@@ -5190,7 +4885,6 @@
   "fields": {
     "number": 282,
     "pokemon_name": "Gardevoir",
-    "types": [15, 5],
     "heart_point": 68,
     "attack": 65,
     "defense": 65,
@@ -5207,7 +4901,6 @@
   "fields": {
     "number": 282,
     "pokemon_name": "GardevoirMega Gardevoir",
-    "types": [15, 5],
     "heart_point": 68,
     "attack": 85,
     "defense": 65,
@@ -5224,7 +4917,6 @@
   "fields": {
     "number": 283,
     "pokemon_name": "Surskit",
-    "types": [1, 18],
     "heart_point": 40,
     "attack": 30,
     "defense": 32,
@@ -5241,7 +4933,6 @@
   "fields": {
     "number": 284,
     "pokemon_name": "Masquerain",
-    "types": [1, 8],
     "heart_point": 70,
     "attack": 60,
     "defense": 62,
@@ -5258,7 +4949,6 @@
   "fields": {
     "number": 285,
     "pokemon_name": "Shroomish",
-    "types": [10, ""],
     "heart_point": 60,
     "attack": 40,
     "defense": 60,
@@ -5275,7 +4965,6 @@
   "fields": {
     "number": 286,
     "pokemon_name": "Breloom",
-    "types": [10, 6],
     "heart_point": 60,
     "attack": 130,
     "defense": 80,
@@ -5292,7 +4981,6 @@
   "fields": {
     "number": 287,
     "pokemon_name": "Slakoth",
-    "types": [13, ""],
     "heart_point": 60,
     "attack": 60,
     "defense": 60,
@@ -5309,7 +4997,6 @@
   "fields": {
     "number": 288,
     "pokemon_name": "Vigoroth",
-    "types": [13, ""],
     "heart_point": 80,
     "attack": 80,
     "defense": 80,
@@ -5326,7 +5013,6 @@
   "fields": {
     "number": 289,
     "pokemon_name": "Slaking",
-    "types": [13, ""],
     "heart_point": 150,
     "attack": 160,
     "defense": 100,
@@ -5343,7 +5029,6 @@
   "fields": {
     "number": 290,
     "pokemon_name": "Nincada",
-    "types": [1, 11],
     "heart_point": 31,
     "attack": 45,
     "defense": 90,
@@ -5360,7 +5045,6 @@
   "fields": {
     "number": 291,
     "pokemon_name": "Ninjask",
-    "types": [1, 8],
     "heart_point": 61,
     "attack": 90,
     "defense": 45,
@@ -5377,7 +5061,6 @@
   "fields": {
     "number": 292,
     "pokemon_name": "Shedinja",
-    "types": [1, 9],
     "heart_point": 1,
     "attack": 90,
     "defense": 45,
@@ -5394,7 +5077,6 @@
   "fields": {
     "number": 293,
     "pokemon_name": "Whismur",
-    "types": [13, ""],
     "heart_point": 64,
     "attack": 51,
     "defense": 23,
@@ -5411,7 +5093,6 @@
   "fields": {
     "number": 294,
     "pokemon_name": "Loudred",
-    "types": [13, ""],
     "heart_point": 84,
     "attack": 71,
     "defense": 43,
@@ -5428,7 +5109,6 @@
   "fields": {
     "number": 295,
     "pokemon_name": "Exploud",
-    "types": [13, ""],
     "heart_point": 104,
     "attack": 91,
     "defense": 63,
@@ -5445,7 +5125,6 @@
   "fields": {
     "number": 296,
     "pokemon_name": "Makuhita",
-    "types": [6, ""],
     "heart_point": 72,
     "attack": 60,
     "defense": 30,
@@ -5462,7 +5141,6 @@
   "fields": {
     "number": 297,
     "pokemon_name": "Hariyama",
-    "types": [6, ""],
     "heart_point": 144,
     "attack": 120,
     "defense": 60,
@@ -5479,7 +5157,6 @@
   "fields": {
     "number": 298,
     "pokemon_name": "Azurill",
-    "types": [13, 5],
     "heart_point": 50,
     "attack": 20,
     "defense": 40,
@@ -5496,7 +5173,6 @@
   "fields": {
     "number": 299,
     "pokemon_name": "Nosepass",
-    "types": [16, ""],
     "heart_point": 30,
     "attack": 45,
     "defense": 135,
@@ -5513,7 +5189,6 @@
   "fields": {
     "number": 300,
     "pokemon_name": "Skitty",
-    "types": [13, ""],
     "heart_point": 50,
     "attack": 45,
     "defense": 45,
@@ -5530,7 +5205,6 @@
   "fields": {
     "number": 301,
     "pokemon_name": "Delcatty",
-    "types": [13, ""],
     "heart_point": 70,
     "attack": 65,
     "defense": 65,
@@ -5547,7 +5221,6 @@
   "fields": {
     "number": 302,
     "pokemon_name": "Sableye",
-    "types": [2, 9],
     "heart_point": 50,
     "attack": 75,
     "defense": 75,
@@ -5564,7 +5237,6 @@
   "fields": {
     "number": 302,
     "pokemon_name": "SableyeMega Sableye",
-    "types": [2, 9],
     "heart_point": 50,
     "attack": 85,
     "defense": 125,
@@ -5581,7 +5253,6 @@
   "fields": {
     "number": 303,
     "pokemon_name": "Mawile",
-    "types": [17, 5],
     "heart_point": 50,
     "attack": 85,
     "defense": 85,
@@ -5598,7 +5269,6 @@
   "fields": {
     "number": 303,
     "pokemon_name": "MawileMega Mawile",
-    "types": [17, 5],
     "heart_point": 50,
     "attack": 105,
     "defense": 125,
@@ -5615,7 +5285,6 @@
   "fields": {
     "number": 304,
     "pokemon_name": "Aron",
-    "types": [17, 16],
     "heart_point": 50,
     "attack": 70,
     "defense": 100,
@@ -5632,7 +5301,6 @@
   "fields": {
     "number": 305,
     "pokemon_name": "Lairon",
-    "types": [17, 16],
     "heart_point": 60,
     "attack": 90,
     "defense": 140,
@@ -5649,7 +5317,6 @@
   "fields": {
     "number": 306,
     "pokemon_name": "Aggron",
-    "types": [17, 16],
     "heart_point": 70,
     "attack": 110,
     "defense": 180,
@@ -5666,7 +5333,6 @@
   "fields": {
     "number": 306,
     "pokemon_name": "AggronMega Aggron",
-    "types": [17, ""],
     "heart_point": 70,
     "attack": 140,
     "defense": 230,
@@ -5683,7 +5349,6 @@
   "fields": {
     "number": 307,
     "pokemon_name": "Meditite",
-    "types": [6, 15],
     "heart_point": 30,
     "attack": 40,
     "defense": 55,
@@ -5700,7 +5365,6 @@
   "fields": {
     "number": 308,
     "pokemon_name": "Medicham",
-    "types": [6, 15],
     "heart_point": 60,
     "attack": 60,
     "defense": 75,
@@ -5717,7 +5381,6 @@
   "fields": {
     "number": 308,
     "pokemon_name": "MedichamMega Medicham",
-    "types": [6, 15],
     "heart_point": 60,
     "attack": 100,
     "defense": 85,
@@ -5734,7 +5397,6 @@
   "fields": {
     "number": 309,
     "pokemon_name": "Electrike",
-    "types": [4, ""],
     "heart_point": 40,
     "attack": 45,
     "defense": 40,
@@ -5751,7 +5413,6 @@
   "fields": {
     "number": 310,
     "pokemon_name": "Manectric",
-    "types": [4, ""],
     "heart_point": 70,
     "attack": 75,
     "defense": 60,
@@ -5768,7 +5429,6 @@
   "fields": {
     "number": 310,
     "pokemon_name": "ManectricMega Manectric",
-    "types": [4, ""],
     "heart_point": 70,
     "attack": 75,
     "defense": 80,
@@ -5785,7 +5445,6 @@
   "fields": {
     "number": 311,
     "pokemon_name": "Plusle",
-    "types": [4, ""],
     "heart_point": 60,
     "attack": 50,
     "defense": 40,
@@ -5802,7 +5461,6 @@
   "fields": {
     "number": 312,
     "pokemon_name": "Minun",
-    "types": [4, ""],
     "heart_point": 60,
     "attack": 40,
     "defense": 50,
@@ -5819,7 +5477,6 @@
   "fields": {
     "number": 313,
     "pokemon_name": "Volbeat",
-    "types": [1, ""],
     "heart_point": 65,
     "attack": 73,
     "defense": 55,
@@ -5836,7 +5493,6 @@
   "fields": {
     "number": 314,
     "pokemon_name": "Illumise",
-    "types": [1, ""],
     "heart_point": 65,
     "attack": 47,
     "defense": 55,
@@ -5853,7 +5509,6 @@
   "fields": {
     "number": 315,
     "pokemon_name": "Roselia",
-    "types": [10, 14],
     "heart_point": 50,
     "attack": 60,
     "defense": 45,
@@ -5870,7 +5525,6 @@
   "fields": {
     "number": 316,
     "pokemon_name": "Gulpin",
-    "types": [14, ""],
     "heart_point": 70,
     "attack": 43,
     "defense": 53,
@@ -5887,7 +5541,6 @@
   "fields": {
     "number": 317,
     "pokemon_name": "Swalot",
-    "types": [14, ""],
     "heart_point": 100,
     "attack": 73,
     "defense": 83,
@@ -5904,7 +5557,6 @@
   "fields": {
     "number": 318,
     "pokemon_name": "Carvanha",
-    "types": [18, 2],
     "heart_point": 45,
     "attack": 90,
     "defense": 20,
@@ -5921,7 +5573,6 @@
   "fields": {
     "number": 319,
     "pokemon_name": "Sharpedo",
-    "types": [18, 2],
     "heart_point": 70,
     "attack": 120,
     "defense": 40,
@@ -5938,7 +5589,6 @@
   "fields": {
     "number": 319,
     "pokemon_name": "SharpedoMega Sharpedo",
-    "types": [18, 2],
     "heart_point": 70,
     "attack": 140,
     "defense": 70,
@@ -5955,7 +5605,6 @@
   "fields": {
     "number": 320,
     "pokemon_name": "Wailmer",
-    "types": [18, ""],
     "heart_point": 130,
     "attack": 70,
     "defense": 35,
@@ -5972,7 +5621,6 @@
   "fields": {
     "number": 321,
     "pokemon_name": "Wailord",
-    "types": [18, ""],
     "heart_point": 170,
     "attack": 90,
     "defense": 45,
@@ -5989,7 +5637,6 @@
   "fields": {
     "number": 322,
     "pokemon_name": "Numel",
-    "types": [7, 11],
     "heart_point": 60,
     "attack": 60,
     "defense": 40,
@@ -6006,7 +5653,6 @@
   "fields": {
     "number": 323,
     "pokemon_name": "Camerupt",
-    "types": [7, 11],
     "heart_point": 70,
     "attack": 100,
     "defense": 70,
@@ -6023,7 +5669,6 @@
   "fields": {
     "number": 323,
     "pokemon_name": "CameruptMega Camerupt",
-    "types": [7, 11],
     "heart_point": 70,
     "attack": 120,
     "defense": 100,
@@ -6040,7 +5685,6 @@
   "fields": {
     "number": 324,
     "pokemon_name": "Torkoal",
-    "types": [7, ""],
     "heart_point": 70,
     "attack": 85,
     "defense": 140,
@@ -6057,7 +5701,6 @@
   "fields": {
     "number": 325,
     "pokemon_name": "Spoink",
-    "types": [15, ""],
     "heart_point": 60,
     "attack": 25,
     "defense": 35,
@@ -6074,7 +5717,6 @@
   "fields": {
     "number": 326,
     "pokemon_name": "Grumpig",
-    "types": [15, ""],
     "heart_point": 80,
     "attack": 45,
     "defense": 65,
@@ -6091,7 +5733,6 @@
   "fields": {
     "number": 327,
     "pokemon_name": "Spinda",
-    "types": [13, ""],
     "heart_point": 60,
     "attack": 60,
     "defense": 60,
@@ -6108,7 +5749,6 @@
   "fields": {
     "number": 328,
     "pokemon_name": "Trapinch",
-    "types": [11, ""],
     "heart_point": 45,
     "attack": 100,
     "defense": 45,
@@ -6125,7 +5765,6 @@
   "fields": {
     "number": 329,
     "pokemon_name": "Vibrava",
-    "types": [11, 3],
     "heart_point": 50,
     "attack": 70,
     "defense": 50,
@@ -6142,7 +5781,6 @@
   "fields": {
     "number": 330,
     "pokemon_name": "Flygon",
-    "types": [11, 3],
     "heart_point": 80,
     "attack": 100,
     "defense": 80,
@@ -6159,7 +5797,6 @@
   "fields": {
     "number": 331,
     "pokemon_name": "Cacnea",
-    "types": [10, ""],
     "heart_point": 50,
     "attack": 85,
     "defense": 40,
@@ -6176,7 +5813,6 @@
   "fields": {
     "number": 332,
     "pokemon_name": "Cacturne",
-    "types": [10, 2],
     "heart_point": 70,
     "attack": 115,
     "defense": 60,
@@ -6193,7 +5829,6 @@
   "fields": {
     "number": 333,
     "pokemon_name": "Swablu",
-    "types": [13, 8],
     "heart_point": 45,
     "attack": 40,
     "defense": 60,
@@ -6210,7 +5845,6 @@
   "fields": {
     "number": 334,
     "pokemon_name": "Altaria",
-    "types": [3, 8],
     "heart_point": 75,
     "attack": 70,
     "defense": 90,
@@ -6227,7 +5861,6 @@
   "fields": {
     "number": 334,
     "pokemon_name": "AltariaMega Altaria",
-    "types": [3, 5],
     "heart_point": 75,
     "attack": 110,
     "defense": 110,
@@ -6244,7 +5877,6 @@
   "fields": {
     "number": 335,
     "pokemon_name": "Zangoose",
-    "types": [13, ""],
     "heart_point": 73,
     "attack": 115,
     "defense": 60,
@@ -6261,7 +5893,6 @@
   "fields": {
     "number": 336,
     "pokemon_name": "Seviper",
-    "types": [14, ""],
     "heart_point": 73,
     "attack": 100,
     "defense": 60,
@@ -6278,7 +5909,6 @@
   "fields": {
     "number": 337,
     "pokemon_name": "Lunatone",
-    "types": [16, 15],
     "heart_point": 70,
     "attack": 55,
     "defense": 65,
@@ -6295,7 +5925,6 @@
   "fields": {
     "number": 338,
     "pokemon_name": "Solrock",
-    "types": [16, 15],
     "heart_point": 70,
     "attack": 95,
     "defense": 85,
@@ -6312,7 +5941,6 @@
   "fields": {
     "number": 339,
     "pokemon_name": "Barboach",
-    "types": [18, 11],
     "heart_point": 50,
     "attack": 48,
     "defense": 43,
@@ -6329,7 +5957,6 @@
   "fields": {
     "number": 340,
     "pokemon_name": "Whiscash",
-    "types": [18, 11],
     "heart_point": 110,
     "attack": 78,
     "defense": 73,
@@ -6346,7 +5973,6 @@
   "fields": {
     "number": 341,
     "pokemon_name": "Corphish",
-    "types": [18, ""],
     "heart_point": 43,
     "attack": 80,
     "defense": 65,
@@ -6363,7 +5989,6 @@
   "fields": {
     "number": 342,
     "pokemon_name": "Crawdaunt",
-    "types": [18, 2],
     "heart_point": 63,
     "attack": 120,
     "defense": 85,
@@ -6380,7 +6005,6 @@
   "fields": {
     "number": 343,
     "pokemon_name": "Baltoy",
-    "types": [11, 15],
     "heart_point": 40,
     "attack": 40,
     "defense": 55,
@@ -6397,7 +6021,6 @@
   "fields": {
     "number": 344,
     "pokemon_name": "Claydol",
-    "types": [11, 15],
     "heart_point": 60,
     "attack": 70,
     "defense": 105,
@@ -6414,7 +6037,6 @@
   "fields": {
     "number": 345,
     "pokemon_name": "Lileep",
-    "types": [16, 10],
     "heart_point": 66,
     "attack": 41,
     "defense": 77,
@@ -6431,7 +6053,6 @@
   "fields": {
     "number": 346,
     "pokemon_name": "Cradily",
-    "types": [16, 10],
     "heart_point": 86,
     "attack": 81,
     "defense": 97,
@@ -6448,7 +6069,6 @@
   "fields": {
     "number": 347,
     "pokemon_name": "Anorith",
-    "types": [16, 1],
     "heart_point": 45,
     "attack": 95,
     "defense": 50,
@@ -6465,7 +6085,6 @@
   "fields": {
     "number": 348,
     "pokemon_name": "Armaldo",
-    "types": [16, 1],
     "heart_point": 75,
     "attack": 125,
     "defense": 100,
@@ -6482,7 +6101,6 @@
   "fields": {
     "number": 349,
     "pokemon_name": "Feebas",
-    "types": [18, ""],
     "heart_point": 20,
     "attack": 15,
     "defense": 20,
@@ -6499,7 +6117,6 @@
   "fields": {
     "number": 350,
     "pokemon_name": "Milotic",
-    "types": [18, ""],
     "heart_point": 95,
     "attack": 60,
     "defense": 79,
@@ -6516,7 +6133,6 @@
   "fields": {
     "number": 351,
     "pokemon_name": "Castform",
-    "types": [13, ""],
     "heart_point": 70,
     "attack": 70,
     "defense": 70,
@@ -6533,7 +6149,6 @@
   "fields": {
     "number": 352,
     "pokemon_name": "Kecleon",
-    "types": [13, ""],
     "heart_point": 60,
     "attack": 90,
     "defense": 70,
@@ -6550,7 +6165,6 @@
   "fields": {
     "number": 353,
     "pokemon_name": "Shuppet",
-    "types": [9, ""],
     "heart_point": 44,
     "attack": 75,
     "defense": 35,
@@ -6567,7 +6181,6 @@
   "fields": {
     "number": 354,
     "pokemon_name": "Banette",
-    "types": [9, ""],
     "heart_point": 64,
     "attack": 115,
     "defense": 65,
@@ -6584,7 +6197,6 @@
   "fields": {
     "number": 354,
     "pokemon_name": "BanetteMega Banette",
-    "types": [9, ""],
     "heart_point": 64,
     "attack": 165,
     "defense": 75,
@@ -6601,7 +6213,6 @@
   "fields": {
     "number": 355,
     "pokemon_name": "Duskull",
-    "types": [9, ""],
     "heart_point": 20,
     "attack": 40,
     "defense": 90,
@@ -6618,7 +6229,6 @@
   "fields": {
     "number": 356,
     "pokemon_name": "Dusclops",
-    "types": [9, ""],
     "heart_point": 40,
     "attack": 70,
     "defense": 130,
@@ -6635,7 +6245,6 @@
   "fields": {
     "number": 357,
     "pokemon_name": "Tropius",
-    "types": [10, 8],
     "heart_point": 99,
     "attack": 68,
     "defense": 83,
@@ -6652,7 +6261,6 @@
   "fields": {
     "number": 358,
     "pokemon_name": "Chimecho",
-    "types": [15, ""],
     "heart_point": 65,
     "attack": 50,
     "defense": 70,
@@ -6669,7 +6277,6 @@
   "fields": {
     "number": 359,
     "pokemon_name": "Absol",
-    "types": [2, ""],
     "heart_point": 65,
     "attack": 130,
     "defense": 60,
@@ -6686,7 +6293,6 @@
   "fields": {
     "number": 359,
     "pokemon_name": "AbsolMega Absol",
-    "types": [2, ""],
     "heart_point": 65,
     "attack": 150,
     "defense": 60,
@@ -6703,7 +6309,6 @@
   "fields": {
     "number": 360,
     "pokemon_name": "Wynaut",
-    "types": [15, ""],
     "heart_point": 95,
     "attack": 23,
     "defense": 48,
@@ -6720,7 +6325,6 @@
   "fields": {
     "number": 361,
     "pokemon_name": "Snorunt",
-    "types": [12, ""],
     "heart_point": 50,
     "attack": 50,
     "defense": 50,
@@ -6737,7 +6341,6 @@
   "fields": {
     "number": 362,
     "pokemon_name": "Glalie",
-    "types": [12, ""],
     "heart_point": 80,
     "attack": 80,
     "defense": 80,
@@ -6754,7 +6357,6 @@
   "fields": {
     "number": 362,
     "pokemon_name": "GlalieMega Glalie",
-    "types": [12, ""],
     "heart_point": 80,
     "attack": 120,
     "defense": 80,
@@ -6771,7 +6373,6 @@
   "fields": {
     "number": 363,
     "pokemon_name": "Spheal",
-    "types": [12, 18],
     "heart_point": 70,
     "attack": 40,
     "defense": 50,
@@ -6788,7 +6389,6 @@
   "fields": {
     "number": 364,
     "pokemon_name": "Sealeo",
-    "types": [12, 18],
     "heart_point": 90,
     "attack": 60,
     "defense": 70,
@@ -6805,7 +6405,6 @@
   "fields": {
     "number": 365,
     "pokemon_name": "Walrein",
-    "types": [12, 18],
     "heart_point": 110,
     "attack": 80,
     "defense": 90,
@@ -6822,7 +6421,6 @@
   "fields": {
     "number": 366,
     "pokemon_name": "Clamperl",
-    "types": [18, ""],
     "heart_point": 35,
     "attack": 64,
     "defense": 85,
@@ -6839,7 +6437,6 @@
   "fields": {
     "number": 367,
     "pokemon_name": "Huntail",
-    "types": [18, ""],
     "heart_point": 55,
     "attack": 104,
     "defense": 105,
@@ -6856,7 +6453,6 @@
   "fields": {
     "number": 368,
     "pokemon_name": "Gorebyss",
-    "types": [18, ""],
     "heart_point": 55,
     "attack": 84,
     "defense": 105,
@@ -6873,7 +6469,6 @@
   "fields": {
     "number": 369,
     "pokemon_name": "Relicanth",
-    "types": [18, 16],
     "heart_point": 100,
     "attack": 90,
     "defense": 130,
@@ -6890,7 +6485,6 @@
   "fields": {
     "number": 370,
     "pokemon_name": "Luvdisc",
-    "types": [18, ""],
     "heart_point": 43,
     "attack": 30,
     "defense": 55,
@@ -6907,7 +6501,6 @@
   "fields": {
     "number": 371,
     "pokemon_name": "Bagon",
-    "types": [3, ""],
     "heart_point": 45,
     "attack": 75,
     "defense": 60,
@@ -6924,7 +6517,6 @@
   "fields": {
     "number": 372,
     "pokemon_name": "Shelgon",
-    "types": [3, ""],
     "heart_point": 65,
     "attack": 95,
     "defense": 100,
@@ -6941,7 +6533,6 @@
   "fields": {
     "number": 373,
     "pokemon_name": "Salamence",
-    "types": [3, 8],
     "heart_point": 95,
     "attack": 135,
     "defense": 80,
@@ -6958,7 +6549,6 @@
   "fields": {
     "number": 373,
     "pokemon_name": "SalamenceMega Salamence",
-    "types": [3, 8],
     "heart_point": 95,
     "attack": 145,
     "defense": 130,
@@ -6975,7 +6565,6 @@
   "fields": {
     "number": 374,
     "pokemon_name": "Beldum",
-    "types": [17, 15],
     "heart_point": 40,
     "attack": 55,
     "defense": 80,
@@ -6992,7 +6581,6 @@
   "fields": {
     "number": 375,
     "pokemon_name": "Metang",
-    "types": [17, 15],
     "heart_point": 60,
     "attack": 75,
     "defense": 100,
@@ -7009,7 +6597,6 @@
   "fields": {
     "number": 376,
     "pokemon_name": "Metagross",
-    "types": [17, 15],
     "heart_point": 80,
     "attack": 135,
     "defense": 130,
@@ -7026,7 +6613,6 @@
   "fields": {
     "number": 376,
     "pokemon_name": "MetagrossMega Metagross",
-    "types": [17, 15],
     "heart_point": 80,
     "attack": 145,
     "defense": 150,
@@ -7043,7 +6629,6 @@
   "fields": {
     "number": 377,
     "pokemon_name": "Regirock",
-    "types": [16, ""],
     "heart_point": 80,
     "attack": 100,
     "defense": 200,
@@ -7060,7 +6645,6 @@
   "fields": {
     "number": 378,
     "pokemon_name": "Regice",
-    "types": [12, ""],
     "heart_point": 80,
     "attack": 50,
     "defense": 100,
@@ -7077,7 +6661,6 @@
   "fields": {
     "number": 379,
     "pokemon_name": "Registeel",
-    "types": [17, ""],
     "heart_point": 80,
     "attack": 75,
     "defense": 150,
@@ -7094,7 +6677,6 @@
   "fields": {
     "number": 380,
     "pokemon_name": "Latias",
-    "types": [3, 15],
     "heart_point": 80,
     "attack": 80,
     "defense": 90,
@@ -7111,7 +6693,6 @@
   "fields": {
     "number": 380,
     "pokemon_name": "LatiasMega Latias",
-    "types": [3, 15],
     "heart_point": 80,
     "attack": 100,
     "defense": 120,
@@ -7128,7 +6709,6 @@
   "fields": {
     "number": 381,
     "pokemon_name": "Latios",
-    "types": [3, 15],
     "heart_point": 80,
     "attack": 90,
     "defense": 80,
@@ -7145,7 +6725,6 @@
   "fields": {
     "number": 381,
     "pokemon_name": "LatiosMega Latios",
-    "types": [3, 15],
     "heart_point": 80,
     "attack": 130,
     "defense": 100,
@@ -7162,7 +6741,6 @@
   "fields": {
     "number": 382,
     "pokemon_name": "Kyogre",
-    "types": [18, ""],
     "heart_point": 100,
     "attack": 100,
     "defense": 90,
@@ -7179,7 +6757,6 @@
   "fields": {
     "number": 382,
     "pokemon_name": "KyogrePrimal Kyogre",
-    "types": [18, ""],
     "heart_point": 100,
     "attack": 150,
     "defense": 90,
@@ -7196,7 +6773,6 @@
   "fields": {
     "number": 383,
     "pokemon_name": "Groudon",
-    "types": [11, ""],
     "heart_point": 100,
     "attack": 150,
     "defense": 140,
@@ -7213,7 +6789,6 @@
   "fields": {
     "number": 383,
     "pokemon_name": "GroudonPrimal Groudon",
-    "types": [11, 7],
     "heart_point": 100,
     "attack": 180,
     "defense": 160,
@@ -7230,7 +6805,6 @@
   "fields": {
     "number": 384,
     "pokemon_name": "Rayquaza",
-    "types": [3, 8],
     "heart_point": 105,
     "attack": 150,
     "defense": 90,
@@ -7247,7 +6821,6 @@
   "fields": {
     "number": 384,
     "pokemon_name": "RayquazaMega Rayquaza",
-    "types": [3, 8],
     "heart_point": 105,
     "attack": 180,
     "defense": 100,
@@ -7264,7 +6837,6 @@
   "fields": {
     "number": 385,
     "pokemon_name": "Jirachi",
-    "types": [17, 15],
     "heart_point": 100,
     "attack": 100,
     "defense": 100,
@@ -7281,7 +6853,6 @@
   "fields": {
     "number": 386,
     "pokemon_name": "DeoxysNormal Forme",
-    "types": [15, ""],
     "heart_point": 50,
     "attack": 150,
     "defense": 50,
@@ -7298,7 +6869,6 @@
   "fields": {
     "number": 386,
     "pokemon_name": "DeoxysAttack Forme",
-    "types": [15, ""],
     "heart_point": 50,
     "attack": 180,
     "defense": 20,
@@ -7315,7 +6885,6 @@
   "fields": {
     "number": 386,
     "pokemon_name": "DeoxysDefense Forme",
-    "types": [15, ""],
     "heart_point": 50,
     "attack": 70,
     "defense": 160,
@@ -7332,7 +6901,6 @@
   "fields": {
     "number": 386,
     "pokemon_name": "DeoxysSpeed Forme",
-    "types": [15, ""],
     "heart_point": 50,
     "attack": 95,
     "defense": 90,
@@ -7349,7 +6917,6 @@
   "fields": {
     "number": 387,
     "pokemon_name": "Turtwig",
-    "types": [10, ""],
     "heart_point": 55,
     "attack": 68,
     "defense": 64,
@@ -7366,7 +6933,6 @@
   "fields": {
     "number": 388,
     "pokemon_name": "Grotle",
-    "types": [10, ""],
     "heart_point": 75,
     "attack": 89,
     "defense": 85,
@@ -7383,7 +6949,6 @@
   "fields": {
     "number": 389,
     "pokemon_name": "Torterra",
-    "types": [10, 11],
     "heart_point": 95,
     "attack": 109,
     "defense": 105,
@@ -7400,7 +6965,6 @@
   "fields": {
     "number": 390,
     "pokemon_name": "Chimchar",
-    "types": [7, ""],
     "heart_point": 44,
     "attack": 58,
     "defense": 44,
@@ -7417,7 +6981,6 @@
   "fields": {
     "number": 391,
     "pokemon_name": "Monferno",
-    "types": [7, 6],
     "heart_point": 64,
     "attack": 78,
     "defense": 52,
@@ -7434,7 +6997,6 @@
   "fields": {
     "number": 392,
     "pokemon_name": "Infernape",
-    "types": [7, 6],
     "heart_point": 76,
     "attack": 104,
     "defense": 71,
@@ -7451,7 +7013,6 @@
   "fields": {
     "number": 393,
     "pokemon_name": "Piplup",
-    "types": [18, ""],
     "heart_point": 53,
     "attack": 51,
     "defense": 53,
@@ -7468,7 +7029,6 @@
   "fields": {
     "number": 394,
     "pokemon_name": "Prinplup",
-    "types": [18, ""],
     "heart_point": 64,
     "attack": 66,
     "defense": 68,
@@ -7485,7 +7045,6 @@
   "fields": {
     "number": 395,
     "pokemon_name": "Empoleon",
-    "types": [18, 17],
     "heart_point": 84,
     "attack": 86,
     "defense": 88,
@@ -7502,7 +7061,6 @@
   "fields": {
     "number": 396,
     "pokemon_name": "Starly",
-    "types": [13, 8],
     "heart_point": 40,
     "attack": 55,
     "defense": 30,
@@ -7519,7 +7077,6 @@
   "fields": {
     "number": 397,
     "pokemon_name": "Staravia",
-    "types": [13, 8],
     "heart_point": 55,
     "attack": 75,
     "defense": 50,
@@ -7536,7 +7093,6 @@
   "fields": {
     "number": 398,
     "pokemon_name": "Staraptor",
-    "types": [13, 8],
     "heart_point": 85,
     "attack": 120,
     "defense": 70,
@@ -7553,7 +7109,6 @@
   "fields": {
     "number": 399,
     "pokemon_name": "Bidoof",
-    "types": [13, ""],
     "heart_point": 59,
     "attack": 45,
     "defense": 40,
@@ -7570,7 +7125,6 @@
   "fields": {
     "number": 400,
     "pokemon_name": "Bibarel",
-    "types": [13, 18],
     "heart_point": 79,
     "attack": 85,
     "defense": 60,
@@ -7587,7 +7141,6 @@
   "fields": {
     "number": 401,
     "pokemon_name": "Kricketot",
-    "types": [1, ""],
     "heart_point": 37,
     "attack": 25,
     "defense": 41,
@@ -7604,7 +7157,6 @@
   "fields": {
     "number": 402,
     "pokemon_name": "Kricketune",
-    "types": [1, ""],
     "heart_point": 77,
     "attack": 85,
     "defense": 51,
@@ -7621,7 +7173,6 @@
   "fields": {
     "number": 403,
     "pokemon_name": "Shinx",
-    "types": [4, ""],
     "heart_point": 45,
     "attack": 65,
     "defense": 34,
@@ -7638,7 +7189,6 @@
   "fields": {
     "number": 404,
     "pokemon_name": "Luxio",
-    "types": [4, ""],
     "heart_point": 60,
     "attack": 85,
     "defense": 49,
@@ -7655,7 +7205,6 @@
   "fields": {
     "number": 405,
     "pokemon_name": "Luxray",
-    "types": [4, ""],
     "heart_point": 80,
     "attack": 120,
     "defense": 79,
@@ -7672,7 +7221,6 @@
   "fields": {
     "number": 406,
     "pokemon_name": "Budew",
-    "types": [10, 14],
     "heart_point": 40,
     "attack": 30,
     "defense": 35,
@@ -7689,7 +7237,6 @@
   "fields": {
     "number": 407,
     "pokemon_name": "Roserade",
-    "types": [10, 14],
     "heart_point": 60,
     "attack": 70,
     "defense": 65,
@@ -7706,7 +7253,6 @@
   "fields": {
     "number": 408,
     "pokemon_name": "Cranidos",
-    "types": [16, ""],
     "heart_point": 67,
     "attack": 125,
     "defense": 40,
@@ -7723,7 +7269,6 @@
   "fields": {
     "number": 409,
     "pokemon_name": "Rampardos",
-    "types": [16, ""],
     "heart_point": 97,
     "attack": 165,
     "defense": 60,
@@ -7740,7 +7285,6 @@
   "fields": {
     "number": 410,
     "pokemon_name": "Shieldon",
-    "types": [16, 17],
     "heart_point": 30,
     "attack": 42,
     "defense": 118,
@@ -7757,7 +7301,6 @@
   "fields": {
     "number": 411,
     "pokemon_name": "Bastiodon",
-    "types": [16, 17],
     "heart_point": 60,
     "attack": 52,
     "defense": 168,
@@ -7774,7 +7317,6 @@
   "fields": {
     "number": 412,
     "pokemon_name": "Burmy",
-    "types": [1, ""],
     "heart_point": 40,
     "attack": 29,
     "defense": 45,
@@ -7791,7 +7333,6 @@
   "fields": {
     "number": 413,
     "pokemon_name": "WormadamPlant Cloak",
-    "types": [1, 10],
     "heart_point": 60,
     "attack": 59,
     "defense": 85,
@@ -7808,7 +7349,6 @@
   "fields": {
     "number": 413,
     "pokemon_name": "WormadamSandy Cloak",
-    "types": [1, 11],
     "heart_point": 60,
     "attack": 79,
     "defense": 105,
@@ -7825,7 +7365,6 @@
   "fields": {
     "number": 413,
     "pokemon_name": "WormadamTrash Cloak",
-    "types": [1, 17],
     "heart_point": 60,
     "attack": 69,
     "defense": 95,
@@ -7842,7 +7381,6 @@
   "fields": {
     "number": 414,
     "pokemon_name": "Mothim",
-    "types": [1, 8],
     "heart_point": 70,
     "attack": 94,
     "defense": 50,
@@ -7859,7 +7397,6 @@
   "fields": {
     "number": 415,
     "pokemon_name": "Combee",
-    "types": [1, 8],
     "heart_point": 30,
     "attack": 30,
     "defense": 42,
@@ -7876,7 +7413,6 @@
   "fields": {
     "number": 416,
     "pokemon_name": "Vespiquen",
-    "types": [1, 8],
     "heart_point": 70,
     "attack": 80,
     "defense": 102,
@@ -7893,7 +7429,6 @@
   "fields": {
     "number": 417,
     "pokemon_name": "Pachirisu",
-    "types": [4, ""],
     "heart_point": 60,
     "attack": 45,
     "defense": 70,
@@ -7910,7 +7445,6 @@
   "fields": {
     "number": 418,
     "pokemon_name": "Buizel",
-    "types": [18, ""],
     "heart_point": 55,
     "attack": 65,
     "defense": 35,
@@ -7927,7 +7461,6 @@
   "fields": {
     "number": 419,
     "pokemon_name": "Floatzel",
-    "types": [18, ""],
     "heart_point": 85,
     "attack": 105,
     "defense": 55,
@@ -7944,7 +7477,6 @@
   "fields": {
     "number": 420,
     "pokemon_name": "Cherubi",
-    "types": [10, ""],
     "heart_point": 45,
     "attack": 35,
     "defense": 45,
@@ -7961,7 +7493,6 @@
   "fields": {
     "number": 421,
     "pokemon_name": "Cherrim",
-    "types": [10, ""],
     "heart_point": 70,
     "attack": 60,
     "defense": 70,
@@ -7978,7 +7509,6 @@
   "fields": {
     "number": 422,
     "pokemon_name": "Shellos",
-    "types": [18, ""],
     "heart_point": 76,
     "attack": 48,
     "defense": 48,
@@ -7995,7 +7525,6 @@
   "fields": {
     "number": 423,
     "pokemon_name": "Gastrodon",
-    "types": [18, 11],
     "heart_point": 111,
     "attack": 83,
     "defense": 68,
@@ -8012,7 +7541,6 @@
   "fields": {
     "number": 424,
     "pokemon_name": "Ambipom",
-    "types": [13, ""],
     "heart_point": 75,
     "attack": 100,
     "defense": 66,
@@ -8029,7 +7557,6 @@
   "fields": {
     "number": 425,
     "pokemon_name": "Drifloon",
-    "types": [9, 8],
     "heart_point": 90,
     "attack": 50,
     "defense": 34,
@@ -8046,7 +7573,6 @@
   "fields": {
     "number": 426,
     "pokemon_name": "Drifblim",
-    "types": [9, 8],
     "heart_point": 150,
     "attack": 80,
     "defense": 44,
@@ -8063,7 +7589,6 @@
   "fields": {
     "number": 427,
     "pokemon_name": "Buneary",
-    "types": [13, ""],
     "heart_point": 55,
     "attack": 66,
     "defense": 44,
@@ -8080,7 +7605,6 @@
   "fields": {
     "number": 428,
     "pokemon_name": "Lopunny",
-    "types": [13, ""],
     "heart_point": 65,
     "attack": 76,
     "defense": 84,
@@ -8097,7 +7621,6 @@
   "fields": {
     "number": 428,
     "pokemon_name": "LopunnyMega Lopunny",
-    "types": [13, 6],
     "heart_point": 65,
     "attack": 136,
     "defense": 94,
@@ -8114,7 +7637,6 @@
   "fields": {
     "number": 429,
     "pokemon_name": "Mismagius",
-    "types": [9, ""],
     "heart_point": 60,
     "attack": 60,
     "defense": 60,
@@ -8131,7 +7653,6 @@
   "fields": {
     "number": 430,
     "pokemon_name": "Honchkrow",
-    "types": [2, 8],
     "heart_point": 100,
     "attack": 125,
     "defense": 52,
@@ -8148,7 +7669,6 @@
   "fields": {
     "number": 431,
     "pokemon_name": "Glameow",
-    "types": [13, ""],
     "heart_point": 49,
     "attack": 55,
     "defense": 42,
@@ -8165,7 +7685,6 @@
   "fields": {
     "number": 432,
     "pokemon_name": "Purugly",
-    "types": [13, ""],
     "heart_point": 71,
     "attack": 82,
     "defense": 64,
@@ -8182,7 +7701,6 @@
   "fields": {
     "number": 433,
     "pokemon_name": "Chingling",
-    "types": [15, ""],
     "heart_point": 45,
     "attack": 30,
     "defense": 50,
@@ -8199,7 +7717,6 @@
   "fields": {
     "number": 434,
     "pokemon_name": "Stunky",
-    "types": [14, 2],
     "heart_point": 63,
     "attack": 63,
     "defense": 47,
@@ -8216,7 +7733,6 @@
   "fields": {
     "number": 435,
     "pokemon_name": "Skuntank",
-    "types": [14, 2],
     "heart_point": 103,
     "attack": 93,
     "defense": 67,
@@ -8233,7 +7749,6 @@
   "fields": {
     "number": 436,
     "pokemon_name": "Bronzor",
-    "types": [17, 15],
     "heart_point": 57,
     "attack": 24,
     "defense": 86,
@@ -8250,7 +7765,6 @@
   "fields": {
     "number": 437,
     "pokemon_name": "Bronzong",
-    "types": [17, 15],
     "heart_point": 67,
     "attack": 89,
     "defense": 116,
@@ -8267,7 +7781,6 @@
   "fields": {
     "number": 438,
     "pokemon_name": "Bonsly",
-    "types": [16, ""],
     "heart_point": 50,
     "attack": 80,
     "defense": 95,
@@ -8284,7 +7797,6 @@
   "fields": {
     "number": 439,
     "pokemon_name": "Mime Jr.",
-    "types": [15, 5],
     "heart_point": 20,
     "attack": 25,
     "defense": 45,
@@ -8301,7 +7813,6 @@
   "fields": {
     "number": 440,
     "pokemon_name": "Happiny",
-    "types": [13, ""],
     "heart_point": 100,
     "attack": 5,
     "defense": 5,
@@ -8318,7 +7829,6 @@
   "fields": {
     "number": 441,
     "pokemon_name": "Chatot",
-    "types": [13, 8],
     "heart_point": 76,
     "attack": 65,
     "defense": 45,
@@ -8335,7 +7845,6 @@
   "fields": {
     "number": 442,
     "pokemon_name": "Spiritomb",
-    "types": [9, 2],
     "heart_point": 50,
     "attack": 92,
     "defense": 108,
@@ -8352,7 +7861,6 @@
   "fields": {
     "number": 443,
     "pokemon_name": "Gible",
-    "types": [3, 11],
     "heart_point": 58,
     "attack": 70,
     "defense": 45,
@@ -8369,7 +7877,6 @@
   "fields": {
     "number": 444,
     "pokemon_name": "Gabite",
-    "types": [3, 11],
     "heart_point": 68,
     "attack": 90,
     "defense": 65,
@@ -8386,7 +7893,6 @@
   "fields": {
     "number": 445,
     "pokemon_name": "Garchomp",
-    "types": [3, 11],
     "heart_point": 108,
     "attack": 130,
     "defense": 95,
@@ -8403,7 +7909,6 @@
   "fields": {
     "number": 445,
     "pokemon_name": "GarchompMega Garchomp",
-    "types": [3, 11],
     "heart_point": 108,
     "attack": 170,
     "defense": 115,
@@ -8420,7 +7925,6 @@
   "fields": {
     "number": 446,
     "pokemon_name": "Munchlax",
-    "types": [13, ""],
     "heart_point": 135,
     "attack": 85,
     "defense": 40,
@@ -8437,7 +7941,6 @@
   "fields": {
     "number": 447,
     "pokemon_name": "Riolu",
-    "types": [6, ""],
     "heart_point": 40,
     "attack": 70,
     "defense": 40,
@@ -8454,7 +7957,6 @@
   "fields": {
     "number": 448,
     "pokemon_name": "Lucario",
-    "types": [6, 17],
     "heart_point": 70,
     "attack": 110,
     "defense": 70,
@@ -8471,7 +7973,6 @@
   "fields": {
     "number": 448,
     "pokemon_name": "LucarioMega Lucario",
-    "types": [6, 17],
     "heart_point": 70,
     "attack": 145,
     "defense": 88,
@@ -8488,7 +7989,6 @@
   "fields": {
     "number": 449,
     "pokemon_name": "Hippopotas",
-    "types": [11, ""],
     "heart_point": 68,
     "attack": 72,
     "defense": 78,
@@ -8505,7 +8005,6 @@
   "fields": {
     "number": 450,
     "pokemon_name": "Hippowdon",
-    "types": [11, ""],
     "heart_point": 108,
     "attack": 112,
     "defense": 118,
@@ -8522,7 +8021,6 @@
   "fields": {
     "number": 451,
     "pokemon_name": "Skorupi",
-    "types": [14, 1],
     "heart_point": 40,
     "attack": 50,
     "defense": 90,
@@ -8539,7 +8037,6 @@
   "fields": {
     "number": 452,
     "pokemon_name": "Drapion",
-    "types": [14, 2],
     "heart_point": 70,
     "attack": 90,
     "defense": 110,
@@ -8556,7 +8053,6 @@
   "fields": {
     "number": 453,
     "pokemon_name": "Croagunk",
-    "types": [14, 6],
     "heart_point": 48,
     "attack": 61,
     "defense": 40,
@@ -8573,7 +8069,6 @@
   "fields": {
     "number": 454,
     "pokemon_name": "Toxicroak",
-    "types": [14, 6],
     "heart_point": 83,
     "attack": 106,
     "defense": 65,
@@ -8590,7 +8085,6 @@
   "fields": {
     "number": 455,
     "pokemon_name": "Carnivine",
-    "types": [10, ""],
     "heart_point": 74,
     "attack": 100,
     "defense": 72,
@@ -8607,7 +8101,6 @@
   "fields": {
     "number": 456,
     "pokemon_name": "Finneon",
-    "types": [18, ""],
     "heart_point": 49,
     "attack": 49,
     "defense": 56,
@@ -8624,7 +8117,6 @@
   "fields": {
     "number": 457,
     "pokemon_name": "Lumineon",
-    "types": [18, ""],
     "heart_point": 69,
     "attack": 69,
     "defense": 76,
@@ -8641,7 +8133,6 @@
   "fields": {
     "number": 458,
     "pokemon_name": "Mantyke",
-    "types": [18, 8],
     "heart_point": 45,
     "attack": 20,
     "defense": 50,
@@ -8658,7 +8149,6 @@
   "fields": {
     "number": 459,
     "pokemon_name": "Snover",
-    "types": [10, 12],
     "heart_point": 60,
     "attack": 62,
     "defense": 50,
@@ -8675,7 +8165,6 @@
   "fields": {
     "number": 460,
     "pokemon_name": "Abomasnow",
-    "types": [10, 12],
     "heart_point": 90,
     "attack": 92,
     "defense": 75,
@@ -8692,7 +8181,6 @@
   "fields": {
     "number": 460,
     "pokemon_name": "AbomasnowMega Abomasnow",
-    "types": [10, 12],
     "heart_point": 90,
     "attack": 132,
     "defense": 105,
@@ -8709,7 +8197,6 @@
   "fields": {
     "number": 461,
     "pokemon_name": "Weavile",
-    "types": [2, 12],
     "heart_point": 70,
     "attack": 120,
     "defense": 65,
@@ -8726,7 +8213,6 @@
   "fields": {
     "number": 462,
     "pokemon_name": "Magnezone",
-    "types": [4, 17],
     "heart_point": 70,
     "attack": 70,
     "defense": 115,
@@ -8743,7 +8229,6 @@
   "fields": {
     "number": 463,
     "pokemon_name": "Lickilicky",
-    "types": [13, ""],
     "heart_point": 110,
     "attack": 85,
     "defense": 95,
@@ -8760,7 +8245,6 @@
   "fields": {
     "number": 464,
     "pokemon_name": "Rhyperior",
-    "types": [11, 16],
     "heart_point": 115,
     "attack": 140,
     "defense": 130,
@@ -8777,7 +8261,6 @@
   "fields": {
     "number": 465,
     "pokemon_name": "Tangrowth",
-    "types": [10, ""],
     "heart_point": 100,
     "attack": 100,
     "defense": 125,
@@ -8794,7 +8277,6 @@
   "fields": {
     "number": 466,
     "pokemon_name": "Electivire",
-    "types": [4, ""],
     "heart_point": 75,
     "attack": 123,
     "defense": 67,
@@ -8811,7 +8293,6 @@
   "fields": {
     "number": 467,
     "pokemon_name": "Magmortar",
-    "types": [7, ""],
     "heart_point": 75,
     "attack": 95,
     "defense": 67,
@@ -8828,7 +8309,6 @@
   "fields": {
     "number": 468,
     "pokemon_name": "Togekiss",
-    "types": [5, 8],
     "heart_point": 85,
     "attack": 50,
     "defense": 95,
@@ -8845,7 +8325,6 @@
   "fields": {
     "number": 469,
     "pokemon_name": "Yanmega",
-    "types": [1, 8],
     "heart_point": 86,
     "attack": 76,
     "defense": 86,
@@ -8862,7 +8341,6 @@
   "fields": {
     "number": 470,
     "pokemon_name": "Leafeon",
-    "types": [10, ""],
     "heart_point": 65,
     "attack": 110,
     "defense": 130,
@@ -8879,7 +8357,6 @@
   "fields": {
     "number": 471,
     "pokemon_name": "Glaceon",
-    "types": [12, ""],
     "heart_point": 65,
     "attack": 60,
     "defense": 110,
@@ -8896,7 +8373,6 @@
   "fields": {
     "number": 472,
     "pokemon_name": "Gliscor",
-    "types": [11, 8],
     "heart_point": 75,
     "attack": 95,
     "defense": 125,
@@ -8913,7 +8389,6 @@
   "fields": {
     "number": 473,
     "pokemon_name": "Mamoswine",
-    "types": [12, 11],
     "heart_point": 110,
     "attack": 130,
     "defense": 80,
@@ -8930,7 +8405,6 @@
   "fields": {
     "number": 474,
     "pokemon_name": "Porygon-Z",
-    "types": [13, ""],
     "heart_point": 85,
     "attack": 80,
     "defense": 70,
@@ -8947,7 +8421,6 @@
   "fields": {
     "number": 475,
     "pokemon_name": "Gallade",
-    "types": [15, 6],
     "heart_point": 68,
     "attack": 125,
     "defense": 65,
@@ -8964,7 +8437,6 @@
   "fields": {
     "number": 475,
     "pokemon_name": "GalladeMega Gallade",
-    "types": [15, 6],
     "heart_point": 68,
     "attack": 165,
     "defense": 95,
@@ -8981,7 +8453,6 @@
   "fields": {
     "number": 476,
     "pokemon_name": "Probopass",
-    "types": [16, 17],
     "heart_point": 60,
     "attack": 55,
     "defense": 145,
@@ -8998,7 +8469,6 @@
   "fields": {
     "number": 477,
     "pokemon_name": "Dusknoir",
-    "types": [9, ""],
     "heart_point": 45,
     "attack": 100,
     "defense": 135,
@@ -9015,7 +8485,6 @@
   "fields": {
     "number": 478,
     "pokemon_name": "Froslass",
-    "types": [12, 9],
     "heart_point": 70,
     "attack": 80,
     "defense": 70,
@@ -9032,7 +8501,6 @@
   "fields": {
     "number": 479,
     "pokemon_name": "Rotom",
-    "types": [4, 9],
     "heart_point": 50,
     "attack": 50,
     "defense": 77,
@@ -9049,7 +8517,6 @@
   "fields": {
     "number": 479,
     "pokemon_name": "RotomHeat Rotom",
-    "types": [4, 7],
     "heart_point": 50,
     "attack": 65,
     "defense": 107,
@@ -9066,7 +8533,6 @@
   "fields": {
     "number": 479,
     "pokemon_name": "RotomWash Rotom",
-    "types": [4, 18],
     "heart_point": 50,
     "attack": 65,
     "defense": 107,
@@ -9083,7 +8549,6 @@
   "fields": {
     "number": 479,
     "pokemon_name": "RotomFrost Rotom",
-    "types": [4, 12],
     "heart_point": 50,
     "attack": 65,
     "defense": 107,
@@ -9100,7 +8565,6 @@
   "fields": {
     "number": 479,
     "pokemon_name": "RotomFan Rotom",
-    "types": [4, 8],
     "heart_point": 50,
     "attack": 65,
     "defense": 107,
@@ -9117,7 +8581,6 @@
   "fields": {
     "number": 479,
     "pokemon_name": "RotomMow Rotom",
-    "types": [4, 10],
     "heart_point": 50,
     "attack": 65,
     "defense": 107,
@@ -9134,7 +8597,6 @@
   "fields": {
     "number": 480,
     "pokemon_name": "Uxie",
-    "types": [15, ""],
     "heart_point": 75,
     "attack": 75,
     "defense": 130,
@@ -9151,7 +8613,6 @@
   "fields": {
     "number": 481,
     "pokemon_name": "Mesprit",
-    "types": [15, ""],
     "heart_point": 80,
     "attack": 105,
     "defense": 105,
@@ -9168,7 +8629,6 @@
   "fields": {
     "number": 482,
     "pokemon_name": "Azelf",
-    "types": [15, ""],
     "heart_point": 75,
     "attack": 125,
     "defense": 70,
@@ -9185,7 +8645,6 @@
   "fields": {
     "number": 483,
     "pokemon_name": "Dialga",
-    "types": [17, 3],
     "heart_point": 100,
     "attack": 120,
     "defense": 120,
@@ -9202,7 +8661,6 @@
   "fields": {
     "number": 484,
     "pokemon_name": "Palkia",
-    "types": [18, 3],
     "heart_point": 90,
     "attack": 120,
     "defense": 100,
@@ -9219,7 +8677,6 @@
   "fields": {
     "number": 485,
     "pokemon_name": "Heatran",
-    "types": [7, 17],
     "heart_point": 91,
     "attack": 90,
     "defense": 106,
@@ -9236,7 +8693,6 @@
   "fields": {
     "number": 486,
     "pokemon_name": "Regigigas",
-    "types": [13, ""],
     "heart_point": 110,
     "attack": 160,
     "defense": 110,
@@ -9253,7 +8709,6 @@
   "fields": {
     "number": 487,
     "pokemon_name": "GiratinaAltered Forme",
-    "types": [9, 3],
     "heart_point": 150,
     "attack": 100,
     "defense": 120,
@@ -9270,7 +8725,6 @@
   "fields": {
     "number": 487,
     "pokemon_name": "GiratinaOrigin Forme",
-    "types": [9, 3],
     "heart_point": 150,
     "attack": 120,
     "defense": 100,
@@ -9287,7 +8741,6 @@
   "fields": {
     "number": 488,
     "pokemon_name": "Cresselia",
-    "types": [15, ""],
     "heart_point": 120,
     "attack": 70,
     "defense": 120,
@@ -9304,7 +8757,6 @@
   "fields": {
     "number": 489,
     "pokemon_name": "Phione",
-    "types": [18, ""],
     "heart_point": 80,
     "attack": 80,
     "defense": 80,
@@ -9321,7 +8773,6 @@
   "fields": {
     "number": 490,
     "pokemon_name": "Manaphy",
-    "types": [18, ""],
     "heart_point": 100,
     "attack": 100,
     "defense": 100,
@@ -9338,7 +8789,6 @@
   "fields": {
     "number": 491,
     "pokemon_name": "Darkrai",
-    "types": [2, ""],
     "heart_point": 70,
     "attack": 90,
     "defense": 90,
@@ -9355,7 +8805,6 @@
   "fields": {
     "number": 492,
     "pokemon_name": "ShayminLand Forme",
-    "types": [10, ""],
     "heart_point": 100,
     "attack": 100,
     "defense": 100,
@@ -9372,7 +8821,6 @@
   "fields": {
     "number": 492,
     "pokemon_name": "ShayminSky Forme",
-    "types": [10, 8],
     "heart_point": 100,
     "attack": 103,
     "defense": 75,
@@ -9389,7 +8837,6 @@
   "fields": {
     "number": 493,
     "pokemon_name": "Arceus",
-    "types": [13, ""],
     "heart_point": 120,
     "attack": 120,
     "defense": 120,
@@ -9406,7 +8853,6 @@
   "fields": {
     "number": 494,
     "pokemon_name": "Victini",
-    "types": [15, 7],
     "heart_point": 100,
     "attack": 100,
     "defense": 100,
@@ -9423,7 +8869,6 @@
   "fields": {
     "number": 495,
     "pokemon_name": "Snivy",
-    "types": [10, ""],
     "heart_point": 45,
     "attack": 45,
     "defense": 55,
@@ -9440,7 +8885,6 @@
   "fields": {
     "number": 496,
     "pokemon_name": "Servine",
-    "types": [10, ""],
     "heart_point": 60,
     "attack": 60,
     "defense": 75,
@@ -9457,7 +8901,6 @@
   "fields": {
     "number": 497,
     "pokemon_name": "Serperior",
-    "types": [10, ""],
     "heart_point": 75,
     "attack": 75,
     "defense": 95,
@@ -9474,7 +8917,6 @@
   "fields": {
     "number": 498,
     "pokemon_name": "Tepig",
-    "types": [7, ""],
     "heart_point": 65,
     "attack": 63,
     "defense": 45,
@@ -9491,7 +8933,6 @@
   "fields": {
     "number": 499,
     "pokemon_name": "Pignite",
-    "types": [7, 6],
     "heart_point": 90,
     "attack": 93,
     "defense": 55,
@@ -9508,7 +8949,6 @@
   "fields": {
     "number": 500,
     "pokemon_name": "Emboar",
-    "types": [7, 6],
     "heart_point": 110,
     "attack": 123,
     "defense": 65,
@@ -9525,7 +8965,6 @@
   "fields": {
     "number": 501,
     "pokemon_name": "Oshawott",
-    "types": [18, ""],
     "heart_point": 55,
     "attack": 55,
     "defense": 45,
@@ -9542,7 +8981,6 @@
   "fields": {
     "number": 502,
     "pokemon_name": "Dewott",
-    "types": [18, ""],
     "heart_point": 75,
     "attack": 75,
     "defense": 60,
@@ -9559,7 +8997,6 @@
   "fields": {
     "number": 503,
     "pokemon_name": "Samurott",
-    "types": [18, ""],
     "heart_point": 95,
     "attack": 100,
     "defense": 85,
@@ -9576,7 +9013,6 @@
   "fields": {
     "number": 504,
     "pokemon_name": "Patrat",
-    "types": [13, ""],
     "heart_point": 45,
     "attack": 55,
     "defense": 39,
@@ -9593,7 +9029,6 @@
   "fields": {
     "number": 505,
     "pokemon_name": "Watchog",
-    "types": [13, ""],
     "heart_point": 60,
     "attack": 85,
     "defense": 69,
@@ -9610,7 +9045,6 @@
   "fields": {
     "number": 506,
     "pokemon_name": "Lillipup",
-    "types": [13, ""],
     "heart_point": 45,
     "attack": 60,
     "defense": 45,
@@ -9627,7 +9061,6 @@
   "fields": {
     "number": 507,
     "pokemon_name": "Herdier",
-    "types": [13, ""],
     "heart_point": 65,
     "attack": 80,
     "defense": 65,
@@ -9644,7 +9077,6 @@
   "fields": {
     "number": 508,
     "pokemon_name": "Stoutland",
-    "types": [13, ""],
     "heart_point": 85,
     "attack": 110,
     "defense": 90,
@@ -9661,7 +9093,6 @@
   "fields": {
     "number": 509,
     "pokemon_name": "Purrloin",
-    "types": [2, ""],
     "heart_point": 41,
     "attack": 50,
     "defense": 37,
@@ -9678,7 +9109,6 @@
   "fields": {
     "number": 510,
     "pokemon_name": "Liepard",
-    "types": [2, ""],
     "heart_point": 64,
     "attack": 88,
     "defense": 50,
@@ -9695,7 +9125,6 @@
   "fields": {
     "number": 511,
     "pokemon_name": "Pansage",
-    "types": [10, ""],
     "heart_point": 50,
     "attack": 53,
     "defense": 48,
@@ -9712,7 +9141,6 @@
   "fields": {
     "number": 512,
     "pokemon_name": "Simisage",
-    "types": [10, ""],
     "heart_point": 75,
     "attack": 98,
     "defense": 63,
@@ -9729,7 +9157,6 @@
   "fields": {
     "number": 513,
     "pokemon_name": "Pansear",
-    "types": [7, ""],
     "heart_point": 50,
     "attack": 53,
     "defense": 48,
@@ -9746,7 +9173,6 @@
   "fields": {
     "number": 514,
     "pokemon_name": "Simisear",
-    "types": [7, ""],
     "heart_point": 75,
     "attack": 98,
     "defense": 63,
@@ -9763,7 +9189,6 @@
   "fields": {
     "number": 515,
     "pokemon_name": "Panpour",
-    "types": [18, ""],
     "heart_point": 50,
     "attack": 53,
     "defense": 48,
@@ -9780,7 +9205,6 @@
   "fields": {
     "number": 516,
     "pokemon_name": "Simipour",
-    "types": [18, ""],
     "heart_point": 75,
     "attack": 98,
     "defense": 63,
@@ -9797,7 +9221,6 @@
   "fields": {
     "number": 517,
     "pokemon_name": "Munna",
-    "types": [15, ""],
     "heart_point": 76,
     "attack": 25,
     "defense": 45,
@@ -9814,7 +9237,6 @@
   "fields": {
     "number": 518,
     "pokemon_name": "Musharna",
-    "types": [15, ""],
     "heart_point": 116,
     "attack": 55,
     "defense": 85,
@@ -9831,7 +9253,6 @@
   "fields": {
     "number": 519,
     "pokemon_name": "Pidove",
-    "types": [13, 8],
     "heart_point": 50,
     "attack": 55,
     "defense": 50,
@@ -9848,7 +9269,6 @@
   "fields": {
     "number": 520,
     "pokemon_name": "Tranquill",
-    "types": [13, 8],
     "heart_point": 62,
     "attack": 77,
     "defense": 62,
@@ -9865,7 +9285,6 @@
   "fields": {
     "number": 521,
     "pokemon_name": "Unfezant",
-    "types": [13, 8],
     "heart_point": 80,
     "attack": 115,
     "defense": 80,
@@ -9882,7 +9301,6 @@
   "fields": {
     "number": 522,
     "pokemon_name": "Blitzle",
-    "types": [4, ""],
     "heart_point": 45,
     "attack": 60,
     "defense": 32,
@@ -9899,7 +9317,6 @@
   "fields": {
     "number": 523,
     "pokemon_name": "Zebstrika",
-    "types": [4, ""],
     "heart_point": 75,
     "attack": 100,
     "defense": 63,
@@ -9916,7 +9333,6 @@
   "fields": {
     "number": 524,
     "pokemon_name": "Roggenrola",
-    "types": [16, ""],
     "heart_point": 55,
     "attack": 75,
     "defense": 85,
@@ -9933,7 +9349,6 @@
   "fields": {
     "number": 525,
     "pokemon_name": "Boldore",
-    "types": [16, ""],
     "heart_point": 70,
     "attack": 105,
     "defense": 105,
@@ -9950,7 +9365,6 @@
   "fields": {
     "number": 526,
     "pokemon_name": "Gigalith",
-    "types": [16, ""],
     "heart_point": 85,
     "attack": 135,
     "defense": 130,
@@ -9967,7 +9381,6 @@
   "fields": {
     "number": 527,
     "pokemon_name": "Woobat",
-    "types": [15, 8],
     "heart_point": 55,
     "attack": 45,
     "defense": 43,
@@ -9984,7 +9397,6 @@
   "fields": {
     "number": 528,
     "pokemon_name": "Swoobat",
-    "types": [15, 8],
     "heart_point": 67,
     "attack": 57,
     "defense": 55,
@@ -10001,7 +9413,6 @@
   "fields": {
     "number": 529,
     "pokemon_name": "Drilbur",
-    "types": [11, ""],
     "heart_point": 60,
     "attack": 85,
     "defense": 40,
@@ -10018,7 +9429,6 @@
   "fields": {
     "number": 530,
     "pokemon_name": "Excadrill",
-    "types": [11, 17],
     "heart_point": 110,
     "attack": 135,
     "defense": 60,
@@ -10035,7 +9445,6 @@
   "fields": {
     "number": 531,
     "pokemon_name": "Audino",
-    "types": [13, ""],
     "heart_point": 103,
     "attack": 60,
     "defense": 86,
@@ -10052,7 +9461,6 @@
   "fields": {
     "number": 531,
     "pokemon_name": "AudinoMega Audino",
-    "types": [13, 5],
     "heart_point": 103,
     "attack": 60,
     "defense": 126,
@@ -10069,7 +9477,6 @@
   "fields": {
     "number": 532,
     "pokemon_name": "Timburr",
-    "types": [6, ""],
     "heart_point": 75,
     "attack": 80,
     "defense": 55,
@@ -10086,7 +9493,6 @@
   "fields": {
     "number": 533,
     "pokemon_name": "Gurdurr",
-    "types": [6, ""],
     "heart_point": 85,
     "attack": 105,
     "defense": 85,
@@ -10103,7 +9509,6 @@
   "fields": {
     "number": 534,
     "pokemon_name": "Conkeldurr",
-    "types": [6, ""],
     "heart_point": 105,
     "attack": 140,
     "defense": 95,
@@ -10120,7 +9525,6 @@
   "fields": {
     "number": 535,
     "pokemon_name": "Tympole",
-    "types": [18, ""],
     "heart_point": 50,
     "attack": 50,
     "defense": 40,
@@ -10137,7 +9541,6 @@
   "fields": {
     "number": 536,
     "pokemon_name": "Palpitoad",
-    "types": [18, 11],
     "heart_point": 75,
     "attack": 65,
     "defense": 55,
@@ -10154,7 +9557,6 @@
   "fields": {
     "number": 537,
     "pokemon_name": "Seismitoad",
-    "types": [18, 11],
     "heart_point": 105,
     "attack": 95,
     "defense": 75,
@@ -10171,7 +9573,6 @@
   "fields": {
     "number": 538,
     "pokemon_name": "Throh",
-    "types": [6, ""],
     "heart_point": 120,
     "attack": 100,
     "defense": 85,
@@ -10188,7 +9589,6 @@
   "fields": {
     "number": 539,
     "pokemon_name": "Sawk",
-    "types": [6, ""],
     "heart_point": 75,
     "attack": 125,
     "defense": 75,
@@ -10205,7 +9605,6 @@
   "fields": {
     "number": 540,
     "pokemon_name": "Sewaddle",
-    "types": [1, 10],
     "heart_point": 45,
     "attack": 53,
     "defense": 70,
@@ -10222,7 +9621,6 @@
   "fields": {
     "number": 541,
     "pokemon_name": "Swadloon",
-    "types": [1, 10],
     "heart_point": 55,
     "attack": 63,
     "defense": 90,
@@ -10239,7 +9637,6 @@
   "fields": {
     "number": 542,
     "pokemon_name": "Leavanny",
-    "types": [1, 10],
     "heart_point": 75,
     "attack": 103,
     "defense": 80,
@@ -10256,7 +9653,6 @@
   "fields": {
     "number": 543,
     "pokemon_name": "Venipede",
-    "types": [1, 14],
     "heart_point": 30,
     "attack": 45,
     "defense": 59,
@@ -10273,7 +9669,6 @@
   "fields": {
     "number": 544,
     "pokemon_name": "Whirlipede",
-    "types": [1, 14],
     "heart_point": 40,
     "attack": 55,
     "defense": 99,
@@ -10290,7 +9685,6 @@
   "fields": {
     "number": 545,
     "pokemon_name": "Scolipede",
-    "types": [1, 14],
     "heart_point": 60,
     "attack": 100,
     "defense": 89,
@@ -10307,7 +9701,6 @@
   "fields": {
     "number": 546,
     "pokemon_name": "Cottonee",
-    "types": [10, 5],
     "heart_point": 40,
     "attack": 27,
     "defense": 60,
@@ -10324,7 +9717,6 @@
   "fields": {
     "number": 547,
     "pokemon_name": "Whimsicott",
-    "types": [10, 5],
     "heart_point": 60,
     "attack": 67,
     "defense": 85,
@@ -10341,7 +9733,6 @@
   "fields": {
     "number": 548,
     "pokemon_name": "Petilil",
-    "types": [10, ""],
     "heart_point": 45,
     "attack": 35,
     "defense": 50,
@@ -10358,7 +9749,6 @@
   "fields": {
     "number": 549,
     "pokemon_name": "Lilligant",
-    "types": [10, ""],
     "heart_point": 70,
     "attack": 60,
     "defense": 75,
@@ -10375,7 +9765,6 @@
   "fields": {
     "number": 550,
     "pokemon_name": "Basculin",
-    "types": [18, ""],
     "heart_point": 70,
     "attack": 92,
     "defense": 65,
@@ -10392,7 +9781,6 @@
   "fields": {
     "number": 551,
     "pokemon_name": "Sandile",
-    "types": [11, 2],
     "heart_point": 50,
     "attack": 72,
     "defense": 35,
@@ -10409,7 +9797,6 @@
   "fields": {
     "number": 552,
     "pokemon_name": "Krokorok",
-    "types": [11, 2],
     "heart_point": 60,
     "attack": 82,
     "defense": 45,
@@ -10426,7 +9813,6 @@
   "fields": {
     "number": 553,
     "pokemon_name": "Krookodile",
-    "types": [11, 2],
     "heart_point": 95,
     "attack": 117,
     "defense": 80,
@@ -10443,7 +9829,6 @@
   "fields": {
     "number": 554,
     "pokemon_name": "Darumaka",
-    "types": [7, ""],
     "heart_point": 70,
     "attack": 90,
     "defense": 45,
@@ -10460,7 +9845,6 @@
   "fields": {
     "number": 555,
     "pokemon_name": "DarmanitanStandard Mode",
-    "types": [7, ""],
     "heart_point": 105,
     "attack": 140,
     "defense": 55,
@@ -10477,7 +9861,6 @@
   "fields": {
     "number": 555,
     "pokemon_name": "DarmanitanZen Mode",
-    "types": [7, 15],
     "heart_point": 105,
     "attack": 30,
     "defense": 105,
@@ -10494,7 +9877,6 @@
   "fields": {
     "number": 556,
     "pokemon_name": "Maractus",
-    "types": [10, ""],
     "heart_point": 75,
     "attack": 86,
     "defense": 67,
@@ -10511,7 +9893,6 @@
   "fields": {
     "number": 557,
     "pokemon_name": "Dwebble",
-    "types": [1, 16],
     "heart_point": 50,
     "attack": 65,
     "defense": 85,
@@ -10528,7 +9909,6 @@
   "fields": {
     "number": 558,
     "pokemon_name": "Crustle",
-    "types": [1, 16],
     "heart_point": 70,
     "attack": 95,
     "defense": 125,
@@ -10545,7 +9925,6 @@
   "fields": {
     "number": 559,
     "pokemon_name": "Scraggy",
-    "types": [2, 6],
     "heart_point": 50,
     "attack": 75,
     "defense": 70,
@@ -10562,7 +9941,6 @@
   "fields": {
     "number": 560,
     "pokemon_name": "Scrafty",
-    "types": [2, 6],
     "heart_point": 65,
     "attack": 90,
     "defense": 115,
@@ -10579,7 +9957,6 @@
   "fields": {
     "number": 561,
     "pokemon_name": "Sigilyph",
-    "types": [15, 8],
     "heart_point": 72,
     "attack": 58,
     "defense": 80,
@@ -10596,7 +9973,6 @@
   "fields": {
     "number": 562,
     "pokemon_name": "Yamask",
-    "types": [9, ""],
     "heart_point": 38,
     "attack": 30,
     "defense": 85,
@@ -10613,7 +9989,6 @@
   "fields": {
     "number": 563,
     "pokemon_name": "Cofagrigus",
-    "types": [9, ""],
     "heart_point": 58,
     "attack": 50,
     "defense": 145,
@@ -10630,7 +10005,6 @@
   "fields": {
     "number": 564,
     "pokemon_name": "Tirtouga",
-    "types": [18, 16],
     "heart_point": 54,
     "attack": 78,
     "defense": 103,
@@ -10647,7 +10021,6 @@
   "fields": {
     "number": 565,
     "pokemon_name": "Carracosta",
-    "types": [18, 16],
     "heart_point": 74,
     "attack": 108,
     "defense": 133,
@@ -10664,7 +10037,6 @@
   "fields": {
     "number": 566,
     "pokemon_name": "Archen",
-    "types": [16, 8],
     "heart_point": 55,
     "attack": 112,
     "defense": 45,
@@ -10681,7 +10053,6 @@
   "fields": {
     "number": 567,
     "pokemon_name": "Archeops",
-    "types": [16, 8],
     "heart_point": 75,
     "attack": 140,
     "defense": 65,
@@ -10698,7 +10069,6 @@
   "fields": {
     "number": 568,
     "pokemon_name": "Trubbish",
-    "types": [14, ""],
     "heart_point": 50,
     "attack": 50,
     "defense": 62,
@@ -10715,7 +10085,6 @@
   "fields": {
     "number": 569,
     "pokemon_name": "Garbodor",
-    "types": [14, ""],
     "heart_point": 80,
     "attack": 95,
     "defense": 82,
@@ -10732,7 +10101,6 @@
   "fields": {
     "number": 570,
     "pokemon_name": "Zorua",
-    "types": [2, ""],
     "heart_point": 40,
     "attack": 65,
     "defense": 40,
@@ -10749,7 +10117,6 @@
   "fields": {
     "number": 571,
     "pokemon_name": "Zoroark",
-    "types": [2, ""],
     "heart_point": 60,
     "attack": 105,
     "defense": 60,
@@ -10766,7 +10133,6 @@
   "fields": {
     "number": 572,
     "pokemon_name": "Minccino",
-    "types": [13, ""],
     "heart_point": 55,
     "attack": 50,
     "defense": 40,
@@ -10783,7 +10149,6 @@
   "fields": {
     "number": 573,
     "pokemon_name": "Cinccino",
-    "types": [13, ""],
     "heart_point": 75,
     "attack": 95,
     "defense": 60,
@@ -10800,7 +10165,6 @@
   "fields": {
     "number": 574,
     "pokemon_name": "Gothita",
-    "types": [15, ""],
     "heart_point": 45,
     "attack": 30,
     "defense": 50,
@@ -10817,7 +10181,6 @@
   "fields": {
     "number": 575,
     "pokemon_name": "Gothorita",
-    "types": [15, ""],
     "heart_point": 60,
     "attack": 45,
     "defense": 70,
@@ -10834,7 +10197,6 @@
   "fields": {
     "number": 576,
     "pokemon_name": "Gothitelle",
-    "types": [15, ""],
     "heart_point": 70,
     "attack": 55,
     "defense": 95,
@@ -10851,7 +10213,6 @@
   "fields": {
     "number": 577,
     "pokemon_name": "Solosis",
-    "types": [15, ""],
     "heart_point": 45,
     "attack": 30,
     "defense": 40,
@@ -10868,7 +10229,6 @@
   "fields": {
     "number": 578,
     "pokemon_name": "Duosion",
-    "types": [15, ""],
     "heart_point": 65,
     "attack": 40,
     "defense": 50,
@@ -10885,7 +10245,6 @@
   "fields": {
     "number": 579,
     "pokemon_name": "Reuniclus",
-    "types": [15, ""],
     "heart_point": 110,
     "attack": 65,
     "defense": 75,
@@ -10902,7 +10261,6 @@
   "fields": {
     "number": 580,
     "pokemon_name": "Ducklett",
-    "types": [18, 8],
     "heart_point": 62,
     "attack": 44,
     "defense": 50,
@@ -10919,7 +10277,6 @@
   "fields": {
     "number": 581,
     "pokemon_name": "Swanna",
-    "types": [18, 8],
     "heart_point": 75,
     "attack": 87,
     "defense": 63,
@@ -10936,7 +10293,6 @@
   "fields": {
     "number": 582,
     "pokemon_name": "Vanillite",
-    "types": [12, ""],
     "heart_point": 36,
     "attack": 50,
     "defense": 50,
@@ -10953,7 +10309,6 @@
   "fields": {
     "number": 583,
     "pokemon_name": "Vanillish",
-    "types": [12, ""],
     "heart_point": 51,
     "attack": 65,
     "defense": 65,
@@ -10970,7 +10325,6 @@
   "fields": {
     "number": 584,
     "pokemon_name": "Vanilluxe",
-    "types": [12, ""],
     "heart_point": 71,
     "attack": 95,
     "defense": 85,
@@ -10987,7 +10341,6 @@
   "fields": {
     "number": 585,
     "pokemon_name": "Deerling",
-    "types": [13, 10],
     "heart_point": 60,
     "attack": 60,
     "defense": 50,
@@ -11004,7 +10357,6 @@
   "fields": {
     "number": 586,
     "pokemon_name": "Sawsbuck",
-    "types": [13, 10],
     "heart_point": 80,
     "attack": 100,
     "defense": 70,
@@ -11021,7 +10373,6 @@
   "fields": {
     "number": 587,
     "pokemon_name": "Emolga",
-    "types": [4, 8],
     "heart_point": 55,
     "attack": 75,
     "defense": 60,
@@ -11038,7 +10389,6 @@
   "fields": {
     "number": 588,
     "pokemon_name": "Karrablast",
-    "types": [1, ""],
     "heart_point": 50,
     "attack": 75,
     "defense": 45,
@@ -11055,7 +10405,6 @@
   "fields": {
     "number": 589,
     "pokemon_name": "Escavalier",
-    "types": [1, 17],
     "heart_point": 70,
     "attack": 135,
     "defense": 105,
@@ -11072,7 +10421,6 @@
   "fields": {
     "number": 590,
     "pokemon_name": "Foongus",
-    "types": [10, 14],
     "heart_point": 69,
     "attack": 55,
     "defense": 45,
@@ -11089,7 +10437,6 @@
   "fields": {
     "number": 591,
     "pokemon_name": "Amoonguss",
-    "types": [10, 14],
     "heart_point": 114,
     "attack": 85,
     "defense": 70,
@@ -11106,7 +10453,6 @@
   "fields": {
     "number": 592,
     "pokemon_name": "Frillish",
-    "types": [18, 9],
     "heart_point": 55,
     "attack": 40,
     "defense": 50,
@@ -11123,7 +10469,6 @@
   "fields": {
     "number": 593,
     "pokemon_name": "Jellicent",
-    "types": [18, 9],
     "heart_point": 100,
     "attack": 60,
     "defense": 70,
@@ -11140,7 +10485,6 @@
   "fields": {
     "number": 594,
     "pokemon_name": "Alomomola",
-    "types": [18, ""],
     "heart_point": 165,
     "attack": 75,
     "defense": 80,
@@ -11157,7 +10501,6 @@
   "fields": {
     "number": 595,
     "pokemon_name": "Joltik",
-    "types": [1, 4],
     "heart_point": 50,
     "attack": 47,
     "defense": 50,
@@ -11174,7 +10517,6 @@
   "fields": {
     "number": 596,
     "pokemon_name": "Galvantula",
-    "types": [1, 4],
     "heart_point": 70,
     "attack": 77,
     "defense": 60,
@@ -11191,7 +10533,6 @@
   "fields": {
     "number": 597,
     "pokemon_name": "Ferroseed",
-    "types": [10, 17],
     "heart_point": 44,
     "attack": 50,
     "defense": 91,
@@ -11208,7 +10549,6 @@
   "fields": {
     "number": 598,
     "pokemon_name": "Ferrothorn",
-    "types": [10, 17],
     "heart_point": 74,
     "attack": 94,
     "defense": 131,
@@ -11225,7 +10565,6 @@
   "fields": {
     "number": 599,
     "pokemon_name": "Klink",
-    "types": [17, ""],
     "heart_point": 40,
     "attack": 55,
     "defense": 70,
@@ -11242,7 +10581,6 @@
   "fields": {
     "number": 600,
     "pokemon_name": "Klang",
-    "types": [17, ""],
     "heart_point": 60,
     "attack": 80,
     "defense": 95,
@@ -11259,7 +10597,6 @@
   "fields": {
     "number": 601,
     "pokemon_name": "Klinklang",
-    "types": [17, ""],
     "heart_point": 60,
     "attack": 100,
     "defense": 115,
@@ -11276,7 +10613,6 @@
   "fields": {
     "number": 602,
     "pokemon_name": "Tynamo",
-    "types": [4, ""],
     "heart_point": 35,
     "attack": 55,
     "defense": 40,
@@ -11293,7 +10629,6 @@
   "fields": {
     "number": 603,
     "pokemon_name": "Eelektrik",
-    "types": [4, ""],
     "heart_point": 65,
     "attack": 85,
     "defense": 70,
@@ -11310,7 +10645,6 @@
   "fields": {
     "number": 604,
     "pokemon_name": "Eelektross",
-    "types": [4, ""],
     "heart_point": 85,
     "attack": 115,
     "defense": 80,
@@ -11327,7 +10661,6 @@
   "fields": {
     "number": 605,
     "pokemon_name": "Elgyem",
-    "types": [15, ""],
     "heart_point": 55,
     "attack": 55,
     "defense": 55,
@@ -11344,7 +10677,6 @@
   "fields": {
     "number": 606,
     "pokemon_name": "Beheeyem",
-    "types": [15, ""],
     "heart_point": 75,
     "attack": 75,
     "defense": 75,
@@ -11361,7 +10693,6 @@
   "fields": {
     "number": 607,
     "pokemon_name": "Litwick",
-    "types": [9, 7],
     "heart_point": 50,
     "attack": 30,
     "defense": 55,
@@ -11378,7 +10709,6 @@
   "fields": {
     "number": 608,
     "pokemon_name": "Lampent",
-    "types": [9, 7],
     "heart_point": 60,
     "attack": 40,
     "defense": 60,
@@ -11395,7 +10725,6 @@
   "fields": {
     "number": 609,
     "pokemon_name": "Chandelure",
-    "types": [9, 7],
     "heart_point": 60,
     "attack": 55,
     "defense": 90,
@@ -11412,7 +10741,6 @@
   "fields": {
     "number": 610,
     "pokemon_name": "Axew",
-    "types": [3, ""],
     "heart_point": 46,
     "attack": 87,
     "defense": 60,
@@ -11429,7 +10757,6 @@
   "fields": {
     "number": 611,
     "pokemon_name": "Fraxure",
-    "types": [3, ""],
     "heart_point": 66,
     "attack": 117,
     "defense": 70,
@@ -11446,7 +10773,6 @@
   "fields": {
     "number": 612,
     "pokemon_name": "Haxorus",
-    "types": [3, ""],
     "heart_point": 76,
     "attack": 147,
     "defense": 90,
@@ -11463,7 +10789,6 @@
   "fields": {
     "number": 613,
     "pokemon_name": "Cubchoo",
-    "types": [12, ""],
     "heart_point": 55,
     "attack": 70,
     "defense": 40,
@@ -11480,7 +10805,6 @@
   "fields": {
     "number": 614,
     "pokemon_name": "Beartic",
-    "types": [12, ""],
     "heart_point": 95,
     "attack": 110,
     "defense": 80,
@@ -11497,7 +10821,6 @@
   "fields": {
     "number": 615,
     "pokemon_name": "Cryogonal",
-    "types": [12, ""],
     "heart_point": 70,
     "attack": 50,
     "defense": 30,
@@ -11514,7 +10837,6 @@
   "fields": {
     "number": 616,
     "pokemon_name": "Shelmet",
-    "types": [1, ""],
     "heart_point": 50,
     "attack": 40,
     "defense": 85,
@@ -11531,7 +10853,6 @@
   "fields": {
     "number": 617,
     "pokemon_name": "Accelgor",
-    "types": [1, ""],
     "heart_point": 80,
     "attack": 70,
     "defense": 40,
@@ -11548,7 +10869,6 @@
   "fields": {
     "number": 618,
     "pokemon_name": "Stunfisk",
-    "types": [11, 4],
     "heart_point": 109,
     "attack": 66,
     "defense": 84,
@@ -11565,7 +10885,6 @@
   "fields": {
     "number": 619,
     "pokemon_name": "Mienfoo",
-    "types": [6, ""],
     "heart_point": 45,
     "attack": 85,
     "defense": 50,
@@ -11582,7 +10901,6 @@
   "fields": {
     "number": 620,
     "pokemon_name": "Mienshao",
-    "types": [6, ""],
     "heart_point": 65,
     "attack": 125,
     "defense": 60,
@@ -11599,7 +10917,6 @@
   "fields": {
     "number": 621,
     "pokemon_name": "Druddigon",
-    "types": [3, ""],
     "heart_point": 77,
     "attack": 120,
     "defense": 90,
@@ -11616,7 +10933,6 @@
   "fields": {
     "number": 622,
     "pokemon_name": "Golett",
-    "types": [11, 9],
     "heart_point": 59,
     "attack": 74,
     "defense": 50,
@@ -11633,7 +10949,6 @@
   "fields": {
     "number": 623,
     "pokemon_name": "Golurk",
-    "types": [11, 9],
     "heart_point": 89,
     "attack": 124,
     "defense": 80,
@@ -11650,7 +10965,6 @@
   "fields": {
     "number": 624,
     "pokemon_name": "Pawniard",
-    "types": [2, 17],
     "heart_point": 45,
     "attack": 85,
     "defense": 70,
@@ -11667,7 +10981,6 @@
   "fields": {
     "number": 625,
     "pokemon_name": "Bisharp",
-    "types": [2, 17],
     "heart_point": 65,
     "attack": 125,
     "defense": 100,
@@ -11684,7 +10997,6 @@
   "fields": {
     "number": 626,
     "pokemon_name": "Bouffalant",
-    "types": [13, ""],
     "heart_point": 95,
     "attack": 110,
     "defense": 95,
@@ -11701,7 +11013,6 @@
   "fields": {
     "number": 627,
     "pokemon_name": "Rufflet",
-    "types": [13, 8],
     "heart_point": 70,
     "attack": 83,
     "defense": 50,
@@ -11718,7 +11029,6 @@
   "fields": {
     "number": 628,
     "pokemon_name": "Braviary",
-    "types": [13, 8],
     "heart_point": 100,
     "attack": 123,
     "defense": 75,
@@ -11735,7 +11045,6 @@
   "fields": {
     "number": 629,
     "pokemon_name": "Vullaby",
-    "types": [2, 8],
     "heart_point": 70,
     "attack": 55,
     "defense": 75,
@@ -11752,7 +11061,6 @@
   "fields": {
     "number": 630,
     "pokemon_name": "Mandibuzz",
-    "types": [2, 8],
     "heart_point": 110,
     "attack": 65,
     "defense": 105,
@@ -11769,7 +11077,6 @@
   "fields": {
     "number": 631,
     "pokemon_name": "Heatmor",
-    "types": [7, ""],
     "heart_point": 85,
     "attack": 97,
     "defense": 66,
@@ -11786,7 +11093,6 @@
   "fields": {
     "number": 632,
     "pokemon_name": "Durant",
-    "types": [1, 17],
     "heart_point": 58,
     "attack": 109,
     "defense": 112,
@@ -11803,7 +11109,6 @@
   "fields": {
     "number": 633,
     "pokemon_name": "Deino",
-    "types": [2, 3],
     "heart_point": 52,
     "attack": 65,
     "defense": 50,
@@ -11820,7 +11125,6 @@
   "fields": {
     "number": 634,
     "pokemon_name": "Zweilous",
-    "types": [2, 3],
     "heart_point": 72,
     "attack": 85,
     "defense": 70,
@@ -11837,7 +11141,6 @@
   "fields": {
     "number": 635,
     "pokemon_name": "Hydreigon",
-    "types": [2, 3],
     "heart_point": 92,
     "attack": 105,
     "defense": 90,
@@ -11854,7 +11157,6 @@
   "fields": {
     "number": 636,
     "pokemon_name": "Larvesta",
-    "types": [1, 7],
     "heart_point": 55,
     "attack": 85,
     "defense": 55,
@@ -11871,7 +11173,6 @@
   "fields": {
     "number": 637,
     "pokemon_name": "Volcarona",
-    "types": [1, 7],
     "heart_point": 85,
     "attack": 60,
     "defense": 65,
@@ -11888,7 +11189,6 @@
   "fields": {
     "number": 638,
     "pokemon_name": "Cobalion",
-    "types": [17, 6],
     "heart_point": 91,
     "attack": 90,
     "defense": 129,
@@ -11905,7 +11205,6 @@
   "fields": {
     "number": 639,
     "pokemon_name": "Terrakion",
-    "types": [16, 6],
     "heart_point": 91,
     "attack": 129,
     "defense": 90,
@@ -11922,7 +11221,6 @@
   "fields": {
     "number": 640,
     "pokemon_name": "Virizion",
-    "types": [10, 6],
     "heart_point": 91,
     "attack": 90,
     "defense": 72,
@@ -11939,7 +11237,6 @@
   "fields": {
     "number": 641,
     "pokemon_name": "TornadusIncarnate Forme",
-    "types": [8, ""],
     "heart_point": 79,
     "attack": 115,
     "defense": 70,
@@ -11956,7 +11253,6 @@
   "fields": {
     "number": 641,
     "pokemon_name": "TornadusTherian Forme",
-    "types": [8, ""],
     "heart_point": 79,
     "attack": 100,
     "defense": 80,
@@ -11973,7 +11269,6 @@
   "fields": {
     "number": 642,
     "pokemon_name": "ThundurusIncarnate Forme",
-    "types": [4, 8],
     "heart_point": 79,
     "attack": 115,
     "defense": 70,
@@ -11990,7 +11285,6 @@
   "fields": {
     "number": 642,
     "pokemon_name": "ThundurusTherian Forme",
-    "types": [4, 8],
     "heart_point": 79,
     "attack": 105,
     "defense": 70,
@@ -12007,7 +11301,6 @@
   "fields": {
     "number": 643,
     "pokemon_name": "Reshiram",
-    "types": [3, 7],
     "heart_point": 100,
     "attack": 120,
     "defense": 100,
@@ -12024,7 +11317,6 @@
   "fields": {
     "number": 644,
     "pokemon_name": "Zekrom",
-    "types": [3, 4],
     "heart_point": 100,
     "attack": 150,
     "defense": 120,
@@ -12041,7 +11333,6 @@
   "fields": {
     "number": 645,
     "pokemon_name": "LandorusIncarnate Forme",
-    "types": [11, 8],
     "heart_point": 89,
     "attack": 125,
     "defense": 90,
@@ -12058,7 +11349,6 @@
   "fields": {
     "number": 645,
     "pokemon_name": "LandorusTherian Forme",
-    "types": [11, 8],
     "heart_point": 89,
     "attack": 145,
     "defense": 90,
@@ -12075,7 +11365,6 @@
   "fields": {
     "number": 646,
     "pokemon_name": "Kyurem",
-    "types": [3, 12],
     "heart_point": 125,
     "attack": 130,
     "defense": 90,
@@ -12092,7 +11381,6 @@
   "fields": {
     "number": 646,
     "pokemon_name": "KyuremBlack Kyurem",
-    "types": [3, 12],
     "heart_point": 125,
     "attack": 170,
     "defense": 100,
@@ -12109,7 +11397,6 @@
   "fields": {
     "number": 646,
     "pokemon_name": "KyuremWhite Kyurem",
-    "types": [3, 12],
     "heart_point": 125,
     "attack": 120,
     "defense": 90,
@@ -12126,7 +11413,6 @@
   "fields": {
     "number": 647,
     "pokemon_name": "KeldeoOrdinary Forme",
-    "types": [18, 6],
     "heart_point": 91,
     "attack": 72,
     "defense": 90,
@@ -12143,7 +11429,6 @@
   "fields": {
     "number": 647,
     "pokemon_name": "KeldeoResolute Forme",
-    "types": [18, 6],
     "heart_point": 91,
     "attack": 72,
     "defense": 90,
@@ -12160,7 +11445,6 @@
   "fields": {
     "number": 648,
     "pokemon_name": "MeloettaAria Forme",
-    "types": [13, 15],
     "heart_point": 100,
     "attack": 77,
     "defense": 77,
@@ -12177,7 +11461,6 @@
   "fields": {
     "number": 648,
     "pokemon_name": "MeloettaPirouette Forme",
-    "types": [13, 6],
     "heart_point": 100,
     "attack": 128,
     "defense": 90,
@@ -12194,7 +11477,6 @@
   "fields": {
     "number": 649,
     "pokemon_name": "Genesect",
-    "types": [1, 17],
     "heart_point": 71,
     "attack": 120,
     "defense": 95,
@@ -12211,7 +11493,6 @@
   "fields": {
     "number": 650,
     "pokemon_name": "Chespin",
-    "types": [10, ""],
     "heart_point": 56,
     "attack": 61,
     "defense": 65,
@@ -12228,7 +11509,6 @@
   "fields": {
     "number": 651,
     "pokemon_name": "Quilladin",
-    "types": [10, ""],
     "heart_point": 61,
     "attack": 78,
     "defense": 95,
@@ -12245,7 +11525,6 @@
   "fields": {
     "number": 652,
     "pokemon_name": "Chesnaught",
-    "types": [10, 6],
     "heart_point": 88,
     "attack": 107,
     "defense": 122,
@@ -12262,7 +11541,6 @@
   "fields": {
     "number": 653,
     "pokemon_name": "Fennekin",
-    "types": [7, ""],
     "heart_point": 40,
     "attack": 45,
     "defense": 40,
@@ -12279,7 +11557,6 @@
   "fields": {
     "number": 654,
     "pokemon_name": "Braixen",
-    "types": [7, ""],
     "heart_point": 59,
     "attack": 59,
     "defense": 58,
@@ -12296,7 +11573,6 @@
   "fields": {
     "number": 655,
     "pokemon_name": "Delphox",
-    "types": [7, 15],
     "heart_point": 75,
     "attack": 69,
     "defense": 72,
@@ -12313,7 +11589,6 @@
   "fields": {
     "number": 656,
     "pokemon_name": "Froakie",
-    "types": [18, ""],
     "heart_point": 41,
     "attack": 56,
     "defense": 40,
@@ -12330,7 +11605,6 @@
   "fields": {
     "number": 657,
     "pokemon_name": "Frogadier",
-    "types": [18, ""],
     "heart_point": 54,
     "attack": 63,
     "defense": 52,
@@ -12347,7 +11621,6 @@
   "fields": {
     "number": 658,
     "pokemon_name": "Greninja",
-    "types": [18, 2],
     "heart_point": 72,
     "attack": 95,
     "defense": 67,
@@ -12364,7 +11637,6 @@
   "fields": {
     "number": 659,
     "pokemon_name": "Bunnelby",
-    "types": [13, ""],
     "heart_point": 38,
     "attack": 36,
     "defense": 38,
@@ -12381,7 +11653,6 @@
   "fields": {
     "number": 660,
     "pokemon_name": "Diggersby",
-    "types": [13, 11],
     "heart_point": 85,
     "attack": 56,
     "defense": 77,
@@ -12398,7 +11669,6 @@
   "fields": {
     "number": 661,
     "pokemon_name": "Fletchling",
-    "types": [13, 8],
     "heart_point": 45,
     "attack": 50,
     "defense": 43,
@@ -12415,7 +11685,6 @@
   "fields": {
     "number": 662,
     "pokemon_name": "Fletchinder",
-    "types": [7, 8],
     "heart_point": 62,
     "attack": 73,
     "defense": 55,
@@ -12432,7 +11701,6 @@
   "fields": {
     "number": 663,
     "pokemon_name": "Talonflame",
-    "types": [7, 8],
     "heart_point": 78,
     "attack": 81,
     "defense": 71,
@@ -12449,7 +11717,6 @@
   "fields": {
     "number": 664,
     "pokemon_name": "Scatterbug",
-    "types": [1, ""],
     "heart_point": 38,
     "attack": 35,
     "defense": 40,
@@ -12466,7 +11733,6 @@
   "fields": {
     "number": 665,
     "pokemon_name": "Spewpa",
-    "types": [1, ""],
     "heart_point": 45,
     "attack": 22,
     "defense": 60,
@@ -12483,7 +11749,6 @@
   "fields": {
     "number": 666,
     "pokemon_name": "Vivillon",
-    "types": [1, 8],
     "heart_point": 80,
     "attack": 52,
     "defense": 50,
@@ -12500,7 +11765,6 @@
   "fields": {
     "number": 667,
     "pokemon_name": "Litleo",
-    "types": [7, 13],
     "heart_point": 62,
     "attack": 50,
     "defense": 58,
@@ -12517,7 +11781,6 @@
   "fields": {
     "number": 668,
     "pokemon_name": "Pyroar",
-    "types": [7, 13],
     "heart_point": 86,
     "attack": 68,
     "defense": 72,
@@ -12534,7 +11797,6 @@
   "fields": {
     "number": 669,
     "pokemon_name": "Flabébé",
-    "types": [5, ""],
     "heart_point": 44,
     "attack": 38,
     "defense": 39,
@@ -12551,7 +11813,6 @@
   "fields": {
     "number": 670,
     "pokemon_name": "Floette",
-    "types": [5, ""],
     "heart_point": 54,
     "attack": 45,
     "defense": 47,
@@ -12568,7 +11829,6 @@
   "fields": {
     "number": 671,
     "pokemon_name": "Florges",
-    "types": [5, ""],
     "heart_point": 78,
     "attack": 65,
     "defense": 68,
@@ -12585,7 +11845,6 @@
   "fields": {
     "number": 672,
     "pokemon_name": "Skiddo",
-    "types": [10, ""],
     "heart_point": 66,
     "attack": 65,
     "defense": 48,
@@ -12602,7 +11861,6 @@
   "fields": {
     "number": 673,
     "pokemon_name": "Gogoat",
-    "types": [10, ""],
     "heart_point": 123,
     "attack": 100,
     "defense": 62,
@@ -12619,7 +11877,6 @@
   "fields": {
     "number": 674,
     "pokemon_name": "Pancham",
-    "types": [6, ""],
     "heart_point": 67,
     "attack": 82,
     "defense": 62,
@@ -12636,7 +11893,6 @@
   "fields": {
     "number": 675,
     "pokemon_name": "Pangoro",
-    "types": [6, 2],
     "heart_point": 95,
     "attack": 124,
     "defense": 78,
@@ -12653,7 +11909,6 @@
   "fields": {
     "number": 676,
     "pokemon_name": "Furfrou",
-    "types": [13, ""],
     "heart_point": 75,
     "attack": 80,
     "defense": 60,
@@ -12670,7 +11925,6 @@
   "fields": {
     "number": 677,
     "pokemon_name": "Espurr",
-    "types": [15, ""],
     "heart_point": 62,
     "attack": 48,
     "defense": 54,
@@ -12687,7 +11941,6 @@
   "fields": {
     "number": 678,
     "pokemon_name": "MeowsticMale",
-    "types": [15, ""],
     "heart_point": 74,
     "attack": 48,
     "defense": 76,
@@ -12704,7 +11957,6 @@
   "fields": {
     "number": 678,
     "pokemon_name": "MeowsticFemale",
-    "types": [15, ""],
     "heart_point": 74,
     "attack": 48,
     "defense": 76,
@@ -12721,7 +11973,6 @@
   "fields": {
     "number": 679,
     "pokemon_name": "Honedge",
-    "types": [17, 9],
     "heart_point": 45,
     "attack": 80,
     "defense": 100,
@@ -12738,7 +11989,6 @@
   "fields": {
     "number": 680,
     "pokemon_name": "Doublade",
-    "types": [17, 9],
     "heart_point": 59,
     "attack": 110,
     "defense": 150,
@@ -12755,7 +12005,6 @@
   "fields": {
     "number": 681,
     "pokemon_name": "AegislashBlade Forme",
-    "types": [17, 9],
     "heart_point": 60,
     "attack": 150,
     "defense": 50,
@@ -12772,7 +12021,6 @@
   "fields": {
     "number": 681,
     "pokemon_name": "AegislashShield Forme",
-    "types": [17, 9],
     "heart_point": 60,
     "attack": 50,
     "defense": 150,
@@ -12789,7 +12037,6 @@
   "fields": {
     "number": 682,
     "pokemon_name": "Spritzee",
-    "types": [5, ""],
     "heart_point": 78,
     "attack": 52,
     "defense": 60,
@@ -12806,7 +12053,6 @@
   "fields": {
     "number": 683,
     "pokemon_name": "Aromatisse",
-    "types": [5, ""],
     "heart_point": 101,
     "attack": 72,
     "defense": 72,
@@ -12823,7 +12069,6 @@
   "fields": {
     "number": 684,
     "pokemon_name": "Swirlix",
-    "types": [5, ""],
     "heart_point": 62,
     "attack": 48,
     "defense": 66,
@@ -12840,7 +12085,6 @@
   "fields": {
     "number": 685,
     "pokemon_name": "Slurpuff",
-    "types": [5, ""],
     "heart_point": 82,
     "attack": 80,
     "defense": 86,
@@ -12857,7 +12101,6 @@
   "fields": {
     "number": 686,
     "pokemon_name": "Inkay",
-    "types": [2, 15],
     "heart_point": 53,
     "attack": 54,
     "defense": 53,
@@ -12874,7 +12117,6 @@
   "fields": {
     "number": 687,
     "pokemon_name": "Malamar",
-    "types": [2, 15],
     "heart_point": 86,
     "attack": 92,
     "defense": 88,
@@ -12891,7 +12133,6 @@
   "fields": {
     "number": 688,
     "pokemon_name": "Binacle",
-    "types": [16, 18],
     "heart_point": 42,
     "attack": 52,
     "defense": 67,
@@ -12908,7 +12149,6 @@
   "fields": {
     "number": 689,
     "pokemon_name": "Barbaracle",
-    "types": [16, 18],
     "heart_point": 72,
     "attack": 105,
     "defense": 115,
@@ -12925,7 +12165,6 @@
   "fields": {
     "number": 690,
     "pokemon_name": "Skrelp",
-    "types": [14, 18],
     "heart_point": 50,
     "attack": 60,
     "defense": 60,
@@ -12942,7 +12181,6 @@
   "fields": {
     "number": 691,
     "pokemon_name": "Dragalge",
-    "types": [14, 3],
     "heart_point": 65,
     "attack": 75,
     "defense": 90,
@@ -12959,7 +12197,6 @@
   "fields": {
     "number": 692,
     "pokemon_name": "Clauncher",
-    "types": [18, ""],
     "heart_point": 50,
     "attack": 53,
     "defense": 62,
@@ -12976,7 +12213,6 @@
   "fields": {
     "number": 693,
     "pokemon_name": "Clawitzer",
-    "types": [18, ""],
     "heart_point": 71,
     "attack": 73,
     "defense": 88,
@@ -12993,7 +12229,6 @@
   "fields": {
     "number": 694,
     "pokemon_name": "Helioptile",
-    "types": [4, 13],
     "heart_point": 44,
     "attack": 38,
     "defense": 33,
@@ -13010,7 +12245,6 @@
   "fields": {
     "number": 695,
     "pokemon_name": "Heliolisk",
-    "types": [4, 13],
     "heart_point": 62,
     "attack": 55,
     "defense": 52,
@@ -13027,7 +12261,6 @@
   "fields": {
     "number": 696,
     "pokemon_name": "Tyrunt",
-    "types": [16, 3],
     "heart_point": 58,
     "attack": 89,
     "defense": 77,
@@ -13044,7 +12277,6 @@
   "fields": {
     "number": 697,
     "pokemon_name": "Tyrantrum",
-    "types": [16, 3],
     "heart_point": 82,
     "attack": 121,
     "defense": 119,
@@ -13061,7 +12293,6 @@
   "fields": {
     "number": 698,
     "pokemon_name": "Amaura",
-    "types": [16, 12],
     "heart_point": 77,
     "attack": 59,
     "defense": 50,
@@ -13078,7 +12309,6 @@
   "fields": {
     "number": 699,
     "pokemon_name": "Aurorus",
-    "types": [16, 12],
     "heart_point": 123,
     "attack": 77,
     "defense": 72,
@@ -13095,7 +12325,6 @@
   "fields": {
     "number": 700,
     "pokemon_name": "Sylveon",
-    "types": [5, ""],
     "heart_point": 95,
     "attack": 65,
     "defense": 65,
@@ -13112,7 +12341,6 @@
   "fields": {
     "number": 701,
     "pokemon_name": "Hawlucha",
-    "types": [6, 8],
     "heart_point": 78,
     "attack": 92,
     "defense": 75,
@@ -13129,7 +12357,6 @@
   "fields": {
     "number": 702,
     "pokemon_name": "Dedenne",
-    "types": [4, 5],
     "heart_point": 67,
     "attack": 58,
     "defense": 57,
@@ -13146,7 +12373,6 @@
   "fields": {
     "number": 703,
     "pokemon_name": "Carbink",
-    "types": [16, 5],
     "heart_point": 50,
     "attack": 50,
     "defense": 150,
@@ -13163,7 +12389,6 @@
   "fields": {
     "number": 704,
     "pokemon_name": "Goomy",
-    "types": [3, ""],
     "heart_point": 45,
     "attack": 50,
     "defense": 35,
@@ -13180,7 +12405,6 @@
   "fields": {
     "number": 705,
     "pokemon_name": "Sliggoo",
-    "types": [3, ""],
     "heart_point": 68,
     "attack": 75,
     "defense": 53,
@@ -13197,7 +12421,6 @@
   "fields": {
     "number": 706,
     "pokemon_name": "Goodra",
-    "types": [3, ""],
     "heart_point": 90,
     "attack": 100,
     "defense": 70,
@@ -13214,7 +12437,6 @@
   "fields": {
     "number": 707,
     "pokemon_name": "Klefki",
-    "types": [17, 5],
     "heart_point": 57,
     "attack": 80,
     "defense": 91,
@@ -13231,7 +12453,6 @@
   "fields": {
     "number": 708,
     "pokemon_name": "Phantump",
-    "types": [9, 10],
     "heart_point": 43,
     "attack": 70,
     "defense": 48,
@@ -13248,7 +12469,6 @@
   "fields": {
     "number": 709,
     "pokemon_name": "Trevenant",
-    "types": [9, 10],
     "heart_point": 85,
     "attack": 110,
     "defense": 76,
@@ -13265,7 +12485,6 @@
   "fields": {
     "number": 710,
     "pokemon_name": "PumpkabooAverage Size",
-    "types": [9, 10],
     "heart_point": 49,
     "attack": 66,
     "defense": 70,
@@ -13282,7 +12501,6 @@
   "fields": {
     "number": 710,
     "pokemon_name": "PumpkabooSmall Size",
-    "types": [9, 10],
     "heart_point": 44,
     "attack": 66,
     "defense": 70,
@@ -13299,7 +12517,6 @@
   "fields": {
     "number": 710,
     "pokemon_name": "PumpkabooLarge Size",
-    "types": [9, 10],
     "heart_point": 54,
     "attack": 66,
     "defense": 70,
@@ -13316,7 +12533,6 @@
   "fields": {
     "number": 710,
     "pokemon_name": "PumpkabooSuper Size",
-    "types": [9, 10],
     "heart_point": 59,
     "attack": 66,
     "defense": 70,
@@ -13333,7 +12549,6 @@
   "fields": {
     "number": 711,
     "pokemon_name": "GourgeistAverage Size",
-    "types": [9, 10],
     "heart_point": 65,
     "attack": 90,
     "defense": 122,
@@ -13350,7 +12565,6 @@
   "fields": {
     "number": 711,
     "pokemon_name": "GourgeistSmall Size",
-    "types": [9, 10],
     "heart_point": 55,
     "attack": 85,
     "defense": 122,
@@ -13367,7 +12581,6 @@
   "fields": {
     "number": 711,
     "pokemon_name": "GourgeistLarge Size",
-    "types": [9, 10],
     "heart_point": 75,
     "attack": 95,
     "defense": 122,
@@ -13384,7 +12597,6 @@
   "fields": {
     "number": 711,
     "pokemon_name": "GourgeistSuper Size",
-    "types": [9, 10],
     "heart_point": 85,
     "attack": 100,
     "defense": 122,
@@ -13401,7 +12613,6 @@
   "fields": {
     "number": 712,
     "pokemon_name": "Bergmite",
-    "types": [12, ""],
     "heart_point": 55,
     "attack": 69,
     "defense": 85,
@@ -13418,7 +12629,6 @@
   "fields": {
     "number": 713,
     "pokemon_name": "Avalugg",
-    "types": [12, ""],
     "heart_point": 95,
     "attack": 117,
     "defense": 184,
@@ -13435,7 +12645,6 @@
   "fields": {
     "number": 714,
     "pokemon_name": "Noibat",
-    "types": [8, 3],
     "heart_point": 40,
     "attack": 30,
     "defense": 35,
@@ -13452,7 +12661,6 @@
   "fields": {
     "number": 715,
     "pokemon_name": "Noivern",
-    "types": [8, 3],
     "heart_point": 85,
     "attack": 70,
     "defense": 80,
@@ -13469,7 +12677,6 @@
   "fields": {
     "number": 716,
     "pokemon_name": "Xerneas",
-    "types": [5, ""],
     "heart_point": 126,
     "attack": 131,
     "defense": 95,
@@ -13486,7 +12693,6 @@
   "fields": {
     "number": 717,
     "pokemon_name": "Yveltal",
-    "types": [2, 8],
     "heart_point": 126,
     "attack": 131,
     "defense": 95,
@@ -13503,7 +12709,6 @@
   "fields": {
     "number": 718,
     "pokemon_name": "Zygarde50% Forme",
-    "types": [3, 11],
     "heart_point": 108,
     "attack": 100,
     "defense": 121,
@@ -13520,7 +12725,6 @@
   "fields": {
     "number": 719,
     "pokemon_name": "Diancie",
-    "types": [16, 5],
     "heart_point": 50,
     "attack": 100,
     "defense": 150,
@@ -13537,7 +12741,6 @@
   "fields": {
     "number": 719,
     "pokemon_name": "DiancieMega Diancie",
-    "types": [16, 5],
     "heart_point": 50,
     "attack": 160,
     "defense": 110,
@@ -13554,7 +12757,6 @@
   "fields": {
     "number": 720,
     "pokemon_name": "HoopaHoopa Confined",
-    "types": [15, 9],
     "heart_point": 80,
     "attack": 110,
     "defense": 60,
@@ -13571,7 +12773,6 @@
   "fields": {
     "number": 720,
     "pokemon_name": "HoopaHoopa Unbound",
-    "types": [15, 2],
     "heart_point": 80,
     "attack": 160,
     "defense": 60,
@@ -13588,7 +12789,6 @@
   "fields": {
     "number": 721,
     "pokemon_name": "Volcanion",
-    "types": [7, 18],
     "heart_point": 80,
     "attack": 110,
     "defense": 120,
